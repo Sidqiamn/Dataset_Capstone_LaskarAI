@@ -1,0 +1,474 @@
+Saya merasa hampa setelah kehilangan pekerjaan impian saya;sadness
+Jantungan saya berdetak kencang setiap kali harus berbicara di depan umum;fear
+Saya merasa tidak berdaya melihat orang tua saya sakit;sadness
+Saya takut menghadapi masa depan yang begitu tidak pasti;fear
+Saya kehilangan semangat setelah gagal dalam ujian penting;sadness
+Saya cemas memikirkan presentasi besok di kantor;fear
+Hati saya hancur melihat keluarga saya bertengkar;sadness
+Saya takut kehilangan orang yang saya sayangi karena kesalahan saya;fear
+Saya merasa sendirian di tengah keramaian;sadness
+Saya gelisah memikirkan tagihan yang terus menumpuk;fear
+Saya sedih karena tidak bisa memenuhi harapan keluarga saya;sadness
+Saya takut gagal dalam proyek besar yang sedang saya kerjakan;fear
+Saya merasa kosong setelah putus dengan pasangan saya;sadness
+Saya cemas menunggu hasil tes kesehatan saya;fear
+Saya merasa terpuruk karena teman dekat mengkhianati saya;sadness
+Saya takut terjebak dalam rutinitas yang membingungkan ini;fear
+Saya sedih melihat kenangan lama bersama sahabat yang pergi;sadness
+Saya gelisah karena tidak tahu apa yang harus dilakukan selanjutnya;fear
+Saya merasa kehilangan arah setelah kegagalan berulang;sadness
+Saya takut tidak bisa memenuhi tenggat waktu pekerjaan saya;fear
+Saya merasa sedih karena tidak ada yang memahami perasaan saya;sadness
+Saya cemas setiap kali harus mengambil keputusan besar;fear
+Saya merasa hancur ketika tahu usaha saya sia-sia;sadness
+Saya takut menghadapi penilaian orang lain tentang saya;fear
+Saya merasa kesepian meskipun dikelilingi banyak orang;sadness
+Saya gelisah memikirkan apa yang orang pikirkan tentang saya;fear
+Saya sedih karena kehilangan momen berharga bersama keluarga;sadness
+Saya takut jika saya tidak cukup baik untuk pekerjaan ini;fear
+Saya merasa tertekan karena tekanan dari atasan saya;sadness
+Saya cemas memikirkan bagaimana membayar utang saya;fear
+Saya merasa putus asa setelah gagal berkali-kali;sadness
+Saya takut kehilangan kendali atas hidup saya sendiri;fear
+Saya sedih karena tidak bisa membuat orang tua saya bangga;sadness
+Saya gelisah menunggu kabar dari rumah sakit;fear
+Saya merasa kosong tanpa kehadiran orang yang saya sayangi;sadness
+Saya takut jika saya tidak bisa mencapai tujuan saya;fear
+Saya merasa sedih melihat hubungan saya memburuk;sadness
+Saya cemas karena tidak tahu bagaimana menghadapi masalah ini;fear
+Saya merasa terluka karena kata-kata kasar dari teman;sadness
+Saya takut jika saya membuat keputusan yang salah lagi;fear
+Saya merasa hampa setelah kehilangan sesuatu yang berarti;sadness
+Saya gelisah memikirkan apakah saya bisa sukses atau tidak;fear
+Saya sedih karena merasa tidak dihargai oleh orang lain;sadness
+Saya takut jika saya tidak bisa melindungi keluarga saya;fear
+Saya merasa terpuruk karena kehilangan kepercayaan diri;sadness
+Saya cemas memikirkan ujian yang akan datang;fear
+Saya merasa kesepian karena tidak ada yang peduli;sadness
+Saya takut jika saya tidak bisa mengatasi tekanan ini;fear
+Saya sedih karena merasa tidak memiliki tujuan hidup;sadness
+Saya gelisah karena tidak tahu apa yang akan terjadi besok;fear
+Saya merasa hancur setelah kehilangan orang yang saya cintai;sadness
+Saya takut jika saya gagal memenuhi ekspektasi orang lain;fear
+Saya merasa sedih karena tidak bisa kembali ke masa lalu;sadness
+Saya cemas setiap kali harus menghadapi situasi baru;fear
+Saya merasa tertekan karena beban tanggung jawab yang besar;sadness
+Saya takut jika saya tidak bisa mengubah nasib saya;fear
+Saya merasa kosong setelah semua usaha saya gagal;sadness
+Saya gelisah memikirkan bagaimana menghadapi konflik ini;fear
+Saya sedih karena merasa tidak diterima oleh lingkungan saya;sadness
+Saya takut jika saya tidak bisa bangkit dari kegagalan ini;fear
+Saya merasa hampa karena kehilangan motivasi hidup;sadness
+Saya cemas memikirkan apakah saya cukup kuat untuk ini;fear
+Saya merasa sedih karena kehilangan kepercayaan dari teman;sadness
+Saya takut jika saya tidak bisa menyelesaikan tugas ini tepat waktu;fear
+Saya merasa terpuruk karena merasa tidak berguna;sadness
+Saya gelisah karena tidak tahu bagaimana memperbaiki situasi ini;fear
+Saya sedih karena merasa tidak punya tempat untuk berbagi;sadness
+Saya takut jika saya kehilangan kesempatan terakhir ini;fear
+Saya merasa hancur karena kehilangan impian saya;sadness
+Saya cemas memikirkan apa yang akan terjadi jika saya gagal lagi;fear
+Saya merasa kesepian karena tidak ada yang mengerti saya;sadness
+Saya takut jika saya tidak bisa menghadapi tantangan ini;fear
+Saya merasa sedih karena kehilangan hubungan yang berarti;sadness
+Saya gelisah memikirkan apakah saya membuat pilihan yang tepat;fear
+Saya merasa tertekan karena tekanan dari lingkungan kerja;sadness
+Saya takut jika saya tidak bisa memenuhi kebutuhan keluarga saya;fear
+Saya merasa kosong setelah semua harapan saya pupus;sadness
+Saya cemas karena tidak tahu bagaimana menghadapi masa depan;fear
+Saya merasa sedih karena merasa ditinggalkan oleh orang terdekat;sadness
+Saya takut jika saya tidak cukup baik untuk orang lain;fear
+Saya merasa hampa karena kehilangan tujuan dalam hidup;sadness
+Saya gelisah memikirkan apakah saya bisa bertahan dalam situasi ini;fear
+Saya sedih karena merasa tidak dihargai oleh keluarga;sadness
+Saya takut jika saya gagal dalam tanggung jawab saya;fear
+Saya merasa terpuruk karena semua usaha saya sia-sia;sadness
+Saya cemas memikirkan bagaimana menghadapi ujian hidup ini;fear
+Saya merasa kesepian karena tidak ada yang mendukung saya;sadness
+Saya takut jika saya tidak bisa mengatasi masalah ini;fear
+Saya merasa sedih karena kehilangan momen bahagia masa lalu;sadness
+Saya gelisah karena tidak tahu apa yang harus saya lakukan sekarang;fear
+Saya merasa hancur karena kehilangan kepercayaan diri saya;sadness
+Saya takut jika saya tidak bisa mencapai impian saya;fear
+Saya merasa sedih karena merasa tidak punya teman sejati;sadness
+Saya cemas memikirkan apakah saya bisa berhasil atau tidak;fear
+Saya merasa tertekan karena beban hidup yang terasa berat;sadness
+Saya takut jika saya kehilangan orang yang saya cintai lagi;fear
+Saya merasa kosong karena tidak ada yang peduli dengan saya;sadness
+Saya gelisah memikirkan bagaimana menyelesaikan masalah ini;fear
+Saya merasa sedih karena merasa tidak diterima oleh masyarakat;sadness
+Saya takut jika saya tidak bisa bangkit dari keterpurukan ini;fear
+Saya merasa hampa karena kehilangan semangat hidup;sadness
+Saya cemas karena tidak tahu bagaimana menghadapi konflik ini;fear
+Saya merasa sedih karena kehilangan orang yang sangat berarti;sadness
+Saya takut jika saya tidak bisa memenuhi harapan orang lain;fear
+Saya merasa terpuruk karena merasa tidak punya masa depan;sadness
+Saya gelisah memikirkan apakah saya cukup kuat untuk ini semua;fear
+Saya merasa kesepian karena tidak ada yang memahami penderitaan saya;sadness
+Saya takut jika saya gagal lagi dalam kesempatan ini;fear
+Saya merasa sedih karena merasa tidak dihargai oleh teman;sadness
+Saya cemas memikirkan bagaimana menghadapi tekanan ini;fear
+Saya merasa hancur karena kehilangan semua yang saya miliki;sadness
+Saya takut jika saya tidak bisa melindungi orang yang saya sayangi;fear
+Saya merasa kosong karena tidak ada harapan dalam hidup saya;sadness
+Saya gelisah karena tidak tahu bagaimana keluar dari masalah ini;fear
+Saya merasa sedih karena kehilangan kebahagiaan yang dulu;sadness
+Saya takut jika saya tidak bisa mengatasi ketakutan saya sendiri;fear
+Saya merasa tertekan karena beban pekerjaan yang tidak pernah selesai;sadness
+Saya cemas memikirkan apakah saya bisa bertahan dalam situasi ini;fear
+Saya merasa kesepian karena merasa tidak punya siapa-siapa;sadness
+Saya takut jika saya tidak bisa mencapai tujuan hidup saya;fear
+Saya merasa sedih karena merasa tidak berguna bagi orang lain;sadness
+Saya gelisah memikirkan apa yang akan terjadi jika saya gagal;fear
+Saya merasa hampa karena kehilangan semua motivasi saya;sadness
+Saya cemas karena tidak tahu bagaimana menghadapi tantangan baru;fear
+Saya merasa sedih karena merasa dikhianati oleh orang terdekat;sadness
+Saya takut jika saya tidak bisa mengubah hidup saya menjadi lebih baik;fear
+Saya merasa terpuruk karena semua impian saya hancur;sadness
+Saya gelisah memikirkan bagaimana menyelesaikan semua masalah ini;fear
+Saya merasa kesepian karena tidak ada yang mendengarkan saya;sadness
+Saya takut jika saya kehilangan kesempatan terakhir ini;fear
+Saya merasa sedih karena merasa tidak punya tempat di dunia ini;sadness
+Saya cemas memikirkan apakah saya bisa menghadapi masa depan;fear
+Saya merasa hancur karena kehilangan orang yang saya sayangi;sadness
+Saya takut jika saya tidak cukup kuat untuk melalui ini semua;fear
+Saya merasa kosong karena tidak ada yang memberi saya harapan;sadness
+Saya gelisah karena tidak tahu bagaimana memperbaiki hidup saya;fear
+Saya merasa sedih karena merasa tidak dihargai oleh siapa pun;sadness
+Saya takut jika saya gagal memenuhi tanggung jawab saya;fear
+Saya merasa tertekan karena beban hidup yang semakin berat;sadness
+Saya cemas memikirkan bagaimana menghadapi ujian hidup ini;fear
+Saya merasa kesepian karena tidak ada yang peduli dengan saya;sadness
+Saya takut jika saya tidak bisa bangkit dari kegagalan ini;fear
+Saya merasa sedih karena kehilangan semua yang saya miliki;sadness
+Saya gelisah memikirkan apa yang akan terjadi besok;fear
+Saya merasa hampa karena kehilangan tujuan hidup saya;sadness
+Saya cemas karena tidak tahu bagaimana menghadapi masalah besar ini;fear
+Saya merasa sedih karena merasa tidak punya teman sejati;sadness
+Saya takut jika saya tidak bisa mencapai impian saya lagi;fear
+Saya merasa terpuruk karena semua usaha saya sia-sia;sadness
+Saya gelisah memikirkan bagaimana menyelesaikan konflik ini;fear
+Saya merasa kesepian karena tidak ada yang mengerti perasaan saya;sadness
+Saya takut jika saya kehilangan orang yang sangat berarti bagi saya;fear
+Saya merasa sedih karena merasa tidak diterima oleh lingkungan;sadness
+Saya cemas memikirkan apakah saya bisa bertahan dalam tekanan ini;fear
+Saya merasa hancur karena kehilangan semua harapan saya;sadness
+Saya takut jika saya tidak bisa mengatasi ketakutan saya sendiri;fear
+Saya merasa kosong karena tidak ada yang memberi saya semangat;sadness
+Saya gelisah karena tidak tahu apa yang harus saya lakukan sekarang;fear
+Saya merasa sedih karena merasa tidak punya masa depan;sadness
+Saya takut jika saya gagal lagi dalam kesempatan ini;fear
+Saya merasa tertekan karena beban pekerjaan yang terlalu banyak;sadness
+Saya cemas memikirkan bagaimana menghadapi tantangan hidup ini;fear
+Saya merasa kesepian karena tidak ada yang mendukung saya;sadness
+Saya takut jika saya tidak bisa melindungi keluarga saya;fear
+Saya merasa sedih karena kehilangan momen bahagia di masa lalu;sadness
+Saya gelisah memikirkan apakah saya cukup kuat untuk ini semua;fear
+Saya merasa hampa karena kehilangan semua motivasi saya;sadness
+Saya cemas karena tidak tahu bagaimana keluar dari masalah ini;fear
+Saya merasa sedih karena merasa dikhianati oleh teman terdekat;sadness
+Saya takut jika saya tidak bisa mengubah nasib saya menjadi lebih baik;fear
+Saya merasa terpuruk karena semua impian saya hancur;sadness
+Saya gelisah memikirkan bagaimana menyelesaikan semua masalah ini;fear
+Saya merasa kesepian karena tidak ada yang mendengarkan saya;sadness
+Saya takut jika saya kehilangan kesempatan terakhir ini;fear
+Saya merasa sedih karena merasa tidak punya tempat di dunia ini;sadness
+Saya cemas memikirkan apakah saya bisa menghadapi masa depan;fear
+Saya merasa hancur karena kehilangan orang yang sangat berarti;sadness
+Saya takut jika saya tidak cukup kuat untuk melalui ini semua;fear
+Saya merasa kosong karena tidak ada yang memberi saya harapan;sadness
+Saya gelisah karena tidak tahu bagaimana memperbaiki hidup saya;fear
+Saya merasa sedih karena merasa tidak dihargai oleh siapa pun;sadness
+Saya takut jika saya gagal memenuhi tanggung jawab saya;fear
+Saya merasa tertekan karena beban hidup yang semakin berat;sadness
+Saya cemas memikirkan bagaimana menghadapi ujian hidup ini;fear
+Saya merasa kesepian karena tidak ada yang peduli dengan saya;sadness
+Saya takut jika saya tidak bisa bangkit dari kegagalan ini;fear
+Saya merasa sedih karena kehilangan semua yang saya miliki;sadness
+Saya gelisah memikirkan apa yang akan terjadi besok;fear
+Saya merasa hampa karena kehilangan tujuan hidup saya;sadness
+Saya cemas karena tidak tahu bagaimana menghadapi masalah besar ini;fear
+Saya merasa sedih karena merasa tidak punya teman sejati;sadness
+Saya takut jika saya tidak bisa mencapai impian saya lagi;fear
+Saya merasa terpuruk karena semua usaha saya sia-sia;sadness
+Saya gelisah memikirkan bagaimana menyelesaikan konflik ini;fear
+Saya merasa kesepian karena tidak ada yang mengerti perasaan saya;sadness
+Saya takut jika saya kehilangan orang yang sangat berarti bagi saya;fear
+Saya merasa sedih karena merasa tidak diterima oleh lingkungan;sadness
+Saya cemas memikirkan apakah saya bisa bertahan dalam tekanan ini;fear
+Saya merasa hancur karena kehilangan semua harapan saya;sadness
+Saya takut jika saya tidak bisa mengatasi ketakutan saya sendiri;fear
+Saya merasa kosong karena tidak ada yang memberi saya semangat;sadness
+Saya gelisah karena tidak tahu apa yang harus saya lakukan sekarang;fear
+Saya merasa sedih karena merasa tidak punya masa depan;sadness
+Saya takut jika saya gagal lagi dalam kesempatan ini;fear
+Saya merasa tertekan karena beban pekerjaan yang terlalu banyak;sadness
+Saya cemas memikirkan bagaimana menghadapi tantangan hidup ini;fear
+Saya merasa kesepian karena tidak ada yang mendukung saya;sadness
+Saya takut jika saya tidak bisa melindungi keluarga saya;fear
+Saya merasa sedih karena kehilangan momen bahagia di masa lalu;sadness
+Saya gelisah memikirkan apakah saya cukup kuat untuk ini semua;fear
+Saya merasa hampa karena kehilangan semua motivasi saya;sadness
+Saya cemas karena tidak tahu bagaimana keluar dari masalah ini;fear
+Saya merasa sedih karena merasa dikhianati oleh teman terdekat;sadness
+Saya takut jika saya tidak bisa mengubah nasib saya menjadi lebih baik;fear
+Saya merasa terpuruk karena semua impian saya hancur;sadness
+Saya gelisah memikirkan bagaimana menyelesaikan semua masalah ini;fear
+Saya merasa kesepian karena tidak ada yang mendengarkan saya;sadness
+Saya takut jika saya kehilangan kesempatan terakhir ini;fear
+Saya merasa sedih karena merasa tidak punya tempat di dunia ini;sadness
+Saya cemas memikirkan apakah saya bisa menghadapi masa depan;fear
+Saya merasa hancur karena kehilangan orang yang sangat berarti;sadness
+Saya takut jika saya tidak cukup kuat untuk melalui ini semua;fear
+Saya merasa kosong karena tidak ada yang memberi saya harapan;sadness
+Saya gelisah karena tidak tahu bagaimana memperbaiki hidup saya;fear
+Saya merasa sedih karena merasa tidak dihargai oleh siapa pun;sadness
+Saya takut jika saya gagal memenuhi tanggung jawab saya;fear
+Saya merasa tertekan karena beban hidup yang semakin berat;sadness
+Saya cemas memikirkan bagaimana menghadapi ujian hidup ini;fear
+Saya merasa kesepian karena tidak ada yang peduli dengan saya;sadness
+Saya takut jika saya tidak bisa bangkit dari kegagalan ini;fear
+Saya merasa sedih karena kehilangan semua yang saya miliki;sadness
+Saya gelisah memikirkan apa yang akan terjadi besok;fear
+Saya merasa hampa karena kehilangan tujuan hidup saya;sadness
+Saya cemas karena tidak tahu bagaimana menghadapi masalah besar ini;fear
+Saya merasa sedih karena merasa tidak punya teman sejati;sadness
+Saya takut jika saya tidak bisa mencapai impian saya lagi;fear
+Saya merasa terpuruk karena semua usaha saya sia-sia;sadness
+Saya gelisah memikirkan bagaimana menyelesaikan konflik ini;fear
+Saya merasa kesepian karena tidak ada yang mengerti perasaan saya;sadness
+Saya takut jika saya kehilangan orang yang sangat berarti bagi saya;fear
+Saya merasa sedih karena merasa tidak diterima oleh lingkungan;sadness
+Saya cemas memikirkan apakah saya bisa bertahan dalam tekanan ini;fear
+Saya merasa hancur karena kehilangan semua harapan saya;sadness
+Saya takut jika saya tidak bisa mengatasi ketakutan saya sendiri;fear
+Saya merasa kosong karena tidak ada yang memberi saya semangat;sadness
+Saya gelisah karena tidak tahu apa yang harus saya lakukan sekarang;fear
+Saya merasa sedih karena merasa tidak punya masa depan;sadness
+Saya takut jika saya gagal lagi dalam kesempatan ini;fear
+Saya merasa tertekan karena beban pekerjaan yang terlalu banyak;sadness
+Saya cemas memikirkan bagaimana menghadapi tantangan hidup ini;fear
+Saya merasa kesepian karena tidak ada yang mendukung saya;sadness
+Saya takut jika saya tidak bisa melindungi keluarga saya;fear
+Saya merasa sedih karena kehilangan momen bahagia di masa lalu;sadness
+Saya gelisah memikirkan apakah saya cukup kuat untuk ini semua;fear
+Saya merasa hampa karena kehilangan semua motivasi saya;sadness
+Saya cemas karena tidak tahu bagaimana keluar dari masalah ini;fear
+Saya merasa sedih karena merasa dikhianati oleh teman terdekat;sadness
+Saya takut jika saya tidak bisa mengubah nasib saya menjadi lebih baik;fear
+Saya merasa terpuruk karena semua impian saya hancur;sadness
+Saya gelisah memikirkan bagaimana menyelesaikan semua masalah ini;fear
+Saya merasa kesepian karena tidak ada yang mendengarkan saya;sadness
+Saya takut jika saya kehilangan kesempatan terakhir ini;fear
+Saya merasa sedih karena merasa tidak punya tempat di dunia ini;sadness
+Saya cemas memikirkan apakah saya bisa menghadapi masa depan;fear
+Saya merasa hancur karena kehilangan orang yang sangat berarti;sadness
+Saya takut jika saya tidak cukup kuat untuk melalui ini semua;fear
+Saya merasa kosong karena tidak ada yang memberi saya harapan;sadness
+Saya gelisah karena tidak tahu bagaimana memperbaiki hidup saya;fear
+Saya merasa sedih karena merasa tidak dihargai oleh siapa pun;sadness
+Saya takut jika saya gagal memenuhi tanggung jawab saya;fear
+Saya merasa tertekan karena beban hidup yang semakin berat;sadness
+Saya cemas memikirkan bagaimana menghadapi ujian hidup ini;fear
+Saya merasa kesepian karena tidak ada yang peduli dengan saya;sadness
+Saya takut jika saya tidak bisa bangkit dari kegagalan ini;fear
+Saya merasa sedih karena kehilangan semua yang saya miliki;sadness
+Saya gelisah memikirkan apa yang akan terjadi besok;fear
+Saya merasa hampa karena kehilangan tujuan hidup saya;sadness
+Saya cemas karena tidak tahu bagaimana menghadapi masalah besar ini;fear
+Saya merasa sedih karena merasa tidak punya teman sejati;sadness
+Saya takut jika saya tidak bisa mencapai impian saya lagi;fear
+Saya merasa terpuruk karena semua usaha saya sia-sia;sadness
+Saya gelisah memikirkan bagaimana menyelesaikan konflik ini;fear
+Saya merasa kesepian karena tidak ada yang mengerti perasaan saya;sadness
+Saya takut jika saya kehilangan orang yang sangat berarti bagi saya;fear
+Saya merasa sedih karena merasa tidak diterima oleh lingkungan;sadness
+Saya cemas memikirkan apakah saya bisa bertahan dalam tekanan ini;fear
+Saya merasa hancur karena kehilangan semua harapan saya;sadness
+Saya takut jika saya tidak bisa mengatasi ketakutan saya sendiri;fear
+Saya merasa kosong karena tidak ada yang memberi saya semangat;sadness
+Saya gelisah karena tidak tahu apa yang harus saya lakukan sekarang;fear
+Saya merasa sedih karena merasa tidak punya masa depan;sadness
+Saya takut jika saya gagal lagi dalam kesempatan ini;fear
+Saya merasa tertekan karena beban pekerjaan yang terlalu banyak;sadness
+Saya cemas memikirkan bagaimana menghadapi tantangan hidup ini;fear
+Saya merasa kesepian karena tidak ada yang mendukung saya;sadness
+Saya takut jika saya tidak bisa melindungi keluarga saya;fear
+Saya merasa sedih karena kehilangan momen bahagia di masa lalu;sadness
+Saya gelisah memikirkan apakah saya cukup kuat untuk ini semua;fear
+Saya merasa hampa karena kehilangan semua motivasi saya;sadness
+Saya cemas karena tidak tahu bagaimana keluar dari masalah ini;fear
+Saya merasa sedih karena merasa dikhianati oleh teman terdekat;sadness
+Saya takut jika saya tidak bisa mengubah nasib saya menjadi lebih baik;fear
+Saya merasa terpuruk karena semua impian saya hancur;sadness
+Saya gelisah memikirkan bagaimana menyelesaikan semua masalah ini;fear
+Saya merasa kesepian karena tidak ada yang mendengarkan saya;sadness
+Saya takut jika saya kehilangan kesempatan terakhir ini;fear
+Saya merasa terpuruk karena usaha saya tidak diakui oleh siapa pun;sadness
+Saya cemas memikirkan apakah saya bisa lulus ujian kali ini;fear
+Saya sedih melihat rumah masa kecil saya kini tinggal kenangan;sadness
+Saya takut jika keputusan ini akan merusak karier saya;fear
+Saya merasa hampa setelah kehilangan kontak dengan sahabat lama;sadness
+Saya gelisah menunggu keputusan dari atasan tentang promosi saya;fear
+Saya merasa kecewa karena tidak bisa membahagiakan orang tua;sadness
+Saya takut jika saya tidak bisa mengatasi tekanan di tempat kerja;fear
+Saya merasa kosong setelah semua rencana saya gagal total;sadness
+Saya cemas memikirkan bagaimana menghadapi konflik dengan rekan kerja;fear
+Saya sedih karena merasa tidak punya siapa pun untuk berbagi;sadness
+Saya takut jika saya tidak bisa membayar biaya pengobatan keluarga;fear
+Saya merasa terluka karena omongan pedas dari orang terdekat;sadness
+Saya gelisah memikirkan apakah saya bisa menyelesaikan proyek ini;fear
+Saya merasa kesepian di kota besar yang asing ini;sadness
+Saya takut jika saya kehilangan pekerjaan di tengah situasi sulit;fear
+Saya sedih karena merasa tidak mampu mengejar cita-cita saya;sadness
+Saya cemas setiap kali harus menghadapi bos yang keras;fear
+Saya merasa hancur ketika tahu usaha bertahun-tahun sia-sia;sadness
+Saya takut jika saya tidak bisa membuktikan kemampuan saya;fear
+Saya merasa tertekan karena harapan keluarga terlalu tinggi;sadness
+Saya gelisah memikirkan bagaimana menghadapi perubahan besar ini;fear
+Saya sedih karena kehilangan kepercayaan dari orang yang saya hormati;sadness
+Saya takut jika saya salah langkah dalam keputusan penting ini;fear
+Saya merasa hampa karena tidak lagi punya semangat untuk maju;sadness
+Saya cemas memikirkan apakah saya cukup kompeten untuk tugas ini;fear
+Saya sedih melihat hubungan keluarga yang semakin renggang;sadness
+Saya takut jika saya tidak bisa menjaga rahasia orang lain;fear
+Saya merasa terpuruk karena kegagalan yang terus berulang;sadness
+Saya gelisah menunggu hasil wawancara kerja yang sangat penting;fear
+Saya merasa kesepian meski dikelilingi banyak kenalan;sadness
+Saya takut jika saya tidak bisa memenuhi janji yang telah dibuat;fear
+Saya sedih karena merasa tidak dianggap oleh lingkungan sekitar;sadness
+Saya cemas memikirkan bagaimana menangani masalah keuangan ini;fear
+Saya merasa hancur setelah kehilangan barang peninggalan berharga;sadness
+Saya takut jika saya tidak bisa menghadapi kritik dari orang lain;fear
+Saya merasa kosong karena kehilangan gairah dalam hidup;sadness
+Saya gelisah memikirkan apakah saya bisa bertahan di lingkungan baru;fear
+Saya sedih karena merasa tidak punya tempat untuk pulang;sadness
+Saya takut jika saya gagal membuat orang tua saya bangga;fear
+Saya merasa terluka karena pengkhianatan dari teman dekat;sadness
+Saya cemas setiap kali harus menghadapi situasi yang tidak terduga;fear
+Saya merasa tertekan karena tanggung jawab yang semakin menumpuk;sadness
+Saya takut jika saya tidak bisa mengubah keadaan hidup saya;fear
+Saya sedih karena merasa tidak ada yang mendengarkan keluh kesah saya;sadness
+Saya gelisah memikirkan bagaimana menyelesaikan utang yang menumpuk;fear
+Saya merasa hampa setelah kehilangan tujuan yang dulu saya pegang;sadness
+Saya takut jika saya tidak bisa melindungi adik saya dari masalah;fear
+Saya sedih karena merasa tidak punya teman yang benar-benar peduli;sadness
+Saya cemas memikirkan apakah saya bisa sukses di bidang ini;fear
+Saya merasa terpuruk karena merasa tidak berguna bagi siapa pun;sadness
+Saya takut jika saya kehilangan kesempatan emas ini;fear
+Saya sedih karena merasa tidak dihargai meski sudah berusaha keras;sadness
+Saya gelisah memikirkan bagaimana menghadapi ujian hidup berikutnya;fear
+Saya merasa kesepian karena tidak ada yang memahami impian saya;sadness
+Saya takut jika saya tidak cukup kuat untuk menghadapi cobaan ini;fear
+Saya sedih karena kehilangan momen berharga yang tak bisa kembali;sadness
+Saya cemas memikirkan apakah saya bisa menjaga hubungan ini;fear
+Saya merasa hancur karena semua kerja keras saya tidak membuahkan hasil;sadness
+Saya takut jika saya tidak bisa memenuhi ekspektasi tim saya;fear
+Saya merasa kosong karena tidak lagi punya alasan untuk tersenyum;sadness
+Saya gelisah memikirkan bagaimana menghadapi masa depan yang suram;fear
+Saya sedih karena merasa tidak punya siapa pun untuk diandalkan;sadness
+Saya takut jika saya gagal dalam tanggung jawab besar ini;fear
+Saya merasa tertekan karena beban hidup yang terasa tak tertahankan;sadness
+Saya cemas memikirkan apakah saya bisa keluar dari masalah ini;fear
+Saya sedih karena merasa tidak diterima oleh komunitas saya;sadness
+Saya takut jika saya tidak bisa bangkit dari keterpurukan ini;fear
+Saya merasa hampa karena kehilangan semangat untuk bermimpi;sadness
+Saya gelisah memikirkan apakah saya cukup berani untuk melangkah;fear
+Saya sedih karena merasa kehilangan jati diri saya sendiri;sadness
+Saya takut jika saya tidak bisa menghadapi tantangan baru ini;fear
+Saya merasa terpuruk karena semua usaha saya dianggap remeh;sadness
+Saya cemas memikirkan bagaimana menjaga keseimbangan hidup saya;fear
+Saya sedih karena merasa tidak punya tempat untuk berlindung;sadness
+Saya takut jika saya kehilangan orang yang selalu mendukung saya;fear
+Saya merasa kosong setelah kehilangan harapan untuk masa depan;sadness
+Saya gelisah memikirkan apakah saya bisa memperbaiki kesalahan ini;fear
+Saya sedih karena merasa tidak dihargai oleh orang yang saya sayangi;sadness
+Saya takut jika saya tidak bisa menyelesaikan tugas tepat waktu;fear
+Saya merasa tertekan karena tekanan dari lingkungan sosial;sadness
+Saya cemas memikirkan bagaimana menghadapi perubahan mendadak ini;fear
+Saya sedih karena kehilangan kenangan indah bersama keluarga;sadness
+Saya takut jika saya tidak bisa memenuhi kebutuhan sehari-hari;fear
+Saya merasa hancur karena merasa tidak punya tujuan lagi;sadness
+Saya gelisah memikirkan apakah saya bisa bertahan dalam tekanan ini;fear
+Saya sedih karena merasa tidak punya teman untuk berbagi cerita;sadness
+Saya takut jika saya gagal dalam proyek yang sangat penting ini;fear
+Saya merasa kesepian karena tidak ada yang peduli dengan perjuangan saya;sadness
+Saya cemas memikirkan bagaimana menghadapi situasi genting ini;fear
+Saya sedih karena merasa kehilangan kebahagiaan yang dulu;sadness
+Saya takut jika saya tidak bisa mengatasi rasa takut saya sendiri;fear
+Saya merasa terpuruk karena semua impian saya tampak mustahil;sadness
+Saya gelisah memikirkan apakah saya bisa memenuhi tenggat waktu;fear
+Saya sedih karena merasa tidak punya siapa pun untuk dipercaya;sadness
+Saya takut jika saya kehilangan kesempatan untuk memperbaiki hidup;fear
+Saya merasa hampa karena semua usaha saya tidak membawa perubahan;sadness
+Saya cemas memikirkan bagaimana menghadapi konflik keluarga ini;fear
+Saya sedih karena merasa tidak dianggap oleh orang-orang terdekat;sadness
+Saya takut jika saya tidak bisa melindungi orang yang saya cintai;fear
+Saya merasa tertekan karena beban pekerjaan yang tak kunjung usai;sadness
+Saya gelisah memikirkan apakah saya bisa menghadapi ujian ini;fear
+Saya sedih karena merasa kehilangan arah dalam hidup;sadness
+Saya takut jika saya tidak bisa mencapai standar yang ditetapkan;fear
+Saya merasa kosong karena tidak ada yang mendukung impian saya;sadness
+Saya cemas memikirkan bagaimana menghadapi masa depan yang kelam;fear
+Saya sedih karena merasa tidak punya tempat untuk menyuarakan isi hati;sadness
+Saya takut jika saya gagal memenuhi harapan orang-orang sekitar;fear
+Saya merasa terpuruk karena semua rencana saya berantakan;sadness
+Saya gelisah memikirkan apakah saya cukup kuat untuk melanjutkan;fear
+Saya sedih karena merasa kehilangan kepercayaan dari keluarga;sadness
+Saya takut jika saya tidak bisa menyelesaikan masalah ini sendiri;fear
+Saya merasa hampa karena semua motivasi saya telah lenyap;sadness
+Saya cemas memikirkan bagaimana menghadapi krisis keuangan ini;fear
+Saya sedih karena merasa tidak punya teman sejati di sisi saya;sadness
+Saya takut jika saya kehilangan peluang terakhir untuk sukses;fear
+Saya merasa tertekan karena tekanan dari teman sebaya;sadness
+Saya gelisah memikirkan apakah saya bisa mempertahankan pekerjaan ini;fear
+Saya sedih karena merasa tidak dihargai oleh rekan kerja;sadness
+Saya takut jika saya tidak bisa menghadapi perubahan besar ini;fear
+Saya merasa kosong karena kehilangan semangat untuk berjuang;sadness
+Saya cemas memikirkan bagaimana menangani situasi yang rumit ini;fear
+Saya sedih karena merasa kehilangan hubungan yang dulu erat;sadness
+Saya takut jika saya tidak bisa bangkit dari kegagalan besar ini;fear
+Saya merasa terpuruk karena semua harapan saya telah sirna;sadness
+Saya gelisah memikirkan apakah saya bisa menghadapi tantangan ini;fear
+Saya sedih karena merasa tidak punya siapa pun untuk berbagi beban;sadness
+Saya takut jika saya gagal dalam kesempatan yang sangat berarti ini;fear
+Saya merasa hampa karena kehilangan semua impian masa kecil saya;sadness
+Saya cemas memikirkan bagaimana menghadapi ketidakpastian ini;fear
+Saya sedih karena merasa tidak diterima oleh teman-teman saya;sadness
+Saya takut jika saya tidak bisa memenuhi kebutuhan keluarga saya;fear
+Saya merasa tertekan karena beban hidup yang terus bertambah;sadness
+Saya gelisah memikirkan apakah saya bisa menyelesaikan semua ini;fear
+Saya sedih karena merasa kehilangan kebahagiaan yang pernah ada;sadness
+Saya takut jika saya tidak cukup berani untuk mengambil risiko ini;fear
+Saya merasa kosong karena tidak ada yang memberi saya semangat;sadness
+Saya cemas memikirkan bagaimana menghadapi masalah yang tak terpecahkan;fear
+Saya sedih karena merasa tidak punya tempat untuk merasa aman;sadness
+Saya takut jika saya kehilangan orang yang paling berarti bagi saya;fear
+Saya merasa terpuruk karena semua usaha saya tidak dihargai;sadness
+Saya gelisah memikirkan apakah saya bisa bertahan di bawah tekanan ini;fear
+Saya sedih karena merasa kehilangan identitas saya sendiri;sadness
+Saya takut jika saya tidak bisa memenuhi ekspektasi diri sendiri;fear
+Saya merasa hampa karena semua tujuan saya tampak tak tercapai;sadness
+Saya cemas memikirkan bagaimana menghadapi kegagalan berikutnya;fear
+Saya sedih karena merasa tidak punya siapa pun untuk berbagi suka duka;sadness
+Saya takut jika saya tidak bisa mengatasi rintangan besar ini;fear
+Saya merasa tertekan karena semua tanggung jawab terasa berat;sadness
+Saya gelisah memikirkan apakah saya bisa memperbaiki hidup saya;fear
+Saya sedih karena merasa kehilangan kepercayaan dari orang terdekat;sadness
+Saya takut jika saya gagal dalam tugas yang sangat penting ini;fear
+Saya merasa kosong karena tidak ada yang memberi saya harapan;sadness
+Saya cemas memikirkan bagaimana menghadapi ujian hidup yang berat ini;fear
+Saya sedih karena merasa tidak dianggap oleh orang-orang sekitar;sadness
+Saya takut jika saya tidak bisa bangkit dari keterpurukan ini;fear
+Saya merasa hampa karena kehilangan semua semangat hidup saya;sadness
+Saya gelisah memikirkan apakah saya cukup kuat untuk menghadapi ini;fear
+Saya sedih karena merasa tidak punya tempat di hati siapa pun;sadness
+Saya takut jika saya kehilangan kesempatan untuk mengubah nasib saya;fear
+Saya merasa terpuruk karena semua impian saya tampak hancur;sadness
+Saya cemas memikirkan bagaimana menghadapi masa depan yang tak pasti;fear
+Saya sedih karena merasa kehilangan orang yang selalu ada untuk saya;sadness
+Saya takut jika saya tidak bisa melindungi keluarga dari kesulitan;fear
+Saya merasa kosong karena semua harapan saya telah lenyap;sadness
+Saya gelisah memikirkan apakah saya bisa menyelesaikan semua masalah ini;fear
+Saya sedih karena merasa tidak punya teman yang benar-benar mengerti;sadness
+Saya takut jika saya gagal lagi dalam kesempatan yang berharga ini;fear

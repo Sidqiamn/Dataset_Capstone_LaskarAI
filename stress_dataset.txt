@@ -1,0 +1,2622 @@
+Saya tegang saat menghadapi kurang tidur.;stress
+Saya merasa tidak berdaya ketika memikirkan tekanan dari atasan.;stress
+Saya tegang di tengah utang yang menumpuk.;stress
+Saya tidak bisa fokus karena tugas kuliah.;stress
+Saya merasa tidak berdaya memikirkan masalah keluarga.;stress
+Saya ingin menyerah disebabkan oleh keraguan diri.;stress
+Saya emosi tidak stabil ketika memikirkan performa kerja yang menurun.;stress
+Saya terbebani secara mental disebabkan oleh tekanan sosial.;stress
+Saya menangis tanpa sebab disebabkan oleh presentasi besar.;stress
+Saya ingin menyerah di tengah konflik di tempat kerja.;stress
+Saya sangat stres karena ekspektasi tinggi.;stress
+Saya ingin menyerah dengan presentasi besar.;stress
+Saya emosi tidak stabil setiap kali memikirkan konflik di tempat kerja.;stress
+Saya merasa tidak berdaya setiap kali memikirkan tenggat waktu semakin dekat.;stress
+Saya menangis tanpa sebab setiap kali memikirkan lingkungan yang tidak mendukung.;stress
+Saya menangis tanpa sebab karena ekspektasi tinggi.;stress
+Saya tertekan setiap kali memikirkan ujian akhir.;stress
+Saya tidak bisa fokus karena terus-menerus menghadapi pekerjaan menumpuk.;stress
+Saya tidak bisa rileks disebabkan oleh klien yang sulit.;stress
+Saya emosi tidak stabil ketika harus menyelesaikan tugas kuliah.;stress
+Saya emosi tidak stabil akibat masalah keluarga.;stress
+Saya merasa tidak berdaya dengan masalah keluarga.;stress
+Saya pikiran kacau setiap menghadapi lingkungan yang tidak mendukung.;stress
+Saya lelah dan stres saat menghadapi presentasi besar.;stress
+Saya tidak bisa rileks di tengah konflik di tempat kerja.;stress
+Saya gelisah karena terus-menerus menghadapi keraguan diri.;stress
+Saya kewalahan ketika harus menyelesaikan presentasi besar.;stress
+Saya menangis tanpa sebab memikirkan pekerjaan menumpuk.;stress
+Saya merasa hampa dengan deadline yang ketat.;stress
+Saya menangis tanpa sebab karena terus-menerus menghadapi ujian akhir.;stress
+Saya pikiran kacau karena klien yang sulit.;stress
+Saya tidak bisa tidur di tengah performa kerja yang menurun.;stress
+Saya lelah dan stres saat menghadapi jadwal yang padat.;stress
+Saya tertekan dengan lingkungan yang tidak mendukung.;stress
+Saya merasa tidak berdaya setiap kali memikirkan deadline yang ketat.;stress
+Saya sangat stres setiap menghadapi ujian akhir.;stress
+Saya tidak bisa fokus ketika memikirkan jadwal yang padat.;stress
+Saya tidak bisa tidur di tengah klien yang sulit.;stress
+Saya tertekan di tengah keraguan diri.;stress
+Saya tidak bisa rileks karena terus-menerus menghadapi tekanan sosial.;stress
+Saya menangis tanpa sebab saat menghadapi kurang tidur.;stress
+Saya merasa tidak berdaya akibat keraguan diri.;stress
+Saya tidak bisa fokus disebabkan oleh keraguan diri.;stress
+Saya terbebani secara mental di tengah kurang tidur.;stress
+Saya tidak bisa tidur di tengah tugas kuliah.;stress
+Saya tidak bisa fokus setiap menghadapi deadline yang ketat.;stress
+Saya ingin menyerah ketika harus menyelesaikan kehilangan motivasi.;stress
+Saya emosi tidak stabil setiap kali memikirkan kurang tidur.;stress
+Saya merasa tidak berdaya saat menghadapi performa kerja yang menurun.;stress
+Saya merasa tidak berdaya ketika memikirkan masalah kesehatan.;stress
+Saya tidak bisa rileks akibat tenggat waktu semakin dekat.;stress
+Saya tidak bisa tidur karena terus-menerus menghadapi pertengkaran dengan pasangan.;stress
+Saya emosi tidak stabil dengan utang yang menumpuk.;stress
+Saya gelisah saat menghadapi ujian akhir.;stress
+Saya tegang setiap menghadapi pertengkaran dengan pasangan.;stress
+Saya gelisah saat menghadapi masalah keuangan.;stress
+Saya menangis tanpa sebab disebabkan oleh masalah keluarga.;stress
+Saya ingin menyerah karena ujian akhir.;stress
+Saya tidak bisa fokus ketika memikirkan keraguan diri.;stress
+Saya tertekan akibat kurang tidur.;stress
+Saya terbebani secara mental dengan target yang tidak realistis.;stress
+Saya kewalahan dengan target yang tidak realistis.;stress
+Saya lelah dan stres ketika memikirkan presentasi besar.;stress
+Saya tidak bisa fokus memikirkan performa kerja yang menurun.;stress
+Saya tegang karena terus-menerus menghadapi ujian akhir.;stress
+Saya pikiran kacau setiap kali memikirkan masalah keluarga.;stress
+Saya ingin menyerah di tengah target yang tidak realistis.;stress
+Saya merasa tidak berdaya setiap menghadapi masalah keluarga.;stress
+Saya lelah dan stres saat menghadapi utang yang menumpuk.;stress
+Saya tidak bisa tidur karena terus-menerus menghadapi kurang tidur.;stress
+Saya menangis tanpa sebab karena deadline yang ketat.;stress
+Saya tidak bisa tidur disebabkan oleh presentasi besar.;stress
+Saya tegang dengan target yang tidak realistis.;stress
+Saya pikiran kacau karena terus-menerus menghadapi masalah kesehatan.;stress
+Saya tidak bisa rileks akibat pertengkaran dengan pasangan.;stress
+Saya terbebani secara mental saat menghadapi jadwal yang padat.;stress
+Saya emosi tidak stabil saat menghadapi utang yang menumpuk.;stress
+Saya tidak bisa rileks di tengah tekanan dari atasan.;stress
+Saya tidak bisa tidur dengan tekanan dari atasan.;stress
+Saya terbebani secara mental memikirkan target yang tidak realistis.;stress
+Saya terbebani secara mental ketika memikirkan tugas kuliah.;stress
+Saya tegang saat menghadapi ekspektasi tinggi.;stress
+Saya terbebani secara mental memikirkan lingkungan yang tidak mendukung.;stress
+Saya tidak bisa tidur akibat keraguan diri.;stress
+Saya sangat stres setiap kali memikirkan masalah kesehatan.;stress
+Saya kewalahan setiap kali memikirkan tekanan sosial.;stress
+Saya menangis tanpa sebab dengan lingkungan yang tidak mendukung.;stress
+Saya merasa tidak berdaya setiap menghadapi masalah keluarga.;stress
+Saya emosi tidak stabil setiap kali memikirkan performa kerja yang menurun.;stress
+Saya gelisah saat menghadapi keraguan diri.;stress
+Saya menangis tanpa sebab dengan tenggat waktu semakin dekat.;stress
+Saya merasa hampa setiap menghadapi klien yang sulit.;stress
+Saya sangat stres dengan kurang tidur.;stress
+Saya pikiran kacau karena ekspektasi tinggi.;stress
+Saya ingin menyerah memikirkan ekspektasi tinggi.;stress
+Saya ingin menyerah setiap kali memikirkan tenggat waktu semakin dekat.;stress
+Saya sangat stres ketika memikirkan tekanan sosial.;stress
+Saya tidak bisa rileks saat menghadapi pertengkaran dengan pasangan.;stress
+Saya sangat stres akibat pekerjaan menumpuk.;stress
+Saya tidak bisa fokus di tengah performa kerja yang menurun.;stress
+Saya pikiran kacau setiap kali memikirkan target yang tidak realistis.;stress
+Saya kewalahan ketika harus menyelesaikan tenggat waktu semakin dekat.;stress
+Saya gelisah karena terus-menerus menghadapi jadwal yang padat.;stress
+Saya sangat stres setiap kali memikirkan konflik di tempat kerja.;stress
+Saya ingin menyerah karena tekanan sosial.;stress
+Saya terbebani secara mental memikirkan performa kerja yang menurun.;stress
+Saya tidak bisa tidur saat menghadapi masalah kesehatan.;stress
+Saya tertekan setiap menghadapi tekanan dari atasan.;stress
+Saya tidak bisa rileks karena terus-menerus menghadapi kehilangan motivasi.;stress
+Saya tegang karena ujian akhir.;stress
+Saya gelisah dengan masalah keuangan.;stress
+Saya tegang dengan tugas kuliah.;stress
+Saya ingin menyerah saat menghadapi tanggung jawab yang berat.;stress
+Saya lelah dan stres ketika harus menyelesaikan performa kerja yang menurun.;stress
+Saya ingin menyerah setiap menghadapi performa kerja yang menurun.;stress
+Saya tidak bisa rileks dengan tanggung jawab yang berat.;stress
+Saya pikiran kacau di tengah rutinitas yang melelahkan.;stress
+Saya tertekan saat menghadapi masalah keuangan.;stress
+Saya pikiran kacau setiap kali memikirkan jadwal yang padat.;stress
+Saya menangis tanpa sebab dengan kurang tidur.;stress
+Saya tidak bisa rileks karena terus-menerus menghadapi deadline yang ketat.;stress
+Saya merasa hampa karena terus-menerus menghadapi deadline yang ketat.;stress
+Saya sangat stres akibat lingkungan yang tidak mendukung.;stress
+Saya tidak bisa tidur saat menghadapi masalah keluarga.;stress
+Saya merasa hampa karena terus-menerus menghadapi pertengkaran dengan pasangan.;stress
+Saya tertekan di tengah utang yang menumpuk.;stress
+Saya tidak bisa tidur saat menghadapi target yang tidak realistis.;stress
+Saya tidak bisa tidur karena terus-menerus menghadapi ekspektasi tinggi.;stress
+Saya terbebani secara mental dengan konflik di tempat kerja.;stress
+Saya pikiran kacau karena kurang tidur.;stress
+Saya terbebani secara mental karena terus-menerus menghadapi presentasi besar.;stress
+Saya lelah dan stres setiap kali memikirkan utang yang menumpuk.;stress
+Saya tidak bisa tidur ketika harus menyelesaikan lingkungan yang tidak mendukung.;stress
+Saya menangis tanpa sebab disebabkan oleh masalah kesehatan.;stress
+Saya tegang ketika harus menyelesaikan pertengkaran dengan pasangan.;stress
+Saya emosi tidak stabil setiap menghadapi ujian akhir.;stress
+Saya tidak bisa rileks setiap menghadapi masalah keluarga.;stress
+Saya tidak bisa tidur setiap kali memikirkan pekerjaan menumpuk.;stress
+Saya menangis tanpa sebab di tengah jadwal yang padat.;stress
+Saya tidak bisa tidur saat menghadapi konflik di tempat kerja.;stress
+Saya emosi tidak stabil ketika memikirkan konflik di tempat kerja.;stress
+Saya tertekan memikirkan target yang tidak realistis.;stress
+Saya lelah dan stres saat menghadapi lingkungan yang tidak mendukung.;stress
+Saya emosi tidak stabil disebabkan oleh kehilangan motivasi.;stress
+Saya sangat stres memikirkan kehilangan motivasi.;stress
+Saya emosi tidak stabil setiap kali memikirkan pekerjaan menumpuk.;stress
+Saya emosi tidak stabil memikirkan tugas kuliah.;stress
+Saya menangis tanpa sebab karena ekspektasi tinggi.;stress
+Saya kewalahan akibat tekanan sosial.;stress
+Saya merasa tidak berdaya ketika harus menyelesaikan pekerjaan menumpuk.;stress
+Saya sangat stres setiap kali memikirkan pertengkaran dengan pasangan.;stress
+Saya kewalahan saat menghadapi deadline yang ketat.;stress
+Saya gelisah akibat masalah keluarga.;stress
+Saya tertekan di tengah masalah keluarga.;stress
+Saya menangis tanpa sebab dengan lingkungan yang tidak mendukung.;stress
+Saya tidak bisa rileks karena terus-menerus menghadapi presentasi besar.;stress
+Saya ingin menyerah akibat kehilangan motivasi.;stress
+Saya gelisah setiap kali memikirkan presentasi besar.;stress
+Saya tertekan di tengah rutinitas yang melelahkan.;stress
+Saya menangis tanpa sebab setiap kali memikirkan masalah keuangan.;stress
+Saya emosi tidak stabil memikirkan jadwal yang padat.;stress
+Saya kewalahan setiap kali memikirkan performa kerja yang menurun.;stress
+Saya tertekan ketika harus menyelesaikan target yang tidak realistis.;stress
+Saya tidak bisa fokus di tengah masalah kesehatan.;stress
+Saya tidak bisa rileks karena masalah kesehatan.;stress
+Saya tidak bisa fokus ketika memikirkan keraguan diri.;stress
+Saya kewalahan saat menghadapi tekanan dari atasan.;stress
+Saya emosi tidak stabil ketika memikirkan lingkungan yang tidak mendukung.;stress
+Saya kewalahan setiap kali memikirkan tugas kuliah.;stress
+Saya lelah dan stres di tengah jadwal yang padat.;stress
+Saya tidak bisa fokus saat menghadapi tekanan sosial.;stress
+Saya tegang disebabkan oleh masalah kesehatan.;stress
+Saya merasa tidak berdaya ketika memikirkan ujian akhir.;stress
+Saya sangat stres setiap menghadapi tekanan dari atasan.;stress
+Saya sangat stres karena presentasi besar.;stress
+Saya tidak bisa rileks setiap kali memikirkan target yang tidak realistis.;stress
+Saya tertekan karena terus-menerus menghadapi lingkungan yang tidak mendukung.;stress
+Saya tertekan di tengah masalah keluarga.;stress
+Saya tidak bisa rileks karena utang yang menumpuk.;stress
+Saya menangis tanpa sebab ketika harus menyelesaikan kurang tidur.;stress
+Saya ingin menyerah ketika harus menyelesaikan kehilangan motivasi.;stress
+Saya sangat stres karena terus-menerus menghadapi utang yang menumpuk.;stress
+Saya terbebani secara mental karena tenggat waktu semakin dekat.;stress
+Saya tidak bisa tidur di tengah pertengkaran dengan pasangan.;stress
+Saya terbebani secara mental dengan tanggung jawab yang berat.;stress
+Saya tidak bisa tidur disebabkan oleh masalah keluarga.;stress
+Saya merasa tidak berdaya karena ekspektasi tinggi.;stress
+Saya gelisah saat menghadapi masalah keuangan.;stress
+Saya pikiran kacau ketika memikirkan tugas kuliah.;stress
+Saya menangis tanpa sebab di tengah konflik di tempat kerja.;stress
+Saya ingin menyerah setiap menghadapi performa kerja yang menurun.;stress
+Saya menangis tanpa sebab dengan pekerjaan menumpuk.;stress
+Saya merasa tidak berdaya disebabkan oleh tekanan sosial.;stress
+Saya terbebani secara mental karena deadline yang ketat.;stress
+Saya merasa hampa saat menghadapi tenggat waktu semakin dekat.;stress
+Saya merasa hampa karena klien yang sulit.;stress
+Saya tegang ketika memikirkan target yang tidak realistis.;stress
+Saya emosi tidak stabil disebabkan oleh ujian akhir.;stress
+Saya gelisah karena utang yang menumpuk.;stress
+Saya sangat stres karena rutinitas yang melelahkan.;stress
+Saya kewalahan karena masalah keuangan.;stress
+Saya lelah dan stres memikirkan masalah keuangan.;stress
+Saya sangat stres memikirkan tanggung jawab yang berat.;stress
+Saya tegang di tengah tekanan sosial.;stress
+Saya emosi tidak stabil di tengah lingkungan yang tidak mendukung.;stress
+Saya lelah dan stres saat menghadapi keraguan diri.;stress
+Saya tertekan ketika harus menyelesaikan lingkungan yang tidak mendukung.;stress
+Saya tidak bisa tidur disebabkan oleh tenggat waktu semakin dekat.;stress
+Saya tidak bisa fokus karena keraguan diri.;stress
+Saya menangis tanpa sebab memikirkan lingkungan yang tidak mendukung.;stress
+Saya merasa hampa disebabkan oleh deadline yang ketat.;stress
+Saya merasa tidak berdaya memikirkan jadwal yang padat.;stress
+Saya menangis tanpa sebab dengan tenggat waktu semakin dekat.;stress
+Saya merasa hampa memikirkan tekanan sosial.;stress
+Saya tidak bisa tidur dengan performa kerja yang menurun.;stress
+Saya kewalahan akibat pekerjaan menumpuk.;stress
+Saya gelisah karena terus-menerus menghadapi tenggat waktu semakin dekat.;stress
+Saya terbebani secara mental setiap kali memikirkan performa kerja yang menurun.;stress
+Saya sangat stres disebabkan oleh tugas kuliah.;stress
+Saya sangat stres saat menghadapi kehilangan motivasi.;stress
+Saya sangat stres akibat tekanan sosial.;stress
+Saya tidak bisa fokus akibat presentasi besar.;stress
+Saya merasa tidak berdaya karena terus-menerus menghadapi tekanan sosial.;stress
+Saya gelisah setiap menghadapi konflik di tempat kerja.;stress
+Saya ingin menyerah di tengah tekanan sosial.;stress
+Saya menangis tanpa sebab akibat utang yang menumpuk.;stress
+Saya emosi tidak stabil setiap menghadapi konflik di tempat kerja.;stress
+Saya gelisah memikirkan ekspektasi tinggi.;stress
+Saya tertekan disebabkan oleh keraguan diri.;stress
+Saya tidak bisa fokus karena terus-menerus menghadapi ekspektasi tinggi.;stress
+Saya lelah dan stres akibat keraguan diri.;stress
+Saya tertekan saat menghadapi tekanan sosial.;stress
+Saya pikiran kacau karena masalah keluarga.;stress
+Saya gelisah setiap kali memikirkan pertengkaran dengan pasangan.;stress
+Saya emosi tidak stabil disebabkan oleh utang yang menumpuk.;stress
+Saya tidak bisa fokus ketika harus menyelesaikan tekanan sosial.;stress
+Saya pikiran kacau karena masalah keuangan.;stress
+Saya ingin menyerah karena terus-menerus menghadapi kehilangan motivasi.;stress
+Saya merasa tidak berdaya saat menghadapi tugas kuliah.;stress
+Saya pikiran kacau dengan tenggat waktu semakin dekat.;stress
+Saya tidak bisa fokus ketika harus menyelesaikan masalah keuangan.;stress
+Saya merasa hampa setiap menghadapi tugas kuliah.;stress
+Saya gelisah disebabkan oleh lingkungan yang tidak mendukung.;stress
+Saya kewalahan ketika memikirkan lingkungan yang tidak mendukung.;stress
+Saya tidak bisa fokus karena jadwal yang padat.;stress
+Saya tidak bisa fokus ketika memikirkan kurang tidur.;stress
+Saya lelah dan stres di tengah klien yang sulit.;stress
+Saya emosi tidak stabil setiap menghadapi pekerjaan menumpuk.;stress
+Saya ingin menyerah setiap menghadapi ujian akhir.;stress
+Saya kewalahan karena terus-menerus menghadapi performa kerja yang menurun.;stress
+Saya kewalahan saat menghadapi kurang tidur.;stress
+Saya merasa tidak berdaya setiap kali memikirkan tekanan dari atasan.;stress
+Saya ingin menyerah karena klien yang sulit.;stress
+Saya kewalahan karena masalah kesehatan.;stress
+Saya tegang karena terus-menerus menghadapi keraguan diri.;stress
+Saya sangat stres disebabkan oleh kehilangan motivasi.;stress
+Saya menangis tanpa sebab memikirkan ujian akhir.;stress
+Saya terbebani secara mental karena utang yang menumpuk.;stress
+Saya tidak bisa tidur di tengah rutinitas yang melelahkan.;stress
+Saya tidak bisa rileks karena performa kerja yang menurun.;stress
+Saya ingin menyerah karena terus-menerus menghadapi kehilangan motivasi.;stress
+Saya merasa hampa disebabkan oleh masalah kesehatan.;stress
+Saya tidak bisa rileks setiap menghadapi target yang tidak realistis.;stress
+Saya pikiran kacau di tengah tenggat waktu semakin dekat.;stress
+Saya sangat stres karena terus-menerus menghadapi masalah keluarga.;stress
+Saya ingin menyerah ketika memikirkan masalah keluarga.;stress
+Saya gelisah karena rutinitas yang melelahkan.;stress
+Saya terbebani secara mental memikirkan konflik di tempat kerja.;stress
+Saya tidak bisa fokus di tengah jadwal yang padat.;stress
+Saya kewalahan setiap kali memikirkan tanggung jawab yang berat.;stress
+Saya menangis tanpa sebab akibat lingkungan yang tidak mendukung.;stress
+Saya ingin menyerah ketika memikirkan konflik di tempat kerja.;stress
+Saya tidak bisa fokus setiap kali memikirkan masalah kesehatan.;stress
+Saya merasa tidak berdaya disebabkan oleh tanggung jawab yang berat.;stress
+Saya ingin menyerah ketika memikirkan tekanan sosial.;stress
+Saya merasa hampa setiap kali memikirkan kehilangan motivasi.;stress
+Saya lelah dan stres memikirkan target yang tidak realistis.;stress
+Saya terbebani secara mental saat menghadapi masalah keuangan.;stress
+Saya menangis tanpa sebab akibat deadline yang ketat.;stress
+Saya ingin menyerah setiap kali memikirkan ekspektasi tinggi.;stress
+Saya tertekan ketika harus menyelesaikan deadline yang ketat.;stress
+Saya tidak bisa fokus karena tugas kuliah.;stress
+Saya pikiran kacau di tengah masalah keuangan.;stress
+Saya menangis tanpa sebab memikirkan deadline yang ketat.;stress
+Saya tidak bisa tidur karena klien yang sulit.;stress
+Saya menangis tanpa sebab disebabkan oleh ujian akhir.;stress
+Saya kewalahan karena terus-menerus menghadapi tekanan sosial.;stress
+Saya emosi tidak stabil saat menghadapi deadline yang ketat.;stress
+Saya tegang dengan performa kerja yang menurun.;stress
+Saya tertekan setiap menghadapi kurang tidur.;stress
+Saya pikiran kacau disebabkan oleh masalah keuangan.;stress
+Saya pikiran kacau dengan tekanan dari atasan.;stress
+Saya menangis tanpa sebab akibat pertengkaran dengan pasangan.;stress
+Saya terbebani secara mental memikirkan ujian akhir.;stress
+Saya tertekan ketika harus menyelesaikan target yang tidak realistis.;stress
+Saya merasa tidak berdaya karena ujian akhir.;stress
+Saya ingin menyerah karena terus-menerus menghadapi target yang tidak realistis.;stress
+Saya tidak bisa tidur di tengah utang yang menumpuk.;stress
+Saya merasa tidak berdaya saat menghadapi keraguan diri.;stress
+Saya pikiran kacau memikirkan target yang tidak realistis.;stress
+Saya tegang setiap menghadapi konflik di tempat kerja.;stress
+Saya tidak bisa tidur disebabkan oleh utang yang menumpuk.;stress
+Saya merasa hampa ketika harus menyelesaikan pertengkaran dengan pasangan.;stress
+Saya tidak bisa fokus memikirkan tekanan dari atasan.;stress
+Saya merasa tidak berdaya akibat tekanan sosial.;stress
+Saya tegang karena kurang tidur.;stress
+Saya tertekan ketika harus menyelesaikan lingkungan yang tidak mendukung.;stress
+Saya ingin menyerah saat menghadapi performa kerja yang menurun.;stress
+Saya sangat stres saat menghadapi konflik di tempat kerja.;stress
+Saya merasa tidak berdaya ketika memikirkan tanggung jawab yang berat.;stress
+Saya tidak bisa tidur di tengah performa kerja yang menurun.;stress
+Saya emosi tidak stabil ketika memikirkan utang yang menumpuk.;stress
+Saya tidak bisa tidur memikirkan target yang tidak realistis.;stress
+Saya tegang ketika harus menyelesaikan target yang tidak realistis.;stress
+Saya tidak bisa fokus memikirkan konflik di tempat kerja.;stress
+Saya merasa tidak berdaya di tengah target yang tidak realistis.;stress
+Saya tidak bisa fokus dengan kurang tidur.;stress
+Saya gelisah saat menghadapi masalah keuangan.;stress
+Saya sangat stres setiap kali memikirkan deadline yang ketat.;stress
+Saya tertekan setiap menghadapi pekerjaan menumpuk.;stress
+Saya ingin menyerah ketika memikirkan tanggung jawab yang berat.;stress
+Saya tidak bisa rileks karena tekanan dari atasan.;stress
+Saya merasa tidak berdaya akibat jadwal yang padat.;stress
+Saya tidak bisa rileks setiap kali memikirkan ekspektasi tinggi.;stress
+Saya lelah dan stres saat menghadapi masalah kesehatan.;stress
+Saya tertekan disebabkan oleh konflik di tempat kerja.;stress
+Saya merasa hampa setiap kali memikirkan tugas kuliah.;stress
+Saya terbebani secara mental di tengah ekspektasi tinggi.;stress
+Saya tegang akibat jadwal yang padat.;stress
+Saya merasa hampa saat menghadapi pekerjaan menumpuk.;stress
+Saya ingin menyerah karena terus-menerus menghadapi lingkungan yang tidak mendukung.;stress
+Saya ingin menyerah di tengah performa kerja yang menurun.;stress
+Saya ingin menyerah memikirkan tekanan sosial.;stress
+Saya lelah dan stres akibat tekanan sosial.;stress
+Saya tidak bisa fokus karena utang yang menumpuk.;stress
+Saya tidak bisa rileks ketika memikirkan tugas kuliah.;stress
+Saya gelisah di tengah deadline yang ketat.;stress
+Saya merasa hampa ketika harus menyelesaikan presentasi besar.;stress
+Saya tidak bisa tidur memikirkan keraguan diri.;stress
+Saya tidak bisa rileks dengan klien yang sulit.;stress
+Saya tertekan karena pertengkaran dengan pasangan.;stress
+Saya lelah dan stres ketika memikirkan tugas kuliah.;stress
+Saya sangat stres karena terus-menerus menghadapi target yang tidak realistis.;stress
+Saya tidak bisa tidur karena terus-menerus menghadapi tenggat waktu semakin dekat.;stress
+Saya merasa hampa karena performa kerja yang menurun.;stress
+Saya tegang setiap kali memikirkan presentasi besar.;stress
+Saya ingin menyerah karena terus-menerus menghadapi deadline yang ketat.;stress
+Saya terbebani secara mental setiap kali memikirkan tugas kuliah.;stress
+Saya menangis tanpa sebab akibat presentasi besar.;stress
+Saya lelah dan stres saat menghadapi ekspektasi tinggi.;stress
+Saya tegang ketika harus menyelesaikan tekanan sosial.;stress
+Saya emosi tidak stabil ketika harus menyelesaikan rutinitas yang melelahkan.;stress
+Saya tidak bisa fokus dengan deadline yang ketat.;stress
+Saya terbebani secara mental di tengah jadwal yang padat.;stress
+Saya terbebani secara mental karena tekanan dari atasan.;stress
+Saya tertekan di tengah rutinitas yang melelahkan.;stress
+Saya tidak bisa tidur dengan masalah keluarga.;stress
+Saya tegang ketika memikirkan tugas kuliah.;stress
+Saya emosi tidak stabil memikirkan tenggat waktu semakin dekat.;stress
+Saya menangis tanpa sebab akibat keraguan diri.;stress
+Saya sangat stres saat menghadapi keraguan diri.;stress
+Saya tertekan ketika harus menyelesaikan deadline yang ketat.;stress
+Saya pikiran kacau dengan masalah kesehatan.;stress
+Saya sangat stres saat menghadapi kehilangan motivasi.;stress
+Saya tegang setiap kali memikirkan tenggat waktu semakin dekat.;stress
+Saya sangat stres ketika memikirkan masalah keluarga.;stress
+Saya sangat stres saat menghadapi performa kerja yang menurun.;stress
+Saya kewalahan disebabkan oleh ujian akhir.;stress
+Saya pikiran kacau disebabkan oleh tanggung jawab yang berat.;stress
+Saya tidak bisa tidur dengan ujian akhir.;stress
+Saya merasa hampa ketika harus menyelesaikan kurang tidur.;stress
+Saya gelisah akibat tugas kuliah.;stress
+Saya merasa tidak berdaya di tengah tanggung jawab yang berat.;stress
+Saya menangis tanpa sebab di tengah masalah keuangan.;stress
+Saya gelisah saat menghadapi performa kerja yang menurun.;stress
+Saya emosi tidak stabil karena masalah kesehatan.;stress
+Saya tertekan ketika memikirkan ekspektasi tinggi.;stress
+Saya kewalahan di tengah masalah keuangan.;stress
+Saya tidak bisa tidur saat menghadapi tugas kuliah.;stress
+Saya kewalahan ketika harus menyelesaikan utang yang menumpuk.;stress
+Saya tidak bisa fokus memikirkan performa kerja yang menurun.;stress
+Saya tidak bisa fokus memikirkan masalah keuangan.;stress
+Saya tegang ketika harus menyelesaikan konflik di tempat kerja.;stress
+Saya menangis tanpa sebab memikirkan masalah keluarga.;stress
+Saya sangat stres karena pekerjaan menumpuk.;stress
+Saya ingin menyerah dengan masalah keuangan.;stress
+Saya pikiran kacau dengan ujian akhir.;stress
+Saya merasa tidak berdaya setiap kali memikirkan ujian akhir.;stress
+Saya tertekan ketika memikirkan utang yang menumpuk.;stress
+Saya tegang setiap kali memikirkan tenggat waktu semakin dekat.;stress
+Saya lelah dan stres setiap kali memikirkan tekanan dari atasan.;stress
+Saya menangis tanpa sebab setiap kali memikirkan kehilangan motivasi.;stress
+Saya gelisah memikirkan kurang tidur.;stress
+Saya terbebani secara mental setiap menghadapi tekanan sosial.;stress
+Saya tidak bisa rileks saat menghadapi utang yang menumpuk.;stress
+Saya pikiran kacau setiap kali memikirkan target yang tidak realistis.;stress
+Saya terbebani secara mental disebabkan oleh ekspektasi tinggi.;stress
+Saya tegang saat menghadapi pekerjaan menumpuk.;stress
+Saya tegang saat menghadapi ekspektasi tinggi.;stress
+Saya terbebani secara mental dengan konflik di tempat kerja.;stress
+Saya pikiran kacau karena terus-menerus menghadapi keraguan diri.;stress
+Saya lelah dan stres saat menghadapi rutinitas yang melelahkan.;stress
+Saya tidak bisa fokus akibat pertengkaran dengan pasangan.;stress
+Saya tertekan karena terus-menerus menghadapi lingkungan yang tidak mendukung.;stress
+Saya ingin menyerah karena terus-menerus menghadapi ujian akhir.;stress
+Saya tertekan di tengah masalah keluarga.;stress
+Saya merasa tidak berdaya ketika harus menyelesaikan masalah keuangan.;stress
+Saya sangat stres dengan masalah kesehatan.;stress
+Saya emosi tidak stabil saat menghadapi ujian akhir.;stress
+Saya ingin menyerah setiap menghadapi ujian akhir.;stress
+Saya tegang saat menghadapi masalah keluarga.;stress
+Saya menangis tanpa sebab setiap menghadapi utang yang menumpuk.;stress
+Saya sangat stres setiap kali memikirkan kehilangan motivasi.;stress
+Saya merasa tidak berdaya disebabkan oleh kurang tidur.;stress
+Saya sangat stres disebabkan oleh tenggat waktu semakin dekat.;stress
+Saya gelisah akibat ujian akhir.;stress
+Saya tidak bisa tidur akibat presentasi besar.;stress
+Saya tidak bisa fokus karena terus-menerus menghadapi pekerjaan menumpuk.;stress
+Saya pikiran kacau setiap kali memikirkan masalah keluarga.;stress
+Saya tidak bisa fokus dengan keraguan diri.;stress
+Saya terbebani secara mental setiap menghadapi tanggung jawab yang berat.;stress
+Saya tertekan ketika memikirkan presentasi besar.;stress
+Saya lelah dan stres disebabkan oleh performa kerja yang menurun.;stress
+Saya lelah dan stres karena pertengkaran dengan pasangan.;stress
+Saya emosi tidak stabil ketika memikirkan performa kerja yang menurun.;stress
+Saya pikiran kacau ketika memikirkan utang yang menumpuk.;stress
+Saya emosi tidak stabil disebabkan oleh ekspektasi tinggi.;stress
+Saya tegang saat menghadapi masalah keluarga.;stress
+Saya lelah dan stres ketika harus menyelesaikan rutinitas yang melelahkan.;stress
+Saya kewalahan karena terus-menerus menghadapi masalah keuangan.;stress
+Saya terbebani secara mental dengan rutinitas yang melelahkan.;stress
+Saya tidak bisa rileks akibat deadline yang ketat.;stress
+Saya gelisah akibat keraguan diri.;stress
+Saya tidak bisa tidur ketika harus menyelesaikan masalah keluarga.;stress
+Saya ingin menyerah ketika harus menyelesaikan jadwal yang padat.;stress
+Saya kewalahan saat menghadapi tugas kuliah.;stress
+Saya pikiran kacau karena presentasi besar.;stress
+Saya emosi tidak stabil karena masalah kesehatan.;stress
+Saya lelah dan stres setiap kali memikirkan presentasi besar.;stress
+Saya sangat stres karena terus-menerus menghadapi jadwal yang padat.;stress
+Saya tertekan akibat jadwal yang padat.;stress
+Saya ingin menyerah dengan utang yang menumpuk.;stress
+Saya merasa tidak berdaya disebabkan oleh masalah keluarga.;stress
+Saya terbebani secara mental setiap kali memikirkan jadwal yang padat.;stress
+Saya merasa tidak berdaya ketika harus menyelesaikan lingkungan yang tidak mendukung.;stress
+Saya sangat stres dengan masalah kesehatan.;stress
+Saya tidak bisa rileks di tengah ujian akhir.;stress
+Saya menangis tanpa sebab memikirkan target yang tidak realistis.;stress
+Saya menangis tanpa sebab akibat klien yang sulit.;stress
+Saya menangis tanpa sebab ketika harus menyelesaikan tanggung jawab yang berat.;stress
+Saya pikiran kacau setiap menghadapi masalah keluarga.;stress
+Saya gelisah karena klien yang sulit.;stress
+Saya tidak bisa tidur setiap kali memikirkan tugas kuliah.;stress
+Saya gelisah karena terus-menerus menghadapi klien yang sulit.;stress
+Saya emosi tidak stabil ketika memikirkan klien yang sulit.;stress
+Saya gelisah memikirkan klien yang sulit.;stress
+Saya tidak bisa rileks setiap menghadapi pertengkaran dengan pasangan.;stress
+Saya merasa tidak berdaya akibat rutinitas yang melelahkan.;stress
+Saya kewalahan dengan kehilangan motivasi.;stress
+Saya tegang disebabkan oleh deadline yang ketat.;stress
+Saya sangat stres di tengah konflik di tempat kerja.;stress
+Saya sangat stres setiap menghadapi tekanan sosial.;stress
+Saya sangat stres saat menghadapi kurang tidur.;stress
+Saya tidak bisa rileks setiap menghadapi tenggat waktu semakin dekat.;stress
+Saya tidak bisa fokus memikirkan jadwal yang padat.;stress
+Saya pikiran kacau setiap menghadapi masalah keluarga.;stress
+Saya emosi tidak stabil saat menghadapi ujian akhir.;stress
+Saya terbebani secara mental setiap kali memikirkan ekspektasi tinggi.;stress
+Saya tidak bisa rileks karena terus-menerus menghadapi pekerjaan menumpuk.;stress
+Saya tegang dengan pertengkaran dengan pasangan.;stress
+Saya tidak bisa fokus ketika memikirkan presentasi besar.;stress
+Saya gelisah memikirkan ujian akhir.;stress
+Saya tidak bisa rileks setiap menghadapi masalah keuangan.;stress
+Saya tegang karena terus-menerus menghadapi kehilangan motivasi.;stress
+Saya tertekan dengan klien yang sulit.;stress
+Saya gelisah akibat lingkungan yang tidak mendukung.;stress
+Saya sangat stres ketika memikirkan tenggat waktu semakin dekat.;stress
+Saya ingin menyerah setiap kali memikirkan tekanan sosial.;stress
+Saya merasa tidak berdaya ketika harus menyelesaikan kehilangan motivasi.;stress
+Saya lelah dan stres ketika harus menyelesaikan klien yang sulit.;stress
+Saya kewalahan karena masalah keluarga.;stress
+Saya gelisah dengan tekanan sosial.;stress
+Saya lelah dan stres dengan pekerjaan menumpuk.;stress
+Saya terbebani secara mental disebabkan oleh kurang tidur.;stress
+Saya terbebani secara mental akibat masalah keuangan.;stress
+Saya sangat stres ketika harus menyelesaikan ujian akhir.;stress
+Saya menangis tanpa sebab karena ujian akhir.;stress
+Saya tidak bisa tidur karena terus-menerus menghadapi tanggung jawab yang berat.;stress
+Saya emosi tidak stabil karena terus-menerus menghadapi target yang tidak realistis.;stress
+Saya tidak bisa tidur ketika memikirkan presentasi besar.;stress
+Saya terbebani secara mental memikirkan tugas kuliah.;stress
+Saya lelah dan stres setiap kali memikirkan tugas kuliah.;stress
+Saya tidak bisa rileks dengan performa kerja yang menurun.;stress
+Saya tidak bisa rileks disebabkan oleh kehilangan motivasi.;stress
+Saya pikiran kacau karena terus-menerus menghadapi kurang tidur.;stress
+Saya tidak bisa fokus memikirkan konflik di tempat kerja.;stress
+Saya kewalahan setiap kali memikirkan tekanan dari atasan.;stress
+Saya menangis tanpa sebab disebabkan oleh tanggung jawab yang berat.;stress
+Saya sangat stres ketika memikirkan deadline yang ketat.;stress
+Saya lelah dan stres akibat rutinitas yang melelahkan.;stress
+Saya tidak bisa fokus karena terus-menerus menghadapi tekanan dari atasan.;stress
+Saya merasa hampa dengan ekspektasi tinggi.;stress
+Saya tertekan karena pertengkaran dengan pasangan.;stress
+Saya lelah dan stres di tengah masalah kesehatan.;stress
+Saya menangis tanpa sebab ketika harus menyelesaikan tenggat waktu semakin dekat.;stress
+Saya menangis tanpa sebab dengan konflik di tempat kerja.;stress
+Saya sangat stres akibat pertengkaran dengan pasangan.;stress
+Saya kewalahan setiap kali memikirkan presentasi besar.;stress
+Saya terbebani secara mental karena ekspektasi tinggi.;stress
+Saya gelisah disebabkan oleh rutinitas yang melelahkan.;stress
+Saya tidak bisa tidur memikirkan pekerjaan menumpuk.;stress
+Saya kewalahan dengan tugas kuliah.;stress
+Saya tidak bisa tidur di tengah tekanan dari atasan.;stress
+Saya tegang setiap kali memikirkan lingkungan yang tidak mendukung.;stress
+Saya terbebani secara mental karena terus-menerus menghadapi masalah kesehatan.;stress
+Saya sangat stres karena jadwal yang padat.;stress
+Saya emosi tidak stabil disebabkan oleh keraguan diri.;stress
+Saya tidak bisa tidur setiap kali memikirkan keraguan diri.;stress
+Saya emosi tidak stabil dengan pertengkaran dengan pasangan.;stress
+Saya lelah dan stres setiap kali memikirkan tekanan dari atasan.;stress
+Saya merasa hampa setiap menghadapi utang yang menumpuk.;stress
+Saya gelisah ketika harus menyelesaikan utang yang menumpuk.;stress
+Saya menangis tanpa sebab dengan keraguan diri.;stress
+Saya tertekan karena tekanan sosial.;stress
+Saya kewalahan ketika harus menyelesaikan pertengkaran dengan pasangan.;stress
+Saya tertekan karena terus-menerus menghadapi kurang tidur.;stress
+Saya menangis tanpa sebab ketika harus menyelesaikan konflik di tempat kerja.;stress
+Saya lelah dan stres ketika memikirkan performa kerja yang menurun.;stress
+Saya tidak bisa fokus akibat tekanan sosial.;stress
+Saya tegang saat menghadapi tanggung jawab yang berat.;stress
+Saya kewalahan ketika memikirkan ujian akhir.;stress
+Saya tertekan ketika memikirkan tugas kuliah.;stress
+Saya merasa tidak berdaya ketika memikirkan deadline yang ketat.;stress
+Saya merasa tidak berdaya akibat keraguan diri.;stress
+Saya ingin menyerah saat menghadapi masalah keuangan.;stress
+Saya tidak bisa fokus dengan rutinitas yang melelahkan.;stress
+Saya tidak bisa rileks ketika memikirkan tanggung jawab yang berat.;stress
+Saya lelah dan stres akibat ekspektasi tinggi.;stress
+Saya emosi tidak stabil dengan tanggung jawab yang berat.;stress
+Saya merasa hampa memikirkan masalah keluarga.;stress
+Saya merasa hampa setiap kali memikirkan tugas kuliah.;stress
+Saya lelah dan stres disebabkan oleh pekerjaan menumpuk.;stress
+Saya tertekan memikirkan konflik di tempat kerja.;stress
+Saya merasa tidak berdaya karena terus-menerus menghadapi tenggat waktu semakin dekat.;stress
+Saya terbebani secara mental memikirkan lingkungan yang tidak mendukung.;stress
+Saya ingin menyerah memikirkan lingkungan yang tidak mendukung.;stress
+Saya pikiran kacau ketika harus menyelesaikan tekanan sosial.;stress
+Saya tidak bisa fokus akibat ekspektasi tinggi.;stress
+Saya lelah dan stres memikirkan performa kerja yang menurun.;stress
+Saya kewalahan setiap kali memikirkan klien yang sulit.;stress
+Saya lelah dan stres di tengah ekspektasi tinggi.;stress
+Saya tegang memikirkan presentasi besar.;stress
+Saya menangis tanpa sebab ketika memikirkan klien yang sulit.;stress
+Saya kewalahan ketika memikirkan performa kerja yang menurun.;stress
+Saya merasa hampa ketika harus menyelesaikan rutinitas yang melelahkan.;stress
+Saya lelah dan stres dengan target yang tidak realistis.;stress
+Saya merasa tidak berdaya setiap menghadapi jadwal yang padat.;stress
+Saya tidak bisa tidur setiap menghadapi tugas kuliah.;stress
+Saya kewalahan di tengah deadline yang ketat.;stress
+Saya tidak bisa tidur dengan tugas kuliah.;stress
+Saya merasa hampa karena tenggat waktu semakin dekat.;stress
+Saya pikiran kacau setiap menghadapi pekerjaan menumpuk.;stress
+Saya ingin menyerah karena terus-menerus menghadapi keraguan diri.;stress
+Saya tertekan memikirkan rutinitas yang melelahkan.;stress
+Saya menangis tanpa sebab karena presentasi besar.;stress
+Saya sangat stres saat menghadapi pertengkaran dengan pasangan.;stress
+Saya menangis tanpa sebab ketika memikirkan konflik di tempat kerja.;stress
+Saya tidak bisa tidur ketika harus menyelesaikan masalah keluarga.;stress
+Saya terbebani secara mental di tengah konflik di tempat kerja.;stress
+Saya sangat stres saat menghadapi tekanan sosial.;stress
+Saya sangat stres dengan tugas kuliah.;stress
+Saya tertekan karena klien yang sulit.;stress
+Saya tidak bisa tidur di tengah masalah kesehatan.;stress
+Saya tidak bisa fokus setiap kali memikirkan lingkungan yang tidak mendukung.;stress
+Saya lelah dan stres memikirkan tekanan sosial.;stress
+Saya kewalahan ketika harus menyelesaikan konflik di tempat kerja.;stress
+Saya merasa hampa dengan utang yang menumpuk.;stress
+Saya lelah dan stres setiap kali memikirkan lingkungan yang tidak mendukung.;stress
+Saya terbebani secara mental karena terus-menerus menghadapi jadwal yang padat.;stress
+Saya gelisah akibat utang yang menumpuk.;stress
+Saya menangis tanpa sebab dengan masalah keuangan.;stress
+Saya pikiran kacau saat menghadapi konflik di tempat kerja.;stress
+Saya tidak bisa tidur akibat utang yang menumpuk.;stress
+Saya merasa hampa ketika harus menyelesaikan performa kerja yang menurun.;stress
+Saya ingin menyerah dengan lingkungan yang tidak mendukung.;stress
+Saya emosi tidak stabil disebabkan oleh masalah kesehatan.;stress
+Saya kewalahan setiap kali memikirkan kehilangan motivasi.;stress
+Saya terbebani secara mental setiap kali memikirkan kurang tidur.;stress
+Saya sangat stres disebabkan oleh utang yang menumpuk.;stress
+Saya pikiran kacau saat menghadapi tekanan dari atasan.;stress
+Saya pikiran kacau memikirkan tenggat waktu semakin dekat.;stress
+Saya kewalahan ketika memikirkan rutinitas yang melelahkan.;stress
+Saya tertekan karena terus-menerus menghadapi masalah keuangan.;stress
+Saya tertekan dengan lingkungan yang tidak mendukung.;stress
+Saya menangis tanpa sebab dengan rutinitas yang melelahkan.;stress
+Saya emosi tidak stabil di tengah pekerjaan menumpuk.;stress
+Saya tidak bisa rileks karena terus-menerus menghadapi masalah kesehatan.;stress
+Saya tegang ketika harus menyelesaikan rutinitas yang melelahkan.;stress
+Saya menangis tanpa sebab akibat presentasi besar.;stress
+Saya merasa hampa memikirkan masalah kesehatan.;stress
+Saya tidak bisa tidur memikirkan kurang tidur.;stress
+Saya merasa hampa memikirkan tugas kuliah.;stress
+Saya tidak bisa rileks disebabkan oleh konflik di tempat kerja.;stress
+Saya emosi tidak stabil setiap kali memikirkan performa kerja yang menurun.;stress
+Saya tidak bisa fokus setiap menghadapi target yang tidak realistis.;stress
+Saya tegang ketika harus menyelesaikan masalah keluarga.;stress
+Saya tegang saat menghadapi tekanan dari atasan.;stress
+Saya emosi tidak stabil memikirkan masalah keluarga.;stress
+Saya pikiran kacau akibat tenggat waktu semakin dekat.;stress
+Saya terbebani secara mental setiap kali memikirkan ujian akhir.;stress
+Saya tegang ketika harus menyelesaikan ujian akhir.;stress
+Saya tertekan setiap kali memikirkan tekanan sosial.;stress
+Saya sangat stres karena utang yang menumpuk.;stress
+Saya terbebani secara mental di tengah masalah kesehatan.;stress
+Saya gelisah setiap kali memikirkan ujian akhir.;stress
+Saya merasa tidak berdaya di tengah tenggat waktu semakin dekat.;stress
+Saya sangat stres memikirkan masalah kesehatan.;stress
+Saya tidak bisa rileks karena terus-menerus menghadapi deadline yang ketat.;stress
+Saya tertekan di tengah jadwal yang padat.;stress
+Saya kewalahan akibat lingkungan yang tidak mendukung.;stress
+Saya tegang disebabkan oleh pekerjaan menumpuk.;stress
+Saya merasa tidak berdaya karena terus-menerus menghadapi masalah kesehatan.;stress
+Saya tidak bisa rileks dengan masalah keluarga.;stress
+Saya terbebani secara mental karena deadline yang ketat.;stress
+Saya menangis tanpa sebab setiap kali memikirkan ekspektasi tinggi.;stress
+Saya lelah dan stres akibat klien yang sulit.;stress
+Saya menangis tanpa sebab akibat tenggat waktu semakin dekat.;stress
+Saya tidak bisa fokus akibat ujian akhir.;stress
+Saya lelah dan stres disebabkan oleh tekanan sosial.;stress
+Saya emosi tidak stabil di tengah lingkungan yang tidak mendukung.;stress
+Saya tidak bisa rileks setiap menghadapi performa kerja yang menurun.;stress
+Saya sangat stres di tengah performa kerja yang menurun.;stress
+Saya tertekan akibat ekspektasi tinggi.;stress
+Saya merasa hampa saat menghadapi presentasi besar.;stress
+Saya kewalahan akibat pertengkaran dengan pasangan.;stress
+Saya ingin menyerah dengan utang yang menumpuk.;stress
+Saya tegang setiap menghadapi presentasi besar.;stress
+Saya menangis tanpa sebab karena terus-menerus menghadapi masalah kesehatan.;stress
+Saya pikiran kacau akibat pertengkaran dengan pasangan.;stress
+Saya merasa hampa setiap kali memikirkan pertengkaran dengan pasangan.;stress
+Saya merasa tidak berdaya karena kehilangan motivasi.;stress
+Saya menangis tanpa sebab setiap kali memikirkan masalah kesehatan.;stress
+Saya emosi tidak stabil setiap kali memikirkan ekspektasi tinggi.;stress
+Saya ingin menyerah saat menghadapi tekanan sosial.;stress
+Saya tidak bisa fokus ketika memikirkan masalah kesehatan.;stress
+Saya ingin menyerah saat menghadapi rutinitas yang melelahkan.;stress
+Saya tidak bisa tidur setiap kali memikirkan performa kerja yang menurun.;stress
+Saya emosi tidak stabil saat menghadapi kurang tidur.;stress
+Saya kewalahan akibat tugas kuliah.;stress
+Saya emosi tidak stabil karena terus-menerus menghadapi rutinitas yang melelahkan.;stress
+Saya sangat stres akibat masalah kesehatan.;stress
+Saya merasa hampa ketika harus menyelesaikan jadwal yang padat.;stress
+Saya emosi tidak stabil dengan tenggat waktu semakin dekat.;stress
+Saya pikiran kacau saat menghadapi rutinitas yang melelahkan.;stress
+Saya kewalahan disebabkan oleh ekspektasi tinggi.;stress
+Saya gelisah dengan konflik di tempat kerja.;stress
+Saya merasa tidak berdaya dengan ujian akhir.;stress
+Saya merasa tidak berdaya ketika memikirkan konflik di tempat kerja.;stress
+Saya tertekan dengan kurang tidur.;stress
+Saya pikiran kacau ketika harus menyelesaikan tugas kuliah.;stress
+Saya tidak bisa rileks karena terus-menerus menghadapi kehilangan motivasi.;stress
+Saya tidak bisa tidur disebabkan oleh presentasi besar.;stress
+Saya tidak bisa tidur disebabkan oleh kurang tidur.;stress
+Saya merasa hampa karena terus-menerus menghadapi target yang tidak realistis.;stress
+Saya merasa tidak berdaya dengan tanggung jawab yang berat.;stress
+Saya pikiran kacau saat menghadapi tekanan sosial.;stress
+Saya sangat stres setiap kali memikirkan masalah kesehatan.;stress
+Saya tidak bisa rileks ketika memikirkan tekanan sosial.;stress
+Saya kewalahan ketika harus menyelesaikan pertengkaran dengan pasangan.;stress
+Saya tidak bisa fokus memikirkan konflik di tempat kerja.;stress
+Saya kewalahan ketika harus menyelesaikan presentasi besar.;stress
+Saya tidak bisa rileks setiap kali memikirkan klien yang sulit.;stress
+Saya tertekan saat menghadapi konflik di tempat kerja.;stress
+Saya pikiran kacau setiap kali memikirkan masalah keluarga.;stress
+Saya tidak bisa tidur karena terus-menerus menghadapi rutinitas yang melelahkan.;stress
+Saya merasa hampa karena pertengkaran dengan pasangan.;stress
+Saya kewalahan setiap menghadapi pekerjaan menumpuk.;stress
+Saya menangis tanpa sebab setiap menghadapi utang yang menumpuk.;stress
+Saya merasa tidak berdaya saat menghadapi tugas kuliah.;stress
+Saya menangis tanpa sebab akibat performa kerja yang menurun.;stress
+Saya sangat stres di tengah tugas kuliah.;stress
+Saya menangis tanpa sebab ketika harus menyelesaikan jadwal yang padat.;stress
+Saya pikiran kacau karena lingkungan yang tidak mendukung.;stress
+Saya tertekan ketika harus menyelesaikan masalah keluarga.;stress
+Saya gelisah ketika memikirkan keraguan diri.;stress
+Saya ingin menyerah akibat performa kerja yang menurun.;stress
+Saya gelisah disebabkan oleh lingkungan yang tidak mendukung.;stress
+Saya emosi tidak stabil ketika memikirkan kehilangan motivasi.;stress
+Saya terbebani secara mental ketika memikirkan rutinitas yang melelahkan.;stress
+Saya emosi tidak stabil memikirkan masalah kesehatan.;stress
+Saya terbebani secara mental setiap kali memikirkan kurang tidur.;stress
+Saya kewalahan setiap menghadapi presentasi besar.;stress
+Saya terbebani secara mental setiap kali memikirkan utang yang menumpuk.;stress
+Saya emosi tidak stabil dengan tanggung jawab yang berat.;stress
+Saya emosi tidak stabil dengan masalah keluarga.;stress
+Saya menangis tanpa sebab memikirkan utang yang menumpuk.;stress
+Saya pikiran kacau ketika harus menyelesaikan kehilangan motivasi.;stress
+Saya sangat stres saat menghadapi rutinitas yang melelahkan.;stress
+Saya sangat stres setiap menghadapi lingkungan yang tidak mendukung.;stress
+Saya tertekan setiap menghadapi konflik di tempat kerja.;stress
+Saya merasa tidak berdaya di tengah tugas kuliah.;stress
+Saya tidak bisa tidur ketika memikirkan pekerjaan menumpuk.;stress
+Saya merasa tidak berdaya disebabkan oleh kehilangan motivasi.;stress
+Saya tegang dengan pekerjaan menumpuk.;stress
+Saya tidak bisa fokus disebabkan oleh ekspektasi tinggi.;stress
+Saya gelisah memikirkan tugas kuliah.;stress
+Saya gelisah saat menghadapi performa kerja yang menurun.;stress
+Saya kewalahan setiap kali memikirkan tekanan dari atasan.;stress
+Saya kewalahan karena konflik di tempat kerja.;stress
+Saya tertekan ketika memikirkan target yang tidak realistis.;stress
+Saya gelisah dengan performa kerja yang menurun.;stress
+Saya merasa tidak berdaya dengan tugas kuliah.;stress
+Saya tertekan ketika memikirkan ekspektasi tinggi.;stress
+Saya merasa tidak berdaya karena pekerjaan menumpuk.;stress
+Saya tidak bisa fokus disebabkan oleh masalah keuangan.;stress
+Saya tidak bisa fokus disebabkan oleh masalah keluarga.;stress
+Saya ingin menyerah karena terus-menerus menghadapi masalah keluarga.;stress
+Saya kewalahan karena terus-menerus menghadapi ujian akhir.;stress
+Saya tertekan memikirkan tanggung jawab yang berat.;stress
+Saya pikiran kacau karena terus-menerus menghadapi ujian akhir.;stress
+Saya tidak bisa tidur saat menghadapi ujian akhir.;stress
+Saya kewalahan memikirkan presentasi besar.;stress
+Saya tertekan dengan masalah keluarga.;stress
+Saya pikiran kacau setiap menghadapi lingkungan yang tidak mendukung.;stress
+Saya pikiran kacau saat menghadapi ekspektasi tinggi.;stress
+Saya merasa hampa akibat utang yang menumpuk.;stress
+Saya tertekan memikirkan ekspektasi tinggi.;stress
+Saya lelah dan stres memikirkan tekanan sosial.;stress
+Saya tidak bisa fokus dengan pekerjaan menumpuk.;stress
+Saya merasa hampa ketika memikirkan kurang tidur.;stress
+Saya lelah dan stres ketika harus menyelesaikan pertengkaran dengan pasangan.;stress
+Saya ingin menyerah karena terus-menerus menghadapi jadwal yang padat.;stress
+Saya tegang karena tekanan dari atasan.;stress
+Saya menangis tanpa sebab karena tugas kuliah.;stress
+Saya merasa tidak berdaya karena terus-menerus menghadapi kehilangan motivasi.;stress
+Saya tidak bisa fokus dengan utang yang menumpuk.;stress
+Saya tidak bisa fokus saat menghadapi deadline yang ketat.;stress
+Saya tegang setiap kali memikirkan tanggung jawab yang berat.;stress
+Saya menangis tanpa sebab karena rutinitas yang melelahkan.;stress
+Saya terbebani secara mental memikirkan tanggung jawab yang berat.;stress
+Saya gelisah ketika harus menyelesaikan ujian akhir.;stress
+Saya merasa tidak berdaya memikirkan tekanan dari atasan.;stress
+Saya tegang di tengah kurang tidur.;stress
+Saya merasa tidak berdaya setiap menghadapi pertengkaran dengan pasangan.;stress
+Saya pikiran kacau setiap kali memikirkan pekerjaan menumpuk.;stress
+Saya tidak bisa fokus ketika harus menyelesaikan tekanan dari atasan.;stress
+Saya tegang ketika harus menyelesaikan rutinitas yang melelahkan.;stress
+Saya tidak bisa fokus akibat masalah kesehatan.;stress
+Saya emosi tidak stabil akibat utang yang menumpuk.;stress
+Saya tidak bisa tidur di tengah ekspektasi tinggi.;stress
+Saya merasa tidak berdaya dengan klien yang sulit.;stress
+Saya terbebani secara mental di tengah kurang tidur.;stress
+Saya tidak bisa fokus setiap kali memikirkan tekanan sosial.;stress
+Saya kewalahan karena ekspektasi tinggi.;stress
+Saya terbebani secara mental ketika memikirkan kehilangan motivasi.;stress
+Saya menangis tanpa sebab ketika harus menyelesaikan tugas kuliah.;stress
+Saya tidak bisa rileks karena terus-menerus menghadapi tekanan dari atasan.;stress
+Saya merasa hampa karena terus-menerus menghadapi konflik di tempat kerja.;stress
+Saya menangis tanpa sebab ketika memikirkan pekerjaan menumpuk.;stress
+Saya gelisah karena terus-menerus menghadapi kurang tidur.;stress
+Saya emosi tidak stabil saat menghadapi jadwal yang padat.;stress
+Saya merasa hampa setiap kali memikirkan tugas kuliah.;stress
+Saya emosi tidak stabil saat menghadapi jadwal yang padat.;stress
+Saya lelah dan stres ketika harus menyelesaikan presentasi besar.;stress
+Saya menangis tanpa sebab dengan target yang tidak realistis.;stress
+Saya pikiran kacau saat menghadapi rutinitas yang melelahkan.;stress
+Saya gelisah setiap menghadapi lingkungan yang tidak mendukung.;stress
+Saya tidak bisa rileks dengan target yang tidak realistis.;stress
+Saya terbebani secara mental memikirkan lingkungan yang tidak mendukung.;stress
+Saya tidak bisa tidur ketika memikirkan kurang tidur.;stress
+Saya sangat stres karena presentasi besar.;stress
+Saya ingin menyerah karena lingkungan yang tidak mendukung.;stress
+Saya tidak bisa fokus setiap menghadapi tanggung jawab yang berat.;stress
+Saya ingin menyerah karena masalah keluarga.;stress
+Saya terbebani secara mental akibat tekanan dari atasan.;stress
+Saya sangat stres saat menghadapi jadwal yang padat.;stress
+Saya emosi tidak stabil karena performa kerja yang menurun.;stress
+Saya sangat stres ketika harus menyelesaikan target yang tidak realistis.;stress
+Saya ingin menyerah disebabkan oleh jadwal yang padat.;stress
+Saya gelisah ketika memikirkan performa kerja yang menurun.;stress
+Saya terbebani secara mental karena tanggung jawab yang berat.;stress
+Saya lelah dan stres karena terus-menerus menghadapi deadline yang ketat.;stress
+Saya terbebani secara mental karena terus-menerus menghadapi tekanan dari atasan.;stress
+Saya tidak bisa tidur memikirkan utang yang menumpuk.;stress
+Saya tidak bisa fokus karena kurang tidur.;stress
+Saya menangis tanpa sebab saat menghadapi tanggung jawab yang berat.;stress
+Saya emosi tidak stabil disebabkan oleh konflik di tempat kerja.;stress
+Saya tertekan akibat klien yang sulit.;stress
+Saya merasa hampa akibat kurang tidur.;stress
+Saya ingin menyerah disebabkan oleh kehilangan motivasi.;stress
+Saya pikiran kacau karena terus-menerus menghadapi masalah kesehatan.;stress
+Saya tegang ketika memikirkan keraguan diri.;stress
+Saya sangat stres disebabkan oleh presentasi besar.;stress
+Saya tidak bisa rileks karena kurang tidur.;stress
+Saya merasa hampa akibat keraguan diri.;stress
+Saya tidak bisa tidur setiap kali memikirkan kurang tidur.;stress
+Saya lelah dan stres akibat ekspektasi tinggi.;stress
+Saya menangis tanpa sebab akibat deadline yang ketat.;stress
+Saya merasa hampa memikirkan tekanan sosial.;stress
+Saya tertekan setiap kali memikirkan performa kerja yang menurun.;stress
+Saya merasa tidak berdaya di tengah presentasi besar.;stress
+Saya tidak bisa fokus disebabkan oleh tenggat waktu semakin dekat.;stress
+Saya terbebani secara mental ketika harus menyelesaikan pekerjaan menumpuk.;stress
+Saya menangis tanpa sebab ketika harus menyelesaikan target yang tidak realistis.;stress
+Saya pikiran kacau karena tekanan sosial.;stress
+Saya tidak bisa rileks memikirkan tugas kuliah.;stress
+Saya tidak bisa rileks ketika harus menyelesaikan klien yang sulit.;stress
+Saya sangat stres karena terus-menerus menghadapi utang yang menumpuk.;stress
+Saya merasa hampa ketika harus menyelesaikan utang yang menumpuk.;stress
+Saya emosi tidak stabil karena klien yang sulit.;stress
+Saya merasa tidak berdaya memikirkan deadline yang ketat.;stress
+Saya tidak bisa tidur disebabkan oleh tekanan dari atasan.;stress
+Saya tegang setiap kali memikirkan pekerjaan menumpuk.;stress
+Saya tertekan akibat target yang tidak realistis.;stress
+Saya tidak bisa fokus karena kurang tidur.;stress
+Saya merasa tidak berdaya setiap kali memikirkan presentasi besar.;stress
+Saya merasa tidak berdaya saat menghadapi tugas kuliah.;stress
+Saya menangis tanpa sebab memikirkan konflik di tempat kerja.;stress
+Saya tertekan memikirkan ekspektasi tinggi.;stress
+Saya sangat stres ketika harus menyelesaikan ujian akhir.;stress
+Saya tidak bisa tidur setiap menghadapi presentasi besar.;stress
+Saya pikiran kacau saat menghadapi jadwal yang padat.;stress
+Saya merasa tidak berdaya disebabkan oleh masalah keluarga.;stress
+Saya merasa hampa disebabkan oleh ekspektasi tinggi.;stress
+Saya tidak bisa rileks dengan rutinitas yang melelahkan.;stress
+Saya kewalahan ketika harus menyelesaikan jadwal yang padat.;stress
+Saya emosi tidak stabil setiap menghadapi pertengkaran dengan pasangan.;stress
+Saya tegang memikirkan utang yang menumpuk.;stress
+Saya tegang setiap kali memikirkan tugas kuliah.;stress
+Saya pikiran kacau akibat utang yang menumpuk.;stress
+Saya menangis tanpa sebab memikirkan presentasi besar.;stress
+Saya menangis tanpa sebab akibat ujian akhir.;stress
+Saya menangis tanpa sebab dengan target yang tidak realistis.;stress
+Saya ingin menyerah setiap menghadapi pekerjaan menumpuk.;stress
+Saya merasa hampa memikirkan pekerjaan menumpuk.;stress
+Saya sangat stres karena terus-menerus menghadapi tanggung jawab yang berat.;stress
+Saya tidak bisa tidur karena kehilangan motivasi.;stress
+Saya gelisah ketika memikirkan masalah kesehatan.;stress
+Saya tertekan ketika memikirkan kurang tidur.;stress
+Saya tidak bisa tidur setiap kali memikirkan ujian akhir.;stress
+Saya kewalahan karena ujian akhir.;stress
+Saya sangat stres setiap kali memikirkan pekerjaan menumpuk.;stress
+Saya lelah dan stres memikirkan deadline yang ketat.;stress
+Saya tidak bisa fokus disebabkan oleh jadwal yang padat.;stress
+Saya merasa hampa ketika memikirkan utang yang menumpuk.;stress
+Saya pikiran kacau dengan presentasi besar.;stress
+Saya gelisah saat menghadapi ekspektasi tinggi.;stress
+Saya pikiran kacau karena ujian akhir.;stress
+Saya gelisah disebabkan oleh tenggat waktu semakin dekat.;stress
+Saya ingin menyerah karena terus-menerus menghadapi kehilangan motivasi.;stress
+Saya ingin menyerah ketika memikirkan tugas kuliah.;stress
+Saya emosi tidak stabil disebabkan oleh jadwal yang padat.;stress
+Saya merasa hampa karena terus-menerus menghadapi pekerjaan menumpuk.;stress
+Saya tidak bisa fokus karena jadwal yang padat.;stress
+Saya lelah dan stres saat menghadapi tugas kuliah.;stress
+Saya tidak bisa tidur karena ekspektasi tinggi.;stress
+Saya tidak bisa fokus dengan pertengkaran dengan pasangan.;stress
+Saya emosi tidak stabil memikirkan tanggung jawab yang berat.;stress
+Saya ingin menyerah ketika memikirkan target yang tidak realistis.;stress
+Saya menangis tanpa sebab karena terus-menerus menghadapi keraguan diri.;stress
+Saya menangis tanpa sebab disebabkan oleh masalah kesehatan.;stress
+Saya gelisah dengan kurang tidur.;stress
+Saya kewalahan saat menghadapi tekanan dari atasan.;stress
+Saya emosi tidak stabil karena tenggat waktu semakin dekat.;stress
+Saya tidak bisa fokus setiap menghadapi tanggung jawab yang berat.;stress
+Saya menangis tanpa sebab ketika harus menyelesaikan masalah keuangan.;stress
+Saya merasa tidak berdaya memikirkan klien yang sulit.;stress
+Saya terbebani secara mental disebabkan oleh masalah keluarga.;stress
+Saya tegang setiap kali memikirkan utang yang menumpuk.;stress
+Saya emosi tidak stabil di tengah utang yang menumpuk.;stress
+Saya kewalahan di tengah rutinitas yang melelahkan.;stress
+Saya tidak bisa fokus disebabkan oleh tanggung jawab yang berat.;stress
+Saya ingin menyerah karena terus-menerus menghadapi kehilangan motivasi.;stress
+Saya emosi tidak stabil saat menghadapi klien yang sulit.;stress
+Saya ingin menyerah ketika memikirkan performa kerja yang menurun.;stress
+Saya lelah dan stres karena terus-menerus menghadapi tenggat waktu semakin dekat.;stress
+Saya merasa hampa disebabkan oleh performa kerja yang menurun.;stress
+Saya tidak bisa tidur setiap menghadapi keraguan diri.;stress
+Saya tidak bisa fokus ketika harus menyelesaikan pekerjaan menumpuk.;stress
+Saya gelisah akibat tekanan dari atasan.;stress
+Saya lelah dan stres setiap kali memikirkan tekanan dari atasan.;stress
+Saya tertekan memikirkan utang yang menumpuk.;stress
+Saya menangis tanpa sebab ketika harus menyelesaikan utang yang menumpuk.;stress
+Saya merasa tidak berdaya saat menghadapi utang yang menumpuk.;stress
+Saya tidak bisa fokus memikirkan tanggung jawab yang berat.;stress
+Saya kewalahan saat menghadapi utang yang menumpuk.;stress
+Saya gelisah ketika memikirkan masalah keluarga.;stress
+Saya sangat stres ketika memikirkan jadwal yang padat.;stress
+Saya merasa hampa di tengah rutinitas yang melelahkan.;stress
+Saya terbebani secara mental akibat kurang tidur.;stress
+Saya gelisah setiap menghadapi utang yang menumpuk.;stress
+Saya sangat stres setiap kali memikirkan keraguan diri.;stress
+Saya lelah dan stres akibat lingkungan yang tidak mendukung.;stress
+Saya tegang akibat presentasi besar.;stress
+Saya tidak bisa tidur saat menghadapi klien yang sulit.;stress
+Saya terbebani secara mental setiap kali memikirkan tanggung jawab yang berat.;stress
+Saya merasa tidak berdaya setiap kali memikirkan ujian akhir.;stress
+Saya ingin menyerah memikirkan keraguan diri.;stress
+Saya tidak bisa fokus ketika harus menyelesaikan konflik di tempat kerja.;stress
+Saya tidak bisa rileks akibat tanggung jawab yang berat.;stress
+Saya gelisah memikirkan masalah kesehatan.;stress
+Saya tidak bisa rileks saat menghadapi masalah keluarga.;stress
+Saya tidak bisa rileks setiap menghadapi kurang tidur.;stress
+Saya merasa hampa akibat target yang tidak realistis.;stress
+Saya ingin menyerah disebabkan oleh tekanan dari atasan.;stress
+Saya lelah dan stres ketika memikirkan tanggung jawab yang berat.;stress
+Saya tidak bisa tidur akibat tekanan sosial.;stress
+Saya menangis tanpa sebab ketika memikirkan tekanan sosial.;stress
+Saya pikiran kacau disebabkan oleh jadwal yang padat.;stress
+Saya merasa tidak berdaya di tengah ekspektasi tinggi.;stress
+Saya lelah dan stres dengan target yang tidak realistis.;stress
+Saya ingin menyerah karena terus-menerus menghadapi performa kerja yang menurun.;stress
+Saya tertekan karena terus-menerus menghadapi tenggat waktu semakin dekat.;stress
+Saya merasa hampa di tengah performa kerja yang menurun.;stress
+Saya merasa hampa ketika memikirkan pekerjaan menumpuk.;stress
+Saya menangis tanpa sebab karena pekerjaan menumpuk.;stress
+Saya ingin menyerah memikirkan tenggat waktu semakin dekat.;stress
+Saya menangis tanpa sebab saat menghadapi jadwal yang padat.;stress
+Saya tertekan ketika harus menyelesaikan presentasi besar.;stress
+Saya sangat stres akibat pertengkaran dengan pasangan.;stress
+Saya tertekan setiap menghadapi kehilangan motivasi.;stress
+Saya tidak bisa rileks saat menghadapi presentasi besar.;stress
+Saya tertekan ketika memikirkan konflik di tempat kerja.;stress
+Saya tidak bisa fokus ketika memikirkan deadline yang ketat.;stress
+Saya emosi tidak stabil saat menghadapi ujian akhir.;stress
+Saya merasa tidak berdaya di tengah klien yang sulit.;stress
+Saya tidak bisa rileks karena ekspektasi tinggi.;stress
+Saya lelah dan stres setiap menghadapi performa kerja yang menurun.;stress
+Saya tidak bisa rileks karena terus-menerus menghadapi pekerjaan menumpuk.;stress
+Saya tertekan karena utang yang menumpuk.;stress
+Saya terbebani secara mental setiap kali memikirkan kehilangan motivasi.;stress
+Saya sangat stres di tengah presentasi besar.;stress
+Saya tertekan saat menghadapi target yang tidak realistis.;stress
+Saya sangat stres ketika memikirkan masalah keluarga.;stress
+Saya tertekan ketika memikirkan tanggung jawab yang berat.;stress
+Saya terbebani secara mental setiap menghadapi konflik di tempat kerja.;stress
+Saya sangat stres disebabkan oleh target yang tidak realistis.;stress
+Saya lelah dan stres karena lingkungan yang tidak mendukung.;stress
+Saya ingin menyerah dengan tenggat waktu semakin dekat.;stress
+Saya sangat stres karena terus-menerus menghadapi klien yang sulit.;stress
+Saya gelisah ketika memikirkan jadwal yang padat.;stress
+Saya gelisah karena terus-menerus menghadapi pekerjaan menumpuk.;stress
+Saya tegang karena utang yang menumpuk.;stress
+Saya lelah dan stres setiap menghadapi rutinitas yang melelahkan.;stress
+Saya sangat stres karena terus-menerus menghadapi pertengkaran dengan pasangan.;stress
+Saya ingin menyerah ketika harus menyelesaikan konflik di tempat kerja.;stress
+Saya tidak bisa fokus disebabkan oleh performa kerja yang menurun.;stress
+Saya menangis tanpa sebab akibat ujian akhir.;stress
+Saya kewalahan disebabkan oleh tekanan sosial.;stress
+Saya tertekan karena terus-menerus menghadapi pekerjaan menumpuk.;stress
+Saya pikiran kacau setiap kali memikirkan masalah keluarga.;stress
+Saya merasa hampa akibat utang yang menumpuk.;stress
+Saya kewalahan setiap kali memikirkan klien yang sulit.;stress
+Saya merasa tidak berdaya disebabkan oleh tenggat waktu semakin dekat.;stress
+Saya gelisah memikirkan rutinitas yang melelahkan.;stress
+Saya menangis tanpa sebab disebabkan oleh masalah kesehatan.;stress
+Saya kewalahan setiap kali memikirkan tugas kuliah.;stress
+Saya ingin menyerah akibat masalah kesehatan.;stress
+Saya tidak bisa fokus disebabkan oleh target yang tidak realistis.;stress
+Saya menangis tanpa sebab akibat lingkungan yang tidak mendukung.;stress
+Saya merasa hampa dengan masalah keuangan.;stress
+Saya tidak bisa rileks setiap menghadapi tekanan dari atasan.;stress
+Saya menangis tanpa sebab saat menghadapi rutinitas yang melelahkan.;stress
+Saya pikiran kacau karena presentasi besar.;stress
+Saya merasa hampa ketika memikirkan performa kerja yang menurun.;stress
+Saya gelisah setiap menghadapi performa kerja yang menurun.;stress
+Saya emosi tidak stabil setiap kali memikirkan tanggung jawab yang berat.;stress
+Saya lelah dan stres karena tugas kuliah.;stress
+Saya emosi tidak stabil ketika harus menyelesaikan klien yang sulit.;stress
+Saya gelisah karena kurang tidur.;stress
+Saya tidak bisa rileks ketika memikirkan masalah kesehatan.;stress
+Saya menangis tanpa sebab karena terus-menerus menghadapi deadline yang ketat.;stress
+Saya pikiran kacau setiap menghadapi rutinitas yang melelahkan.;stress
+Saya merasa tidak berdaya setiap kali memikirkan kehilangan motivasi.;stress
+Saya tidak bisa rileks di tengah target yang tidak realistis.;stress
+Saya pikiran kacau ketika memikirkan kehilangan motivasi.;stress
+Saya sangat stres memikirkan konflik di tempat kerja.;stress
+Saya pikiran kacau ketika harus menyelesaikan utang yang menumpuk.;stress
+Saya ingin menyerah dengan masalah keuangan.;stress
+Saya menangis tanpa sebab di tengah kehilangan motivasi.;stress
+Saya pikiran kacau ketika harus menyelesaikan konflik di tempat kerja.;stress
+Saya emosi tidak stabil saat menghadapi jadwal yang padat.;stress
+Saya lelah dan stres disebabkan oleh klien yang sulit.;stress
+Saya merasa tidak berdaya karena terus-menerus menghadapi ujian akhir.;stress
+Saya menangis tanpa sebab akibat masalah keluarga.;stress
+Saya tidak bisa tidur ketika harus menyelesaikan kurang tidur.;stress
+Saya ingin menyerah memikirkan tenggat waktu semakin dekat.;stress
+Saya pikiran kacau disebabkan oleh konflik di tempat kerja.;stress
+Saya tidak bisa rileks setiap menghadapi masalah keuangan.;stress
+Saya kewalahan ketika memikirkan pertengkaran dengan pasangan.;stress
+Saya ingin menyerah setiap kali memikirkan pertengkaran dengan pasangan.;stress
+Saya sangat stres saat menghadapi kurang tidur.;stress
+Saya merasa hampa akibat masalah keuangan.;stress
+Saya gelisah karena terus-menerus menghadapi pekerjaan menumpuk.;stress
+Saya merasa hampa ketika memikirkan tekanan dari atasan.;stress
+Saya menangis tanpa sebab karena lingkungan yang tidak mendukung.;stress
+Saya tidak bisa fokus setiap kali memikirkan klien yang sulit.;stress
+Saya gelisah akibat lingkungan yang tidak mendukung.;stress
+Saya pikiran kacau karena utang yang menumpuk.;stress
+Saya merasa tidak berdaya disebabkan oleh masalah keuangan.;stress
+Saya merasa tidak berdaya ketika harus menyelesaikan tanggung jawab yang berat.;stress
+Saya tegang setiap kali memikirkan ekspektasi tinggi.;stress
+Saya gelisah saat menghadapi kehilangan motivasi.;stress
+Saya terbebani secara mental disebabkan oleh klien yang sulit.;stress
+Saya tegang di tengah klien yang sulit.;stress
+Saya merasa tidak berdaya memikirkan ujian akhir.;stress
+Saya merasa tidak berdaya saat menghadapi masalah keluarga.;stress
+Saya ingin menyerah dengan performa kerja yang menurun.;stress
+Saya merasa hampa karena ekspektasi tinggi.;stress
+Saya terbebani secara mental ketika memikirkan deadline yang ketat.;stress
+Saya pikiran kacau disebabkan oleh lingkungan yang tidak mendukung.;stress
+Saya tidak bisa fokus karena terus-menerus menghadapi keraguan diri.;stress
+Saya tegang disebabkan oleh utang yang menumpuk.;stress
+Saya tegang dengan tekanan sosial.;stress
+Saya tegang di tengah jadwal yang padat.;stress
+Saya lelah dan stres ketika harus menyelesaikan keraguan diri.;stress
+Saya gelisah ketika memikirkan presentasi besar.;stress
+Saya merasa hampa ketika memikirkan tanggung jawab yang berat.;stress
+Saya emosi tidak stabil disebabkan oleh tenggat waktu semakin dekat.;stress
+Saya menangis tanpa sebab ketika memikirkan kurang tidur.;stress
+Saya merasa hampa karena terus-menerus menghadapi masalah keluarga.;stress
+Saya tidak bisa tidur ketika harus menyelesaikan konflik di tempat kerja.;stress
+Saya merasa hampa karena keraguan diri.;stress
+Saya emosi tidak stabil ketika memikirkan deadline yang ketat.;stress
+Saya lelah dan stres ketika harus menyelesaikan keraguan diri.;stress
+Saya kewalahan dengan presentasi besar.;stress
+Saya merasa hampa ketika harus menyelesaikan jadwal yang padat.;stress
+Saya gelisah setiap kali memikirkan konflik di tempat kerja.;stress
+Saya pikiran kacau di tengah keraguan diri.;stress
+Saya pikiran kacau karena terus-menerus menghadapi pekerjaan menumpuk.;stress
+Saya tidak bisa rileks ketika harus menyelesaikan masalah keluarga.;stress
+Saya pikiran kacau disebabkan oleh masalah keluarga.;stress
+Saya gelisah karena terus-menerus menghadapi tekanan dari atasan.;stress
+Saya tegang di tengah masalah keuangan.;stress
+Saya menangis tanpa sebab ketika harus menyelesaikan tenggat waktu semakin dekat.;stress
+Saya tertekan saat menghadapi pekerjaan menumpuk.;stress
+Saya tegang ketika memikirkan tekanan dari atasan.;stress
+Saya gelisah dengan target yang tidak realistis.;stress
+Saya gelisah dengan masalah keuangan.;stress
+Saya tertekan ketika memikirkan tekanan dari atasan.;stress
+Saya menangis tanpa sebab akibat ekspektasi tinggi.;stress
+Saya merasa tidak berdaya memikirkan tenggat waktu semakin dekat.;stress
+Saya tidak bisa rileks disebabkan oleh deadline yang ketat.;stress
+Saya menangis tanpa sebab dengan tanggung jawab yang berat.;stress
+Saya tertekan karena lingkungan yang tidak mendukung.;stress
+Saya tidak bisa tidur saat menghadapi tenggat waktu semakin dekat.;stress
+Saya tertekan ketika memikirkan target yang tidak realistis.;stress
+Saya tidak bisa fokus karena terus-menerus menghadapi rutinitas yang melelahkan.;stress
+Saya sangat stres memikirkan ekspektasi tinggi.;stress
+Saya tidak bisa fokus ketika harus menyelesaikan tugas kuliah.;stress
+Saya emosi tidak stabil memikirkan deadline yang ketat.;stress
+Saya pikiran kacau saat menghadapi pertengkaran dengan pasangan.;stress
+Saya tidak bisa fokus setiap kali memikirkan target yang tidak realistis.;stress
+Saya merasa hampa ketika memikirkan masalah keluarga.;stress
+Saya menangis tanpa sebab setiap menghadapi performa kerja yang menurun.;stress
+Saya sangat stres saat menghadapi presentasi besar.;stress
+Saya sangat stres dengan ujian akhir.;stress
+Saya gelisah di tengah tekanan sosial.;stress
+Saya merasa hampa setiap kali memikirkan masalah keuangan.;stress
+Saya emosi tidak stabil ketika memikirkan klien yang sulit.;stress
+Saya lelah dan stres ketika memikirkan masalah kesehatan.;stress
+Saya ingin menyerah memikirkan tenggat waktu semakin dekat.;stress
+Saya kewalahan karena terus-menerus menghadapi rutinitas yang melelahkan.;stress
+Saya kewalahan ketika memikirkan tenggat waktu semakin dekat.;stress
+Saya lelah dan stres ketika memikirkan ekspektasi tinggi.;stress
+Saya emosi tidak stabil akibat kehilangan motivasi.;stress
+Saya emosi tidak stabil setiap kali memikirkan klien yang sulit.;stress
+Saya tertekan saat menghadapi target yang tidak realistis.;stress
+Saya tidak bisa fokus saat menghadapi ujian akhir.;stress
+Saya lelah dan stres memikirkan pertengkaran dengan pasangan.;stress
+Saya gelisah karena terus-menerus menghadapi masalah kesehatan.;stress
+Saya pikiran kacau ketika harus menyelesaikan tenggat waktu semakin dekat.;stress
+Saya tegang ketika harus menyelesaikan pertengkaran dengan pasangan.;stress
+Saya ingin menyerah ketika harus menyelesaikan deadline yang ketat.;stress
+Saya sangat stres akibat target yang tidak realistis.;stress
+Saya sangat stres karena tanggung jawab yang berat.;stress
+Saya tidak bisa tidur memikirkan lingkungan yang tidak mendukung.;stress
+Saya menangis tanpa sebab di tengah jadwal yang padat.;stress
+Saya gelisah akibat deadline yang ketat.;stress
+Saya menangis tanpa sebab dengan utang yang menumpuk.;stress
+Saya ingin menyerah ketika memikirkan tanggung jawab yang berat.;stress
+Saya tertekan ketika harus menyelesaikan kurang tidur.;stress
+Saya tidak bisa tidur di tengah masalah keuangan.;stress
+Saya ingin menyerah karena tekanan sosial.;stress
+Saya terbebani secara mental memikirkan utang yang menumpuk.;stress
+Saya ingin menyerah di tengah tanggung jawab yang berat.;stress
+Saya tegang karena ekspektasi tinggi.;stress
+Saya sangat stres setiap kali memikirkan masalah keluarga.;stress
+Saya merasa tidak berdaya di tengah konflik di tempat kerja.;stress
+Saya gelisah memikirkan keraguan diri.;stress
+Saya sangat stres memikirkan konflik di tempat kerja.;stress
+Saya tegang ketika harus menyelesaikan tanggung jawab yang berat.;stress
+Saya tegang karena terus-menerus menghadapi ekspektasi tinggi.;stress
+Saya ingin menyerah dengan masalah keluarga.;stress
+Saya tertekan memikirkan masalah kesehatan.;stress
+Saya menangis tanpa sebab memikirkan performa kerja yang menurun.;stress
+Saya emosi tidak stabil dengan kehilangan motivasi.;stress
+Saya sangat stres ketika harus menyelesaikan tugas kuliah.;stress
+Saya lelah dan stres di tengah keraguan diri.;stress
+Saya kewalahan ketika memikirkan rutinitas yang melelahkan.;stress
+Saya tidak bisa fokus saat menghadapi rutinitas yang melelahkan.;stress
+Saya ingin menyerah akibat klien yang sulit.;stress
+Saya merasa hampa setiap menghadapi deadline yang ketat.;stress
+Saya lelah dan stres memikirkan ekspektasi tinggi.;stress
+Saya terbebani secara mental saat menghadapi tekanan sosial.;stress
+Saya merasa hampa ketika memikirkan tekanan dari atasan.;stress
+Saya merasa hampa disebabkan oleh tenggat waktu semakin dekat.;stress
+Saya emosi tidak stabil karena ujian akhir.;stress
+Saya tidak bisa rileks setiap menghadapi tanggung jawab yang berat.;stress
+Saya tertekan dengan tekanan sosial.;stress
+Saya menangis tanpa sebab memikirkan performa kerja yang menurun.;stress
+Saya gelisah karena terus-menerus menghadapi deadline yang ketat.;stress
+Saya tegang di tengah ekspektasi tinggi.;stress
+Saya merasa tidak berdaya karena klien yang sulit.;stress
+Saya terbebani secara mental saat menghadapi pertengkaran dengan pasangan.;stress
+Saya tegang dengan pertengkaran dengan pasangan.;stress
+Saya lelah dan stres karena tugas kuliah.;stress
+Saya sangat stres saat menghadapi tugas kuliah.;stress
+Saya tertekan akibat masalah keluarga.;stress
+Saya tegang saat menghadapi presentasi besar.;stress
+Saya tidak bisa tidur setiap kali memikirkan klien yang sulit.;stress
+Saya tidak bisa rileks memikirkan masalah kesehatan.;stress
+Saya tidak bisa tidur akibat ekspektasi tinggi.;stress
+Saya terbebani secara mental memikirkan tekanan dari atasan.;stress
+Saya ingin menyerah karena terus-menerus menghadapi tekanan dari atasan.;stress
+Saya gelisah memikirkan masalah keluarga.;stress
+Saya lelah dan stres saat menghadapi masalah keuangan.;stress
+Saya menangis tanpa sebab setiap kali memikirkan utang yang menumpuk.;stress
+Saya lelah dan stres akibat konflik di tempat kerja.;stress
+Saya tegang saat menghadapi kurang tidur.;stress
+Saya sangat stres karena terus-menerus menghadapi performa kerja yang menurun.;stress
+Saya pikiran kacau dengan deadline yang ketat.;stress
+Saya menangis tanpa sebab memikirkan presentasi besar.;stress
+Saya terbebani secara mental karena terus-menerus menghadapi keraguan diri.;stress
+Saya ingin menyerah dengan masalah keluarga.;stress
+Saya lelah dan stres ketika memikirkan target yang tidak realistis.;stress
+Saya tidak bisa fokus saat menghadapi lingkungan yang tidak mendukung.;stress
+Saya menangis tanpa sebab karena target yang tidak realistis.;stress
+Saya lelah dan stres akibat rutinitas yang melelahkan.;stress
+Saya tegang karena ekspektasi tinggi.;stress
+Saya merasa tidak berdaya dengan deadline yang ketat.;stress
+Saya tegang saat menghadapi ekspektasi tinggi.;stress
+Saya emosi tidak stabil ketika harus menyelesaikan performa kerja yang menurun.;stress
+Saya tertekan setiap kali memikirkan tugas kuliah.;stress
+Saya tidak bisa fokus ketika harus menyelesaikan lingkungan yang tidak mendukung.;stress
+Saya emosi tidak stabil setiap kali memikirkan kehilangan motivasi.;stress
+Saya tidak bisa tidur akibat deadline yang ketat.;stress
+Saya gelisah karena terus-menerus menghadapi tugas kuliah.;stress
+Saya ingin menyerah karena tugas kuliah.;stress
+Saya lelah dan stres ketika memikirkan masalah keuangan.;stress
+Saya merasa tidak berdaya disebabkan oleh tenggat waktu semakin dekat.;stress
+Saya kewalahan disebabkan oleh ekspektasi tinggi.;stress
+Saya merasa tidak berdaya dengan jadwal yang padat.;stress
+Saya merasa tidak berdaya karena terus-menerus menghadapi kurang tidur.;stress
+Saya gelisah di tengah klien yang sulit.;stress
+Saya emosi tidak stabil ketika memikirkan lingkungan yang tidak mendukung.;stress
+Saya merasa tidak berdaya disebabkan oleh ekspektasi tinggi.;stress
+Saya tertekan ketika memikirkan tekanan dari atasan.;stress
+Saya ingin menyerah karena tanggung jawab yang berat.;stress
+Saya tertekan memikirkan target yang tidak realistis.;stress
+Saya ingin menyerah memikirkan tanggung jawab yang berat.;stress
+Saya pikiran kacau setiap kali memikirkan pekerjaan menumpuk.;stress
+Saya sangat stres setiap menghadapi tenggat waktu semakin dekat.;stress
+Saya tegang saat menghadapi pekerjaan menumpuk.;stress
+Saya lelah dan stres dengan presentasi besar.;stress
+Saya merasa hampa setiap menghadapi pertengkaran dengan pasangan.;stress
+Saya kewalahan ketika memikirkan keraguan diri.;stress
+Saya lelah dan stres setiap menghadapi pertengkaran dengan pasangan.;stress
+Saya kewalahan setiap kali memikirkan presentasi besar.;stress
+Saya lelah dan stres memikirkan masalah keluarga.;stress
+Saya sangat stres akibat ujian akhir.;stress
+Saya terbebani secara mental akibat kehilangan motivasi.;stress
+Saya terbebani secara mental disebabkan oleh ekspektasi tinggi.;stress
+Saya sangat stres memikirkan ekspektasi tinggi.;stress
+Saya tertekan karena terus-menerus menghadapi masalah kesehatan.;stress
+Saya merasa tidak berdaya karena ekspektasi tinggi.;stress
+Saya pikiran kacau karena pertengkaran dengan pasangan.;stress
+Saya merasa tidak berdaya memikirkan pertengkaran dengan pasangan.;stress
+Saya tidak bisa fokus akibat masalah keuangan.;stress
+Saya gelisah karena terus-menerus menghadapi pekerjaan menumpuk.;stress
+Saya tidak bisa tidur ketika harus menyelesaikan klien yang sulit.;stress
+Saya terbebani secara mental setiap menghadapi pertengkaran dengan pasangan.;stress
+Saya pikiran kacau ketika harus menyelesaikan kehilangan motivasi.;stress
+Saya emosi tidak stabil setiap kali memikirkan ujian akhir.;stress
+Saya pikiran kacau disebabkan oleh tekanan sosial.;stress
+Saya tegang dengan tekanan sosial.;stress
+Saya lelah dan stres setiap kali memikirkan masalah keluarga.;stress
+Saya lelah dan stres karena jadwal yang padat.;stress
+Saya tidak bisa rileks dengan keraguan diri.;stress
+Saya tidak bisa tidur dengan tenggat waktu semakin dekat.;stress
+Saya emosi tidak stabil dengan ujian akhir.;stress
+Saya terbebani secara mental setiap menghadapi deadline yang ketat.;stress
+Saya tidak bisa fokus dengan ujian akhir.;stress
+Saya kewalahan di tengah performa kerja yang menurun.;stress
+Saya gelisah akibat kurang tidur.;stress
+Saya merasa tidak berdaya setiap kali memikirkan utang yang menumpuk.;stress
+Saya merasa tidak berdaya karena terus-menerus menghadapi pekerjaan menumpuk.;stress
+Saya menangis tanpa sebab karena keraguan diri.;stress
+Saya ingin menyerah akibat performa kerja yang menurun.;stress
+Saya merasa tidak berdaya ketika harus menyelesaikan masalah kesehatan.;stress
+Saya lelah dan stres di tengah kehilangan motivasi.;stress
+Saya emosi tidak stabil akibat lingkungan yang tidak mendukung.;stress
+Saya sangat stres memikirkan lingkungan yang tidak mendukung.;stress
+Saya terbebani secara mental setiap menghadapi tanggung jawab yang berat.;stress
+Saya pikiran kacau setiap menghadapi ujian akhir.;stress
+Saya menangis tanpa sebab dengan performa kerja yang menurun.;stress
+Saya kewalahan ketika memikirkan pekerjaan menumpuk.;stress
+Saya merasa hampa setiap kali memikirkan deadline yang ketat.;stress
+Saya tidak bisa fokus ketika harus menyelesaikan jadwal yang padat.;stress
+Saya pikiran kacau disebabkan oleh rutinitas yang melelahkan.;stress
+Saya kewalahan di tengah kehilangan motivasi.;stress
+Saya tegang karena tekanan dari atasan.;stress
+Saya gelisah karena tenggat waktu semakin dekat.;stress
+Saya terbebani secara mental disebabkan oleh utang yang menumpuk.;stress
+Saya merasa tidak berdaya ketika harus menyelesaikan pekerjaan menumpuk.;stress
+Saya tidak bisa fokus di tengah presentasi besar.;stress
+Saya sangat stres karena terus-menerus menghadapi target yang tidak realistis.;stress
+Saya terbebani secara mental disebabkan oleh masalah kesehatan.;stress
+Saya ingin menyerah disebabkan oleh tanggung jawab yang berat.;stress
+Saya tertekan karena pertengkaran dengan pasangan.;stress
+Saya lelah dan stres saat menghadapi rutinitas yang melelahkan.;stress
+Saya emosi tidak stabil setiap kali memikirkan tanggung jawab yang berat.;stress
+Saya kewalahan ketika harus menyelesaikan tekanan dari atasan.;stress
+Saya kewalahan setiap kali memikirkan tekanan sosial.;stress
+Saya kewalahan disebabkan oleh performa kerja yang menurun.;stress
+Saya tidak bisa fokus di tengah masalah keluarga.;stress
+Saya kewalahan ketika harus menyelesaikan keraguan diri.;stress
+Saya tegang akibat jadwal yang padat.;stress
+Saya gelisah karena terus-menerus menghadapi masalah keluarga.;stress
+Saya emosi tidak stabil memikirkan target yang tidak realistis.;stress
+Saya menangis tanpa sebab karena terus-menerus menghadapi jadwal yang padat.;stress
+Saya lelah dan stres akibat masalah keuangan.;stress
+Saya tidak bisa rileks ketika harus menyelesaikan klien yang sulit.;stress
+Saya merasa tidak berdaya di tengah ekspektasi tinggi.;stress
+Saya tertekan karena utang yang menumpuk.;stress
+Saya tidak bisa tidur akibat kurang tidur.;stress
+Saya emosi tidak stabil setiap kali memikirkan deadline yang ketat.;stress
+Saya lelah dan stres akibat keraguan diri.;stress
+Saya kewalahan karena konflik di tempat kerja.;stress
+Saya merasa hampa karena terus-menerus menghadapi konflik di tempat kerja.;stress
+Saya tidak bisa fokus ketika memikirkan tanggung jawab yang berat.;stress
+Saya tertekan karena pekerjaan menumpuk.;stress
+Saya tidak bisa rileks memikirkan deadline yang ketat.;stress
+Saya gelisah setiap menghadapi tanggung jawab yang berat.;stress
+Saya gelisah setiap kali memikirkan tekanan sosial.;stress
+Saya menangis tanpa sebab dengan utang yang menumpuk.;stress
+Saya tegang dengan pekerjaan menumpuk.;stress
+Saya tidak bisa fokus dengan presentasi besar.;stress
+Saya sangat stres memikirkan masalah kesehatan.;stress
+Saya gelisah setiap menghadapi masalah keluarga.;stress
+Saya tegang karena terus-menerus menghadapi kurang tidur.;stress
+Saya sangat stres saat menghadapi tanggung jawab yang berat.;stress
+Saya tidak bisa fokus karena rutinitas yang melelahkan.;stress
+Saya tegang saat menghadapi ujian akhir.;stress
+Saya terbebani secara mental karena terus-menerus menghadapi tekanan dari atasan.;stress
+Saya ingin menyerah memikirkan deadline yang ketat.;stress
+Saya tidak bisa fokus karena tekanan sosial.;stress
+Saya tidak bisa rileks ketika memikirkan masalah keuangan.;stress
+Saya pikiran kacau di tengah deadline yang ketat.;stress
+Saya tegang disebabkan oleh tenggat waktu semakin dekat.;stress
+Saya tegang disebabkan oleh masalah keluarga.;stress
+Saya sangat stres di tengah masalah kesehatan.;stress
+Saya tertekan disebabkan oleh rutinitas yang melelahkan.;stress
+Saya pikiran kacau karena terus-menerus menghadapi tekanan dari atasan.;stress
+Saya tegang karena terus-menerus menghadapi pekerjaan menumpuk.;stress
+Saya tegang di tengah deadline yang ketat.;stress
+Saya tertekan saat menghadapi klien yang sulit.;stress
+Saya emosi tidak stabil memikirkan rutinitas yang melelahkan.;stress
+Saya lelah dan stres akibat performa kerja yang menurun.;stress
+Saya lelah dan stres di tengah tugas kuliah.;stress
+Saya kewalahan karena tanggung jawab yang berat.;stress
+Saya merasa hampa disebabkan oleh kurang tidur.;stress
+Saya kewalahan karena terus-menerus menghadapi keraguan diri.;stress
+Saya lelah dan stres karena terus-menerus menghadapi tekanan sosial.;stress
+Saya gelisah di tengah presentasi besar.;stress
+Saya tertekan disebabkan oleh keraguan diri.;stress
+Saya emosi tidak stabil karena lingkungan yang tidak mendukung.;stress
+Saya menangis tanpa sebab akibat ekspektasi tinggi.;stress
+Saya emosi tidak stabil setiap menghadapi target yang tidak realistis.;stress
+Saya tidak bisa fokus ketika harus menyelesaikan tenggat waktu semakin dekat.;stress
+Saya kewalahan karena terus-menerus menghadapi jadwal yang padat.;stress
+Saya gelisah ketika memikirkan ekspektasi tinggi.;stress
+Saya lelah dan stres karena terus-menerus menghadapi masalah keuangan.;stress
+Saya merasa tidak berdaya disebabkan oleh tekanan sosial.;stress
+Saya menangis tanpa sebab di tengah jadwal yang padat.;stress
+Saya ingin menyerah dengan performa kerja yang menurun.;stress
+Saya tertekan setiap kali memikirkan rutinitas yang melelahkan.;stress
+Saya pikiran kacau di tengah ekspektasi tinggi.;stress
+Saya tegang dengan ekspektasi tinggi.;stress
+Saya tidak bisa tidur di tengah pertengkaran dengan pasangan.;stress
+Saya terbebani secara mental setiap menghadapi tugas kuliah.;stress
+Saya tidak bisa rileks karena terus-menerus menghadapi rutinitas yang melelahkan.;stress
+Saya terbebani secara mental disebabkan oleh ekspektasi tinggi.;stress
+Saya tegang setiap menghadapi rutinitas yang melelahkan.;stress
+Saya sangat stres karena terus-menerus menghadapi masalah keuangan.;stress
+Saya tidak bisa fokus di tengah ekspektasi tinggi.;stress
+Saya emosi tidak stabil karena terus-menerus menghadapi tekanan dari atasan.;stress
+Saya lelah dan stres karena tanggung jawab yang berat.;stress
+Saya tidak bisa tidur setiap menghadapi ekspektasi tinggi.;stress
+Saya tertekan di tengah jadwal yang padat.;stress
+Saya terbebani secara mental akibat rutinitas yang melelahkan.;stress
+Saya sangat stres karena terus-menerus menghadapi pekerjaan menumpuk.;stress
+Saya tegang setiap menghadapi masalah keluarga.;stress
+Saya tidak bisa tidur akibat konflik di tempat kerja.;stress
+Saya tegang disebabkan oleh masalah keuangan.;stress
+Saya tidak bisa fokus setiap kali memikirkan deadline yang ketat.;stress
+Saya pikiran kacau karena terus-menerus menghadapi pertengkaran dengan pasangan.;stress
+Saya tidak bisa fokus setiap kali memikirkan target yang tidak realistis.;stress
+Saya emosi tidak stabil disebabkan oleh klien yang sulit.;stress
+Saya pikiran kacau akibat performa kerja yang menurun.;stress
+Saya kewalahan disebabkan oleh masalah keluarga.;stress
+Saya menangis tanpa sebab memikirkan tugas kuliah.;stress
+Saya tegang dengan jadwal yang padat.;stress
+Saya ingin menyerah dengan tenggat waktu semakin dekat.;stress
+Saya emosi tidak stabil di tengah jadwal yang padat.;stress
+Saya tidak bisa fokus setiap menghadapi lingkungan yang tidak mendukung.;stress
+Saya menangis tanpa sebab karena terus-menerus menghadapi performa kerja yang menurun.;stress
+Saya tidak bisa rileks ketika harus menyelesaikan lingkungan yang tidak mendukung.;stress
+Saya merasa tidak berdaya akibat lingkungan yang tidak mendukung.;stress
+Saya emosi tidak stabil setiap kali memikirkan masalah keuangan.;stress
+Saya menangis tanpa sebab ketika memikirkan masalah keuangan.;stress
+Saya merasa tidak berdaya di tengah target yang tidak realistis.;stress
+Saya merasa hampa disebabkan oleh kurang tidur.;stress
+Saya menangis tanpa sebab karena masalah keuangan.;stress
+Saya tidak bisa fokus karena terus-menerus menghadapi lingkungan yang tidak mendukung.;stress
+Saya merasa hampa ketika memikirkan jadwal yang padat.;stress
+Saya sangat stres dengan tekanan dari atasan.;stress
+Saya merasa tidak berdaya karena pekerjaan menumpuk.;stress
+Saya tegang saat menghadapi kurang tidur.;stress
+Saya menangis tanpa sebab akibat tugas kuliah.;stress
+Saya emosi tidak stabil karena terus-menerus menghadapi keraguan diri.;stress
+Saya gelisah karena lingkungan yang tidak mendukung.;stress
+Saya pikiran kacau saat menghadapi konflik di tempat kerja.;stress
+Saya tidak bisa tidur memikirkan tekanan dari atasan.;stress
+Saya tidak bisa fokus ketika harus menyelesaikan pekerjaan menumpuk.;stress
+Saya merasa hampa setiap menghadapi ekspektasi tinggi.;stress
+Saya kewalahan setiap menghadapi tenggat waktu semakin dekat.;stress
+Saya pikiran kacau karena pertengkaran dengan pasangan.;stress
+Saya ingin menyerah setiap menghadapi presentasi besar.;stress
+Saya ingin menyerah karena terus-menerus menghadapi ujian akhir.;stress
+Saya tidak bisa rileks akibat kehilangan motivasi.;stress
+Saya emosi tidak stabil dengan masalah keluarga.;stress
+Saya tidak bisa rileks disebabkan oleh tanggung jawab yang berat.;stress
+Saya tegang saat menghadapi utang yang menumpuk.;stress
+Saya pikiran kacau saat menghadapi klien yang sulit.;stress
+Saya pikiran kacau memikirkan masalah keuangan.;stress
+Saya merasa hampa memikirkan masalah kesehatan.;stress
+Saya terbebani secara mental setiap kali memikirkan kurang tidur.;stress
+Saya lelah dan stres di tengah keraguan diri.;stress
+Saya terbebani secara mental karena terus-menerus menghadapi konflik di tempat kerja.;stress
+Saya menangis tanpa sebab ketika harus menyelesaikan performa kerja yang menurun.;stress
+Saya lelah dan stres ketika harus menyelesaikan keraguan diri.;stress
+Saya tertekan karena tekanan dari atasan.;stress
+Saya ingin menyerah karena performa kerja yang menurun.;stress
+Saya merasa hampa setiap menghadapi tekanan dari atasan.;stress
+Saya pikiran kacau dengan kehilangan motivasi.;stress
+Saya ingin menyerah saat menghadapi utang yang menumpuk.;stress
+Saya merasa tidak berdaya dengan masalah kesehatan.;stress
+Saya sangat stres dengan tanggung jawab yang berat.;stress
+Saya merasa hampa karena terus-menerus menghadapi utang yang menumpuk.;stress
+Saya gelisah memikirkan ekspektasi tinggi.;stress
+Saya tidak bisa fokus saat menghadapi keraguan diri.;stress
+Saya emosi tidak stabil memikirkan masalah keluarga.;stress
+Saya tidak bisa fokus akibat klien yang sulit.;stress
+Saya merasa tidak berdaya ketika memikirkan presentasi besar.;stress
+Saya tidak bisa tidur akibat tanggung jawab yang berat.;stress
+Saya kewalahan karena terus-menerus menghadapi klien yang sulit.;stress
+Saya lelah dan stres dengan keraguan diri.;stress
+Saya pikiran kacau dengan tekanan sosial.;stress
+Saya tidak bisa tidur di tengah rutinitas yang melelahkan.;stress
+Saya menangis tanpa sebab karena ekspektasi tinggi.;stress
+Saya terbebani secara mental memikirkan kehilangan motivasi.;stress
+Saya ingin menyerah setiap menghadapi tanggung jawab yang berat.;stress
+Saya ingin menyerah akibat rutinitas yang melelahkan.;stress
+Saya merasa hampa ketika harus menyelesaikan tekanan sosial.;stress
+Saya tidak bisa fokus setiap kali memikirkan lingkungan yang tidak mendukung.;stress
+Saya emosi tidak stabil setiap menghadapi presentasi besar.;stress
+Saya sangat stres karena ekspektasi tinggi.;stress
+Saya tidak bisa fokus karena terus-menerus menghadapi utang yang menumpuk.;stress
+Saya emosi tidak stabil dengan kurang tidur.;stress
+Saya gelisah ketika memikirkan performa kerja yang menurun.;stress
+Saya tidak bisa rileks karena terus-menerus menghadapi lingkungan yang tidak mendukung.;stress
+Saya tertekan dengan masalah kesehatan.;stress
+Saya gelisah ketika harus menyelesaikan rutinitas yang melelahkan.;stress
+Saya tidak bisa fokus karena deadline yang ketat.;stress
+Saya sangat stres setiap menghadapi lingkungan yang tidak mendukung.;stress
+Saya menangis tanpa sebab ketika memikirkan klien yang sulit.;stress
+Saya tertekan karena terus-menerus menghadapi masalah kesehatan.;stress
+Saya ingin menyerah karena terus-menerus menghadapi pekerjaan menumpuk.;stress
+Saya tidak bisa rileks setiap menghadapi tekanan sosial.;stress
+Saya pikiran kacau setiap menghadapi tanggung jawab yang berat.;stress
+Saya tidak bisa fokus karena terus-menerus menghadapi lingkungan yang tidak mendukung.;stress
+Saya tidak bisa fokus setiap menghadapi target yang tidak realistis.;stress
+Saya merasa hampa karena target yang tidak realistis.;stress
+Saya tidak bisa tidur di tengah target yang tidak realistis.;stress
+Saya tidak bisa tidur setiap kali memikirkan deadline yang ketat.;stress
+Saya sangat stres ketika harus menyelesaikan jadwal yang padat.;stress
+Saya emosi tidak stabil ketika harus menyelesaikan tanggung jawab yang berat.;stress
+Saya tidak bisa fokus di tengah kehilangan motivasi.;stress
+Saya gelisah akibat kehilangan motivasi.;stress
+Saya tidak bisa tidur di tengah pertengkaran dengan pasangan.;stress
+Saya menangis tanpa sebab memikirkan deadline yang ketat.;stress
+Saya pikiran kacau di tengah kehilangan motivasi.;stress
+Saya kewalahan ketika memikirkan performa kerja yang menurun.;stress
+Saya tegang setiap kali memikirkan performa kerja yang menurun.;stress
+Saya tidak bisa tidur karena terus-menerus menghadapi target yang tidak realistis.;stress
+Saya gelisah saat menghadapi masalah kesehatan.;stress
+Saya pikiran kacau dengan konflik di tempat kerja.;stress
+Saya pikiran kacau setiap kali memikirkan tugas kuliah.;stress
+Saya gelisah memikirkan pertengkaran dengan pasangan.;stress
+Saya tidak bisa tidur saat menghadapi tekanan sosial.;stress
+Saya tertekan ketika memikirkan tekanan sosial.;stress
+Saya tegang karena terus-menerus menghadapi klien yang sulit.;stress
+Saya merasa hampa dengan presentasi besar.;stress
+Saya tegang saat menghadapi masalah keluarga.;stress
+Saya kewalahan ketika harus menyelesaikan pekerjaan menumpuk.;stress
+Saya ingin menyerah akibat masalah keluarga.;stress
+Saya merasa tidak berdaya ketika memikirkan ujian akhir.;stress
+Saya emosi tidak stabil di tengah lingkungan yang tidak mendukung.;stress
+Saya gelisah di tengah jadwal yang padat.;stress
+Saya emosi tidak stabil ketika harus menyelesaikan jadwal yang padat.;stress
+Saya sangat stres saat menghadapi ujian akhir.;stress
+Saya lelah dan stres memikirkan ujian akhir.;stress
+Saya emosi tidak stabil dengan keraguan diri.;stress
+Saya tertekan akibat ujian akhir.;stress
+Saya gelisah di tengah masalah kesehatan.;stress
+Saya ingin menyerah di tengah tekanan sosial.;stress
+Saya pikiran kacau ketika memikirkan lingkungan yang tidak mendukung.;stress
+Saya tidak bisa fokus dengan jadwal yang padat.;stress
+Saya emosi tidak stabil dengan konflik di tempat kerja.;stress
+Saya tidak bisa fokus akibat konflik di tempat kerja.;stress
+Saya menangis tanpa sebab karena pertengkaran dengan pasangan.;stress
+Saya tegang setiap kali memikirkan rutinitas yang melelahkan.;stress
+Saya sangat stres ketika harus menyelesaikan performa kerja yang menurun.;stress
+Saya terbebani secara mental memikirkan masalah kesehatan.;stress
+Saya sangat stres memikirkan masalah keluarga.;stress
+Saya tidak bisa fokus disebabkan oleh jadwal yang padat.;stress
+Saya ingin menyerah setiap kali memikirkan ekspektasi tinggi.;stress
+Saya emosi tidak stabil dengan utang yang menumpuk.;stress
+Saya menangis tanpa sebab akibat pertengkaran dengan pasangan.;stress
+Saya gelisah setiap kali memikirkan ujian akhir.;stress
+Saya tidak bisa tidur ketika memikirkan tugas kuliah.;stress
+Saya tegang karena tenggat waktu semakin dekat.;stress
+Saya terbebani secara mental setiap kali memikirkan target yang tidak realistis.;stress
+Saya tidak bisa fokus saat menghadapi pekerjaan menumpuk.;stress
+Saya merasa tidak berdaya ketika memikirkan deadline yang ketat.;stress
+Saya gelisah setiap menghadapi ekspektasi tinggi.;stress
+Saya emosi tidak stabil setiap kali memikirkan konflik di tempat kerja.;stress
+Saya tidak bisa tidur di tengah keraguan diri.;stress
+Saya sangat stres ketika harus menyelesaikan ekspektasi tinggi.;stress
+Saya tidak bisa tidur di tengah deadline yang ketat.;stress
+Saya merasa hampa setiap kali memikirkan kurang tidur.;stress
+Saya gelisah saat menghadapi target yang tidak realistis.;stress
+Saya pikiran kacau akibat tenggat waktu semakin dekat.;stress
+Saya sangat stres karena terus-menerus menghadapi kehilangan motivasi.;stress
+Saya ingin menyerah memikirkan masalah kesehatan.;stress
+Saya lelah dan stres memikirkan presentasi besar.;stress
+Saya gelisah setiap menghadapi masalah keuangan.;stress
+Saya pikiran kacau akibat rutinitas yang melelahkan.;stress
+Saya kewalahan disebabkan oleh masalah kesehatan.;stress
+Saya pikiran kacau ketika harus menyelesaikan kurang tidur.;stress
+Saya gelisah karena terus-menerus menghadapi performa kerja yang menurun.;stress
+Saya kewalahan saat menghadapi lingkungan yang tidak mendukung.;stress
+Saya ingin menyerah saat menghadapi klien yang sulit.;stress
+Saya merasa tidak berdaya karena kehilangan motivasi.;stress
+Saya pikiran kacau disebabkan oleh utang yang menumpuk.;stress
+Saya menangis tanpa sebab karena konflik di tempat kerja.;stress
+Saya tertekan akibat kehilangan motivasi.;stress
+Saya tegang dengan klien yang sulit.;stress
+Saya merasa tidak berdaya ketika memikirkan ekspektasi tinggi.;stress
+Saya merasa tidak berdaya ketika memikirkan presentasi besar.;stress
+Saya tidak bisa tidur ketika memikirkan tenggat waktu semakin dekat.;stress
+Saya tegang di tengah rutinitas yang melelahkan.;stress
+Saya lelah dan stres setiap menghadapi konflik di tempat kerja.;stress
+Saya kewalahan karena tanggung jawab yang berat.;stress
+Saya menangis tanpa sebab karena tugas kuliah.;stress
+Saya tidak bisa rileks ketika memikirkan masalah keuangan.;stress
+Saya lelah dan stres saat menghadapi presentasi besar.;stress
+Saya lelah dan stres setiap kali memikirkan jadwal yang padat.;stress
+Saya sangat stres di tengah ekspektasi tinggi.;stress
+Saya tidak bisa tidur ketika memikirkan tekanan dari atasan.;stress
+Saya terbebani secara mental ketika harus menyelesaikan pekerjaan menumpuk.;stress
+Saya lelah dan stres ketika memikirkan tekanan sosial.;stress
+Saya lelah dan stres setiap menghadapi masalah keuangan.;stress
+Saya tidak bisa fokus disebabkan oleh kehilangan motivasi.;stress
+Saya lelah dan stres ketika harus menyelesaikan konflik di tempat kerja.;stress
+Saya tidak bisa fokus karena terus-menerus menghadapi lingkungan yang tidak mendukung.;stress
+Saya tegang ketika memikirkan lingkungan yang tidak mendukung.;stress
+Saya kewalahan ketika harus menyelesaikan lingkungan yang tidak mendukung.;stress
+Saya sangat stres setiap menghadapi tenggat waktu semakin dekat.;stress
+Saya menangis tanpa sebab setiap menghadapi target yang tidak realistis.;stress
+Saya terbebani secara mental ketika memikirkan deadline yang ketat.;stress
+Saya merasa tidak berdaya setiap menghadapi tugas kuliah.;stress
+Saya tertekan ketika memikirkan masalah keluarga.;stress
+Saya terbebani secara mental dengan masalah kesehatan.;stress
+Saya lelah dan stres setiap kali memikirkan lingkungan yang tidak mendukung.;stress
+Saya menangis tanpa sebab ketika harus menyelesaikan kehilangan motivasi.;stress
+Saya tidak bisa rileks setiap menghadapi tenggat waktu semakin dekat.;stress
+Saya sangat stres ketika harus menyelesaikan deadline yang ketat.;stress
+Saya tidak bisa fokus akibat pekerjaan menumpuk.;stress
+Saya merasa hampa karena tanggung jawab yang berat.;stress
+Saya merasa hampa di tengah masalah keuangan.;stress
+Saya kewalahan disebabkan oleh tenggat waktu semakin dekat.;stress
+Saya pikiran kacau ketika harus menyelesaikan konflik di tempat kerja.;stress
+Saya sangat stres karena keraguan diri.;stress
+Saya sangat stres ketika harus menyelesaikan tanggung jawab yang berat.;stress
+Saya tidak bisa tidur karena terus-menerus menghadapi masalah keuangan.;stress
+Saya tidak bisa fokus karena tanggung jawab yang berat.;stress
+Saya emosi tidak stabil disebabkan oleh klien yang sulit.;stress
+Saya tertekan karena tenggat waktu semakin dekat.;stress
+Saya terbebani secara mental memikirkan masalah keluarga.;stress
+Saya merasa tidak berdaya karena terus-menerus menghadapi keraguan diri.;stress
+Saya tidak bisa fokus saat menghadapi jadwal yang padat.;stress
+Saya merasa hampa disebabkan oleh rutinitas yang melelahkan.;stress
+Saya sangat stres setiap kali memikirkan masalah keluarga.;stress
+Saya tidak bisa tidur ketika memikirkan kehilangan motivasi.;stress
+Saya lelah dan stres saat menghadapi tanggung jawab yang berat.;stress
+Saya menangis tanpa sebab dengan tekanan dari atasan.;stress
+Saya sangat stres memikirkan jadwal yang padat.;stress
+Saya terbebani secara mental akibat jadwal yang padat.;stress
+Saya tertekan setiap kali memikirkan tenggat waktu semakin dekat.;stress
+Saya tertekan ketika memikirkan keraguan diri.;stress
+Saya tidak bisa tidur akibat masalah kesehatan.;stress
+Saya menangis tanpa sebab dengan lingkungan yang tidak mendukung.;stress
+Saya merasa tidak berdaya memikirkan rutinitas yang melelahkan.;stress
+Saya tertekan memikirkan tenggat waktu semakin dekat.;stress
+Saya tidak bisa fokus akibat rutinitas yang melelahkan.;stress
+Saya ingin menyerah di tengah rutinitas yang melelahkan.;stress
+Saya tegang ketika memikirkan tugas kuliah.;stress
+Saya merasa hampa karena konflik di tempat kerja.;stress
+Saya tidak bisa fokus karena keraguan diri.;stress
+Saya merasa hampa disebabkan oleh pekerjaan menumpuk.;stress
+Saya sangat stres dengan konflik di tempat kerja.;stress
+Saya tertekan di tengah masalah keluarga.;stress
+Saya sangat stres di tengah tugas kuliah.;stress
+Saya gelisah akibat tanggung jawab yang berat.;stress
+Saya tertekan disebabkan oleh tenggat waktu semakin dekat.;stress
+Saya sangat stres di tengah pertengkaran dengan pasangan.;stress
+Saya pikiran kacau setiap kali memikirkan masalah kesehatan.;stress
+Saya merasa hampa saat menghadapi masalah keluarga.;stress
+Saya tertekan karena keraguan diri.;stress
+Saya kewalahan ketika harus menyelesaikan tekanan dari atasan.;stress
+Saya merasa hampa di tengah klien yang sulit.;stress
+Saya tidak bisa tidur disebabkan oleh kurang tidur.;stress
+Saya pikiran kacau karena target yang tidak realistis.;stress
+Saya tegang ketika memikirkan tekanan sosial.;stress
+Saya tegang memikirkan pekerjaan menumpuk.;stress
+Saya tertekan karena terus-menerus menghadapi klien yang sulit.;stress
+Saya pikiran kacau karena terus-menerus menghadapi konflik di tempat kerja.;stress
+Saya terbebani secara mental setiap menghadapi tekanan dari atasan.;stress
+Saya tegang dengan tekanan dari atasan.;stress
+Saya pikiran kacau di tengah tugas kuliah.;stress
+Saya emosi tidak stabil dengan tugas kuliah.;stress
+Saya merasa tidak berdaya karena terus-menerus menghadapi konflik di tempat kerja.;stress
+Saya tegang ketika harus menyelesaikan target yang tidak realistis.;stress
+Saya merasa hampa ketika memikirkan performa kerja yang menurun.;stress
+Saya terbebani secara mental setiap menghadapi tekanan dari atasan.;stress
+Saya tegang disebabkan oleh kurang tidur.;stress
+Saya merasa tidak berdaya akibat deadline yang ketat.;stress
+Saya tidak bisa rileks setiap kali memikirkan tekanan sosial.;stress
+Saya kewalahan ketika memikirkan performa kerja yang menurun.;stress
+Saya kewalahan setiap kali memikirkan ekspektasi tinggi.;stress
+Saya tidak bisa rileks dengan ujian akhir.;stress
+Saya tidak bisa fokus akibat ekspektasi tinggi.;stress
+Saya tidak bisa rileks memikirkan klien yang sulit.;stress
+Saya tertekan karena kurang tidur.;stress
+Saya merasa tidak berdaya saat menghadapi deadline yang ketat.;stress
+Saya tidak bisa tidur setiap kali memikirkan target yang tidak realistis.;stress
+Saya pikiran kacau karena tenggat waktu semakin dekat.;stress
+Saya kewalahan setiap menghadapi masalah kesehatan.;stress
+Saya tegang setiap kali memikirkan jadwal yang padat.;stress
+Saya sangat stres karena lingkungan yang tidak mendukung.;stress
+Saya merasa tidak berdaya di tengah tekanan sosial.;stress
+Saya terbebani secara mental karena terus-menerus menghadapi keraguan diri.;stress
+Saya tidak bisa tidur karena terus-menerus menghadapi pertengkaran dengan pasangan.;stress
+Saya tegang karena presentasi besar.;stress
+Saya ingin menyerah akibat pekerjaan menumpuk.;stress
+Saya emosi tidak stabil karena terus-menerus menghadapi ujian akhir.;stress
+Saya sangat stres memikirkan masalah keuangan.;stress
+Saya tidak bisa rileks saat menghadapi konflik di tempat kerja.;stress
+Saya tidak bisa rileks akibat masalah kesehatan.;stress
+Saya lelah dan stres setiap kali memikirkan rutinitas yang melelahkan.;stress
+Saya lelah dan stres ketika harus menyelesaikan jadwal yang padat.;stress
+Saya gelisah setiap menghadapi ekspektasi tinggi.;stress
+Saya emosi tidak stabil setiap kali memikirkan rutinitas yang melelahkan.;stress
+Saya tidak bisa tidur setiap menghadapi masalah keuangan.;stress
+Saya tidak bisa tidur memikirkan kurang tidur.;stress
+Saya sangat stres saat menghadapi masalah kesehatan.;stress
+Saya tidak bisa tidur akibat tekanan sosial.;stress
+Saya merasa hampa memikirkan tekanan sosial.;stress
+Saya tidak bisa tidur saat menghadapi masalah kesehatan.;stress
+Saya terbebani secara mental dengan tekanan dari atasan.;stress
+Saya tidak bisa rileks akibat target yang tidak realistis.;stress
+Saya tidak bisa rileks akibat ekspektasi tinggi.;stress
+Saya terbebani secara mental karena tugas kuliah.;stress
+Saya tegang di tengah pertengkaran dengan pasangan.;stress
+Saya menangis tanpa sebab ketika harus menyelesaikan pertengkaran dengan pasangan.;stress
+Saya tegang ketika memikirkan tenggat waktu semakin dekat.;stress
+Saya lelah dan stres karena terus-menerus menghadapi masalah keuangan.;stress
+Saya ingin menyerah memikirkan tugas kuliah.;stress
+Saya kewalahan disebabkan oleh klien yang sulit.;stress
+Saya menangis tanpa sebab karena performa kerja yang menurun.;stress
+Saya lelah dan stres saat menghadapi konflik di tempat kerja.;stress
+Saya tidak bisa tidur disebabkan oleh kurang tidur.;stress
+Saya ingin menyerah akibat deadline yang ketat.;stress
+Saya kewalahan memikirkan tanggung jawab yang berat.;stress
+Saya tidak bisa rileks akibat jadwal yang padat.;stress
+Saya pikiran kacau memikirkan kurang tidur.;stress
+Saya tegang ketika memikirkan tugas kuliah.;stress
+Saya terbebani secara mental ketika memikirkan ujian akhir.;stress
+Saya menangis tanpa sebab setiap menghadapi jadwal yang padat.;stress
+Saya terbebani secara mental setiap kali memikirkan keraguan diri.;stress
+Saya ingin menyerah karena terus-menerus menghadapi konflik di tempat kerja.;stress
+Saya tidak bisa fokus memikirkan masalah keluarga.;stress
+Saya tidak bisa rileks karena terus-menerus menghadapi tekanan sosial.;stress
+Saya terbebani secara mental ketika harus menyelesaikan masalah keluarga.;stress
+Saya kewalahan disebabkan oleh target yang tidak realistis.;stress
+Saya tidak bisa rileks ketika memikirkan target yang tidak realistis.;stress
+Saya pikiran kacau di tengah ujian akhir.;stress
+Saya ingin menyerah setiap menghadapi pekerjaan menumpuk.;stress
+Saya tidak bisa rileks di tengah keraguan diri.;stress
+Saya pikiran kacau disebabkan oleh jadwal yang padat.;stress
+Saya lelah dan stres ketika harus menyelesaikan tanggung jawab yang berat.;stress
+Saya tidak bisa fokus dengan kehilangan motivasi.;stress
+Saya tegang saat menghadapi masalah kesehatan.;stress
+Saya merasa hampa akibat tugas kuliah.;stress
+Saya ingin menyerah karena terus-menerus menghadapi deadline yang ketat.;stress
+Saya pikiran kacau dengan konflik di tempat kerja.;stress
+Saya sangat stres memikirkan lingkungan yang tidak mendukung.;stress
+Saya tegang saat menghadapi kehilangan motivasi.;stress
+Saya tertekan ketika memikirkan tenggat waktu semakin dekat.;stress
+Saya merasa tidak berdaya karena konflik di tempat kerja.;stress
+Saya gelisah saat menghadapi klien yang sulit.;stress
+Saya emosi tidak stabil saat menghadapi klien yang sulit.;stress
+Saya gelisah karena terus-menerus menghadapi lingkungan yang tidak mendukung.;stress
+Saya ingin menyerah disebabkan oleh ekspektasi tinggi.;stress
+Saya gelisah disebabkan oleh ekspektasi tinggi.;stress
+Saya ingin menyerah di tengah klien yang sulit.;stress
+Saya ingin menyerah saat menghadapi tekanan dari atasan.;stress
+Saya tertekan di tengah kehilangan motivasi.;stress
+Saya lelah dan stres akibat utang yang menumpuk.;stress
+Saya tidak bisa tidur ketika harus menyelesaikan pertengkaran dengan pasangan.;stress
+Saya tidak bisa fokus disebabkan oleh rutinitas yang melelahkan.;stress
+Saya emosi tidak stabil setiap menghadapi rutinitas yang melelahkan.;stress
+Saya merasa tidak berdaya disebabkan oleh tugas kuliah.;stress
+Saya kewalahan disebabkan oleh kurang tidur.;stress
+Saya emosi tidak stabil memikirkan pertengkaran dengan pasangan.;stress
+Saya menangis tanpa sebab setiap kali memikirkan target yang tidak realistis.;stress
+Saya tegang saat menghadapi kurang tidur.;stress
+Saya menangis tanpa sebab karena terus-menerus menghadapi pertengkaran dengan pasangan.;stress
+Saya pikiran kacau setiap kali memikirkan tanggung jawab yang berat.;stress
+Saya menangis tanpa sebab akibat klien yang sulit.;stress
+Saya tertekan karena terus-menerus menghadapi jadwal yang padat.;stress
+Saya emosi tidak stabil setiap kali memikirkan masalah keluarga.;stress
+Saya terbebani secara mental saat menghadapi masalah keuangan.;stress
+Saya tertekan ketika memikirkan keraguan diri.;stress
+Saya merasa hampa ketika harus menyelesaikan klien yang sulit.;stress
+Saya tertekan setiap kali memikirkan kurang tidur.;stress
+Saya terbebani secara mental karena terus-menerus menghadapi tenggat waktu semakin dekat.;stress
+Saya kewalahan memikirkan performa kerja yang menurun.;stress
+Saya ingin menyerah memikirkan tanggung jawab yang berat.;stress
+Saya terbebani secara mental karena masalah keuangan.;stress
+Saya ingin menyerah memikirkan rutinitas yang melelahkan.;stress
+Saya merasa hampa saat menghadapi tekanan dari atasan.;stress
+Saya terbebani secara mental karena terus-menerus menghadapi tanggung jawab yang berat.;stress
+Saya kewalahan karena terus-menerus menghadapi tenggat waktu semakin dekat.;stress
+Saya menangis tanpa sebab disebabkan oleh konflik di tempat kerja.;stress
+Saya tidak bisa tidur karena pertengkaran dengan pasangan.;stress
+Saya tidak bisa rileks akibat pertengkaran dengan pasangan.;stress
+Saya terbebani secara mental ketika harus menyelesaikan konflik di tempat kerja.;stress
+Saya tidak bisa tidur ketika harus menyelesaikan masalah kesehatan.;stress
+Saya emosi tidak stabil ketika harus menyelesaikan performa kerja yang menurun.;stress
+Saya gelisah ketika harus menyelesaikan kehilangan motivasi.;stress
+Saya ingin menyerah ketika harus menyelesaikan lingkungan yang tidak mendukung.;stress
+Saya lelah dan stres di tengah ujian akhir.;stress
+Saya merasa tidak berdaya karena lingkungan yang tidak mendukung.;stress
+Saya tidak bisa tidur ketika harus menyelesaikan lingkungan yang tidak mendukung.;stress
+Saya gelisah saat menghadapi ujian akhir.;stress
+Saya merasa hampa setiap kali memikirkan masalah keuangan.;stress
+Saya gelisah dengan target yang tidak realistis.;stress
+Saya terbebani secara mental setiap menghadapi presentasi besar.;stress
+Saya sangat stres memikirkan keraguan diri.;stress
+Saya tidak bisa tidur setiap kali memikirkan tekanan sosial.;stress
+Saya tertekan memikirkan keraguan diri.;stress
+Saya emosi tidak stabil akibat pekerjaan menumpuk.;stress
+Saya sangat stres ketika harus menyelesaikan deadline yang ketat.;stress
+Saya emosi tidak stabil setiap menghadapi deadline yang ketat.;stress
+Saya gelisah di tengah pekerjaan menumpuk.;stress
+Saya lelah dan stres saat menghadapi pertengkaran dengan pasangan.;stress
+Saya emosi tidak stabil karena performa kerja yang menurun.;stress
+Saya sangat stres di tengah tugas kuliah.;stress
+Saya terbebani secara mental saat menghadapi pertengkaran dengan pasangan.;stress
+Saya merasa hampa disebabkan oleh pekerjaan menumpuk.;stress
+Saya tegang karena tekanan sosial.;stress
+Saya terbebani secara mental disebabkan oleh klien yang sulit.;stress
+Saya tidak bisa rileks karena ekspektasi tinggi.;stress
+Saya ingin menyerah akibat klien yang sulit.;stress
+Saya merasa tidak berdaya karena terus-menerus menghadapi masalah keuangan.;stress
+Saya terbebani secara mental memikirkan deadline yang ketat.;stress
+Saya ingin menyerah disebabkan oleh tugas kuliah.;stress
+Saya tidak bisa fokus memikirkan target yang tidak realistis.;stress
+Saya lelah dan stres saat menghadapi presentasi besar.;stress
+Saya terbebani secara mental disebabkan oleh utang yang menumpuk.;stress
+Saya tidak bisa rileks disebabkan oleh tenggat waktu semakin dekat.;stress
+Saya terbebani secara mental karena terus-menerus menghadapi target yang tidak realistis.;stress
+Saya ingin menyerah ketika memikirkan tekanan dari atasan.;stress
+Saya tidak bisa tidur memikirkan rutinitas yang melelahkan.;stress
+Saya tidak bisa rileks memikirkan pertengkaran dengan pasangan.;stress
+Saya gelisah karena klien yang sulit.;stress
+Saya emosi tidak stabil dengan kurang tidur.;stress
+Saya gelisah dengan kurang tidur.;stress
+Saya pikiran kacau saat menghadapi utang yang menumpuk.;stress
+Saya emosi tidak stabil di tengah tugas kuliah.;stress
+Saya gelisah di tengah lingkungan yang tidak mendukung.;stress
+Saya merasa hampa akibat utang yang menumpuk.;stress
+Saya tidak bisa tidur ketika harus menyelesaikan tekanan dari atasan.;stress
+Saya emosi tidak stabil ketika memikirkan utang yang menumpuk.;stress
+Saya tidak bisa tidur ketika memikirkan tekanan dari atasan.;stress
+Saya terbebani secara mental memikirkan konflik di tempat kerja.;stress
+Saya terbebani secara mental ketika harus menyelesaikan utang yang menumpuk.;stress
+Saya gelisah memikirkan ujian akhir.;stress
+Saya lelah dan stres akibat pertengkaran dengan pasangan.;stress
+Saya tidak bisa fokus karena terus-menerus menghadapi ujian akhir.;stress
+Saya tidak bisa fokus dengan masalah keuangan.;stress
+Saya tidak bisa tidur setiap kali memikirkan klien yang sulit.;stress
+Saya ingin menyerah setiap kali memikirkan ujian akhir.;stress
+Saya kewalahan saat menghadapi tenggat waktu semakin dekat.;stress
+Saya tidak bisa rileks saat menghadapi pertengkaran dengan pasangan.;stress
+Saya tertekan disebabkan oleh masalah kesehatan.;stress
+Saya tidak bisa fokus ketika harus menyelesaikan deadline yang ketat.;stress
+Saya sangat stres akibat performa kerja yang menurun.;stress
+Saya tegang memikirkan kehilangan motivasi.;stress
+Saya kewalahan memikirkan lingkungan yang tidak mendukung.;stress
+Saya tidak bisa fokus ketika harus menyelesaikan performa kerja yang menurun.;stress
+Saya gelisah ketika memikirkan target yang tidak realistis.;stress
+Saya pikiran kacau ketika harus menyelesaikan pekerjaan menumpuk.;stress
+Saya tidak bisa tidur setiap kali memikirkan utang yang menumpuk.;stress
+Saya tegang karena terus-menerus menghadapi masalah keuangan.;stress
+Saya tertekan karena tugas kuliah.;stress
+Saya terbebani secara mental setiap menghadapi target yang tidak realistis.;stress
+Saya pikiran kacau di tengah keraguan diri.;stress
+Saya lelah dan stres saat menghadapi jadwal yang padat.;stress
+Saya gelisah akibat utang yang menumpuk.;stress
+Saya ingin menyerah di tengah lingkungan yang tidak mendukung.;stress
+Saya ingin menyerah di tengah masalah kesehatan.;stress
+Saya tidak bisa rileks saat menghadapi tugas kuliah.;stress
+Saya emosi tidak stabil akibat klien yang sulit.;stress
+Saya tertekan karena rutinitas yang melelahkan.;stress
+Saya tidak bisa rileks karena terus-menerus menghadapi jadwal yang padat.;stress
+Saya gelisah di tengah pertengkaran dengan pasangan.;stress
+Saya kewalahan dengan masalah keuangan.;stress
+Saya merasa tidak berdaya akibat pekerjaan menumpuk.;stress
+Saya merasa tidak berdaya memikirkan tanggung jawab yang berat.;stress
+Saya lelah dan stres setiap menghadapi rutinitas yang melelahkan.;stress
+Saya ingin menyerah ketika memikirkan kehilangan motivasi.;stress
+Saya pikiran kacau di tengah tekanan dari atasan.;stress
+Saya lelah dan stres akibat keraguan diri.;stress
+Saya tertekan dengan tekanan dari atasan.;stress
+Saya tegang karena kehilangan motivasi.;stress
+Saya lelah dan stres setiap kali memikirkan tanggung jawab yang berat.;stress
+Saya sangat stres setiap menghadapi pekerjaan menumpuk.;stress
+Saya lelah dan stres memikirkan utang yang menumpuk.;stress
+Saya tidak bisa rileks memikirkan presentasi besar.;stress
+Saya tidak bisa fokus karena terus-menerus menghadapi utang yang menumpuk.;stress
+Saya merasa tidak berdaya dengan ujian akhir.;stress
+Saya sangat stres di tengah lingkungan yang tidak mendukung.;stress
+Saya ingin menyerah saat menghadapi tugas kuliah.;stress
+Saya kewalahan dengan utang yang menumpuk.;stress
+Saya emosi tidak stabil karena pertengkaran dengan pasangan.;stress
+Saya sangat stres ketika memikirkan jadwal yang padat.;stress
+Saya pikiran kacau memikirkan ekspektasi tinggi.;stress
+Saya tidak bisa rileks dengan keraguan diri.;stress
+Saya emosi tidak stabil setiap kali memikirkan jadwal yang padat.;stress
+Saya tegang ketika memikirkan jadwal yang padat.;stress
+Saya menangis tanpa sebab akibat jadwal yang padat.;stress
+Saya tidak bisa rileks setiap menghadapi pekerjaan menumpuk.;stress
+Saya tidak bisa rileks setiap kali memikirkan rutinitas yang melelahkan.;stress
+Saya terbebani secara mental disebabkan oleh konflik di tempat kerja.;stress
+Saya terbebani secara mental karena tanggung jawab yang berat.;stress
+Saya terbebani secara mental karena tanggung jawab yang berat.;stress
+Saya tidak bisa rileks setiap kali memikirkan ekspektasi tinggi.;stress
+Saya tidak bisa fokus memikirkan masalah keuangan.;stress
+Saya emosi tidak stabil ketika harus menyelesaikan lingkungan yang tidak mendukung.;stress
+Saya kewalahan disebabkan oleh kehilangan motivasi.;stress
+Saya tidak bisa tidur setiap kali memikirkan tanggung jawab yang berat.;stress
+Saya tidak bisa rileks disebabkan oleh pertengkaran dengan pasangan.;stress
+Saya sangat stres setiap menghadapi lingkungan yang tidak mendukung.;stress
+Saya tidak bisa rileks akibat masalah kesehatan.;stress
+Saya sangat stres setiap menghadapi kurang tidur.;stress
+Saya kewalahan di tengah target yang tidak realistis.;stress
+Saya tidak bisa tidur di tengah ekspektasi tinggi.;stress
+Saya emosi tidak stabil setiap menghadapi lingkungan yang tidak mendukung.;stress
+Saya lelah dan stres disebabkan oleh performa kerja yang menurun.;stress
+Saya merasa hampa ketika harus menyelesaikan performa kerja yang menurun.;stress
+Saya tidak bisa fokus akibat tenggat waktu semakin dekat.;stress
+Saya tidak bisa tidur ketika memikirkan performa kerja yang menurun.;stress
+Saya tidak bisa fokus karena terus-menerus menghadapi ujian akhir.;stress
+Saya pikiran kacau setiap menghadapi ujian akhir.;stress
+Saya sangat stres karena utang yang menumpuk.;stress
+Saya menangis tanpa sebab setiap menghadapi tekanan dari atasan.;stress
+Saya tegang setiap menghadapi ekspektasi tinggi.;stress
+Saya gelisah dengan lingkungan yang tidak mendukung.;stress
+Saya merasa hampa dengan lingkungan yang tidak mendukung.;stress
+Saya gelisah ketika harus menyelesaikan pertengkaran dengan pasangan.;stress
+Saya tidak bisa rileks di tengah masalah keluarga.;stress
+Saya tidak bisa fokus disebabkan oleh presentasi besar.;stress
+Saya terbebani secara mental di tengah klien yang sulit.;stress
+Saya tidak bisa tidur di tengah performa kerja yang menurun.;stress
+Saya lelah dan stres dengan tekanan dari atasan.;stress
+Saya pikiran kacau di tengah kehilangan motivasi.;stress
+Saya tegang akibat klien yang sulit.;stress
+Saya gelisah karena masalah kesehatan.;stress
+Saya lelah dan stres setiap kali memikirkan utang yang menumpuk.;stress
+Saya tidak bisa rileks setiap menghadapi tanggung jawab yang berat.;stress
+Saya tidak bisa tidur dengan kehilangan motivasi.;stress
+Saya gelisah setiap kali memikirkan tugas kuliah.;stress
+Saya emosi tidak stabil saat menghadapi kurang tidur.;stress
+Saya sangat stres disebabkan oleh masalah kesehatan.;stress
+Saya sangat stres setiap menghadapi tekanan sosial.;stress
+Saya tidak bisa rileks setiap kali memikirkan utang yang menumpuk.;stress
+Saya menangis tanpa sebab setiap kali memikirkan tanggung jawab yang berat.;stress
+Saya merasa hampa akibat ekspektasi tinggi.;stress
+Saya pikiran kacau karena tekanan sosial.;stress
+Saya terbebani secara mental ketika memikirkan masalah kesehatan.;stress
+Saya tegang akibat masalah keuangan.;stress
+Saya emosi tidak stabil disebabkan oleh utang yang menumpuk.;stress
+Saya merasa tidak berdaya dengan pekerjaan menumpuk.;stress
+Saya menangis tanpa sebab di tengah utang yang menumpuk.;stress
+Saya menangis tanpa sebab saat menghadapi ekspektasi tinggi.;stress
+Saya tegang saat menghadapi ujian akhir.;stress
+Saya tidak bisa rileks ketika harus menyelesaikan tanggung jawab yang berat.;stress
+Saya emosi tidak stabil saat menghadapi masalah keluarga.;stress
+Saya tidak bisa fokus disebabkan oleh kehilangan motivasi.;stress
+Saya merasa tidak berdaya karena terus-menerus menghadapi tenggat waktu semakin dekat.;stress
+Saya tidak bisa fokus saat menghadapi ekspektasi tinggi.;stress
+Saya merasa tidak berdaya ketika memikirkan target yang tidak realistis.;stress
+Saya gelisah karena terus-menerus menghadapi masalah keluarga.;stress
+Saya merasa tidak berdaya di tengah presentasi besar.;stress
+Saya tertekan karena terus-menerus menghadapi ekspektasi tinggi.;stress
+Saya terbebani secara mental akibat pertengkaran dengan pasangan.;stress
+Saya lelah dan stres disebabkan oleh tanggung jawab yang berat.;stress
+Saya tidak bisa fokus karena terus-menerus menghadapi ekspektasi tinggi.;stress
+Saya sangat stres ketika harus menyelesaikan kehilangan motivasi.;stress
+Saya emosi tidak stabil dengan tanggung jawab yang berat.;stress
+Saya sangat stres di tengah pekerjaan menumpuk.;stress
+Saya terbebani secara mental memikirkan tanggung jawab yang berat.;stress
+Saya sangat stres memikirkan ekspektasi tinggi.;stress
+Saya tidak bisa fokus di tengah tekanan sosial.;stress
+Saya tidak bisa fokus ketika harus menyelesaikan rutinitas yang melelahkan.;stress
+Saya pikiran kacau setiap menghadapi kehilangan motivasi.;stress
+Saya ingin menyerah akibat tekanan dari atasan.;stress
+Saya merasa tidak berdaya setiap menghadapi masalah keuangan.;stress
+Saya sangat stres setiap menghadapi kehilangan motivasi.;stress
+Saya sangat stres akibat konflik di tempat kerja.;stress
+Saya emosi tidak stabil setiap kali memikirkan presentasi besar.;stress
+Saya gelisah di tengah ujian akhir.;stress
+Saya kewalahan karena terus-menerus menghadapi keraguan diri.;stress
+Saya sangat stres karena terus-menerus menghadapi performa kerja yang menurun.;stress
+Saya emosi tidak stabil setiap kali memikirkan konflik di tempat kerja.;stress
+Saya merasa hampa karena konflik di tempat kerja.;stress
+Saya merasa hampa ketika harus menyelesaikan rutinitas yang melelahkan.;stress
+Saya kewalahan karena performa kerja yang menurun.;stress
+Saya pikiran kacau akibat tenggat waktu semakin dekat.;stress
+Saya gelisah ketika memikirkan ekspektasi tinggi.;stress
+Saya sangat stres memikirkan jadwal yang padat.;stress
+Saya tidak bisa rileks dengan konflik di tempat kerja.;stress
+Saya kewalahan memikirkan tenggat waktu semakin dekat.;stress
+Saya menangis tanpa sebab di tengah masalah keluarga.;stress
+Saya pikiran kacau karena terus-menerus menghadapi tanggung jawab yang berat.;stress
+Saya terbebani secara mental karena target yang tidak realistis.;stress
+Saya emosi tidak stabil karena terus-menerus menghadapi ekspektasi tinggi.;stress
+Saya tidak bisa fokus ketika memikirkan kurang tidur.;stress
+Saya ingin menyerah dengan pertengkaran dengan pasangan.;stress
+Saya terbebani secara mental akibat ekspektasi tinggi.;stress
+Saya gelisah karena tanggung jawab yang berat.;stress
+Saya tidak bisa fokus akibat ujian akhir.;stress
+Saya tidak bisa fokus setiap menghadapi pekerjaan menumpuk.;stress
+Saya tidak bisa fokus di tengah masalah keuangan.;stress
+Saya merasa tidak berdaya setiap menghadapi klien yang sulit.;stress
+Saya lelah dan stres karena ujian akhir.;stress
+Saya terbebani secara mental karena tanggung jawab yang berat.;stress
+Saya lelah dan stres karena kehilangan motivasi.;stress
+Saya kewalahan ketika memikirkan lingkungan yang tidak mendukung.;stress
+Saya sangat stres karena tugas kuliah.;stress
+Saya ingin menyerah setiap menghadapi kurang tidur.;stress
+Saya emosi tidak stabil ketika memikirkan tugas kuliah.;stress
+Saya gelisah karena tugas kuliah.;stress
+Saya tegang akibat performa kerja yang menurun.;stress
+Saya sangat stres karena masalah keuangan.;stress
+Saya lelah dan stres setiap kali memikirkan kurang tidur.;stress
+Saya gelisah dengan pertengkaran dengan pasangan.;stress
+Saya tidak bisa rileks ketika harus menyelesaikan masalah keluarga.;stress
+Saya kewalahan memikirkan klien yang sulit.;stress
+Saya gelisah ketika harus menyelesaikan ekspektasi tinggi.;stress
+Saya sangat stres ketika memikirkan pekerjaan menumpuk.;stress
+Saya menangis tanpa sebab saat menghadapi target yang tidak realistis.;stress
+Saya tidak bisa rileks akibat tenggat waktu semakin dekat.;stress
+Saya emosi tidak stabil di tengah tugas kuliah.;stress
+Saya gelisah akibat masalah keluarga.;stress
+Saya merasa hampa karena terus-menerus menghadapi target yang tidak realistis.;stress
+Saya tidak bisa rileks akibat presentasi besar.;stress
+Saya merasa tidak berdaya setiap menghadapi klien yang sulit.;stress
+Saya tidak bisa rileks setiap menghadapi lingkungan yang tidak mendukung.;stress
+Saya merasa tidak berdaya memikirkan keraguan diri.;stress
+Saya tidak bisa fokus saat menghadapi tanggung jawab yang berat.;stress
+Saya emosi tidak stabil akibat target yang tidak realistis.;stress
+Saya kewalahan karena ujian akhir.;stress
+Saya gelisah karena keraguan diri.;stress
+Saya tertekan disebabkan oleh target yang tidak realistis.;stress
+Saya terbebani secara mental karena klien yang sulit.;stress
+Saya lelah dan stres karena tenggat waktu semakin dekat.;stress
+Saya tegang karena terus-menerus menghadapi rutinitas yang melelahkan.;stress
+Saya merasa tidak berdaya akibat masalah kesehatan.;stress
+Saya terbebani secara mental memikirkan pekerjaan menumpuk.;stress
+Saya pikiran kacau akibat presentasi besar.;stress
+Saya kewalahan disebabkan oleh deadline yang ketat.;stress
+Saya tertekan ketika harus menyelesaikan ekspektasi tinggi.;stress
+Saya pikiran kacau karena rutinitas yang melelahkan.;stress
+Saya gelisah karena terus-menerus menghadapi target yang tidak realistis.;stress
+Saya pikiran kacau karena performa kerja yang menurun.;stress
+Saya tegang disebabkan oleh kehilangan motivasi.;stress
+Saya sangat stres di tengah ujian akhir.;stress
+Saya merasa hampa memikirkan target yang tidak realistis.;stress
+Saya merasa tidak berdaya karena keraguan diri.;stress
+Saya emosi tidak stabil memikirkan klien yang sulit.;stress
+Saya tertekan memikirkan ujian akhir.;stress
+Saya kewalahan karena konflik di tempat kerja.;stress
+Saya tidak bisa fokus karena terus-menerus menghadapi tekanan sosial.;stress
+Saya terbebani secara mental ketika memikirkan kurang tidur.;stress
+Saya tidak bisa rileks di tengah jadwal yang padat.;stress
+Saya tidak bisa tidur setiap kali memikirkan utang yang menumpuk.;stress
+Saya merasa hampa karena terus-menerus menghadapi masalah kesehatan.;stress
+Saya pikiran kacau di tengah rutinitas yang melelahkan.;stress
+Saya tidak bisa tidur ketika harus menyelesaikan utang yang menumpuk.;stress
+Saya sangat stres setiap menghadapi ujian akhir.;stress
+Saya merasa hampa disebabkan oleh konflik di tempat kerja.;stress
+Saya tegang setiap menghadapi deadline yang ketat.;stress
+Saya terbebani secara mental akibat performa kerja yang menurun.;stress
+Saya sangat stres memikirkan ekspektasi tinggi.;stress
+Saya ingin menyerah disebabkan oleh rutinitas yang melelahkan.;stress
+Saya ingin menyerah setiap kali memikirkan tenggat waktu semakin dekat.;stress
+Saya terbebani secara mental karena terus-menerus menghadapi target yang tidak realistis.;stress
+Saya sangat stres disebabkan oleh tugas kuliah.;stress
+Saya emosi tidak stabil karena terus-menerus menghadapi keraguan diri.;stress
+Saya tidak bisa fokus ketika harus menyelesaikan masalah keuangan.;stress
+Saya menangis tanpa sebab memikirkan pertengkaran dengan pasangan.;stress
+Saya pikiran kacau akibat jadwal yang padat.;stress
+Saya emosi tidak stabil ketika harus menyelesaikan lingkungan yang tidak mendukung.;stress
+Saya tidak bisa rileks karena tekanan dari atasan.;stress
+Saya sangat stres memikirkan tenggat waktu semakin dekat.;stress
+Saya gelisah akibat klien yang sulit.;stress
+Saya tidak bisa tidur akibat ekspektasi tinggi.;stress
+Saya tidak bisa fokus saat menghadapi deadline yang ketat.;stress
+Saya sangat stres ketika harus menyelesaikan masalah keuangan.;stress
+Saya lelah dan stres ketika memikirkan pekerjaan menumpuk.;stress
+Saya lelah dan stres karena klien yang sulit.;stress
+Saya tertekan ketika memikirkan masalah kesehatan.;stress
+Saya lelah dan stres karena terus-menerus menghadapi klien yang sulit.;stress
+Saya kewalahan ketika memikirkan tekanan sosial.;stress
+Saya kewalahan karena tenggat waktu semakin dekat.;stress
+Saya merasa hampa akibat jadwal yang padat.;stress
+Saya gelisah karena terus-menerus menghadapi tanggung jawab yang berat.;stress
+Saya emosi tidak stabil dengan kehilangan motivasi.;stress
+Saya gelisah disebabkan oleh tekanan sosial.;stress
+Saya merasa hampa disebabkan oleh tekanan sosial.;stress
+Saya lelah dan stres karena klien yang sulit.;stress
+Saya ingin menyerah ketika harus menyelesaikan target yang tidak realistis.;stress
+Saya gelisah akibat masalah kesehatan.;stress
+Saya ingin menyerah saat menghadapi rutinitas yang melelahkan.;stress
+Saya menangis tanpa sebab dengan masalah keluarga.;stress
+Saya tertekan ketika harus menyelesaikan tekanan dari atasan.;stress
+Saya merasa hampa ketika memikirkan tanggung jawab yang berat.;stress
+Saya lelah dan stres di tengah jadwal yang padat.;stress
+Saya pikiran kacau akibat masalah keuangan.;stress
+Saya tidak bisa tidur memikirkan masalah kesehatan.;stress
+Saya kewalahan karena masalah kesehatan.;stress
+Saya merasa hampa dengan konflik di tempat kerja.;stress
+Saya tidak bisa rileks ketika memikirkan utang yang menumpuk.;stress
+Saya lelah dan stres ketika harus menyelesaikan masalah kesehatan.;stress
+Saya menangis tanpa sebab karena terus-menerus menghadapi kurang tidur.;stress
+Saya menangis tanpa sebab setiap kali memikirkan presentasi besar.;stress
+Saya kewalahan di tengah target yang tidak realistis.;stress
+Saya tidak bisa fokus karena keraguan diri.;stress
+Saya lelah dan stres setiap menghadapi performa kerja yang menurun.;stress
+Saya menangis tanpa sebab ketika harus menyelesaikan ujian akhir.;stress
+Saya merasa hampa memikirkan target yang tidak realistis.;stress
+Saya tidak bisa tidur di tengah deadline yang ketat.;stress
+Saya tertekan dengan performa kerja yang menurun.;stress
+Saya emosi tidak stabil setiap kali memikirkan jadwal yang padat.;stress
+Saya gelisah ketika memikirkan ekspektasi tinggi.;stress
+Saya merasa hampa saat menghadapi tekanan sosial.;stress
+Saya tertekan dengan tekanan sosial.;stress
+Saya merasa tidak berdaya di tengah klien yang sulit.;stress
+Saya pikiran kacau ketika memikirkan masalah keuangan.;stress
+Saya tidak bisa tidur dengan tekanan sosial.;stress
+Saya tidak bisa tidur ketika harus menyelesaikan tanggung jawab yang berat.;stress
+Saya tidak bisa rileks karena terus-menerus menghadapi lingkungan yang tidak mendukung.;stress
+Saya tegang setiap kali memikirkan target yang tidak realistis.;stress
+Saya tidak bisa fokus saat menghadapi target yang tidak realistis.;stress
+Saya terbebani secara mental disebabkan oleh ekspektasi tinggi.;stress
+Saya pikiran kacau disebabkan oleh konflik di tempat kerja.;stress
+Saya terbebani secara mental dengan keraguan diri.;stress
+Saya lelah dan stres setiap menghadapi pekerjaan menumpuk.;stress
+Saya ingin menyerah memikirkan jadwal yang padat.;stress
+Saya merasa hampa saat menghadapi tenggat waktu semakin dekat.;stress
+Saya gelisah dengan ekspektasi tinggi.;stress
+Saya tertekan memikirkan kehilangan motivasi.;stress
+Saya lelah dan stres ketika harus menyelesaikan tenggat waktu semakin dekat.;stress
+Saya ingin menyerah karena pertengkaran dengan pasangan.;stress
+Saya lelah dan stres memikirkan rutinitas yang melelahkan.;stress
+Saya kewalahan setiap kali memikirkan konflik di tempat kerja.;stress
+Saya pikiran kacau di tengah kurang tidur.;stress
+Saya gelisah akibat presentasi besar.;stress
+Saya terbebani secara mental akibat performa kerja yang menurun.;stress
+Saya ingin menyerah karena tekanan sosial.;stress
+Saya tegang ketika harus menyelesaikan target yang tidak realistis.;stress
+Saya menangis tanpa sebab di tengah kurang tidur.;stress
+Saya menangis tanpa sebab di tengah kurang tidur.;stress
+Saya ingin menyerah saat menghadapi rutinitas yang melelahkan.;stress
+Saya kewalahan disebabkan oleh keraguan diri.;stress
+Saya ingin menyerah ketika memikirkan masalah keuangan.;stress
+Saya pikiran kacau disebabkan oleh deadline yang ketat.;stress
+Saya tidak bisa fokus akibat jadwal yang padat.;stress
+Saya terbebani secara mental karena terus-menerus menghadapi pekerjaan menumpuk.;stress
+Saya tidak bisa tidur dengan keraguan diri.;stress
+Saya pikiran kacau saat menghadapi tekanan sosial.;stress
+Saya merasa hampa karena kehilangan motivasi.;stress
+Saya tegang disebabkan oleh keraguan diri.;stress
+Saya kewalahan karena tekanan dari atasan.;stress
+Saya tidak bisa rileks memikirkan pertengkaran dengan pasangan.;stress
+Saya tidak bisa rileks karena terus-menerus menghadapi pekerjaan menumpuk.;stress
+Saya tidak bisa tidur ketika memikirkan ujian akhir.;stress
+Saya gelisah setiap menghadapi performa kerja yang menurun.;stress
+Saya lelah dan stres ketika memikirkan tanggung jawab yang berat.;stress
+Saya tidak bisa rileks karena utang yang menumpuk.;stress
+Saya merasa hampa karena kehilangan motivasi.;stress
+Saya ingin menyerah akibat deadline yang ketat.;stress
+Saya lelah dan stres karena terus-menerus menghadapi tugas kuliah.;stress
+Saya sangat stres karena jadwal yang padat.;stress
+Saya terbebani secara mental disebabkan oleh utang yang menumpuk.;stress
+Saya tegang ketika harus menyelesaikan tugas kuliah.;stress
+Saya tidak bisa fokus dengan lingkungan yang tidak mendukung.;stress
+Saya lelah dan stres di tengah kehilangan motivasi.;stress
+Saya tertekan ketika memikirkan pekerjaan menumpuk.;stress
+Saya gelisah setiap kali memikirkan tenggat waktu semakin dekat.;stress
+Saya menangis tanpa sebab dengan ekspektasi tinggi.;stress
+Saya sangat stres setiap kali memikirkan lingkungan yang tidak mendukung.;stress
+Saya lelah dan stres ketika harus menyelesaikan klien yang sulit.;stress
+Saya tidak bisa tidur karena keraguan diri.;stress
+Saya merasa tidak berdaya karena terus-menerus menghadapi tanggung jawab yang berat.;stress
+Saya terbebani secara mental di tengah tekanan dari atasan.;stress
+Saya menangis tanpa sebab akibat konflik di tempat kerja.;stress
+Saya merasa tidak berdaya di tengah rutinitas yang melelahkan.;stress
+Saya lelah dan stres setiap menghadapi target yang tidak realistis.;stress
+Saya ingin menyerah karena terus-menerus menghadapi ujian akhir.;stress
+Saya tidak bisa tidur ketika memikirkan klien yang sulit.;stress
+Saya menangis tanpa sebab ketika harus menyelesaikan tenggat waktu semakin dekat.;stress
+Saya kewalahan setiap menghadapi performa kerja yang menurun.;stress
+Saya lelah dan stres di tengah jadwal yang padat.;stress
+Saya menangis tanpa sebab ketika harus menyelesaikan masalah keuangan.;stress
+Saya tidak bisa tidur memikirkan keraguan diri.;stress
+Saya pikiran kacau ketika memikirkan deadline yang ketat.;stress
+Saya tidak bisa fokus ketika memikirkan kurang tidur.;stress
+Saya merasa tidak berdaya akibat rutinitas yang melelahkan.;stress
+Saya emosi tidak stabil karena terus-menerus menghadapi jadwal yang padat.;stress
+Saya merasa hampa karena jadwal yang padat.;stress
+Saya merasa tidak berdaya setiap kali memikirkan pertengkaran dengan pasangan.;stress
+Saya tertekan disebabkan oleh tekanan dari atasan.;stress
+Saya menangis tanpa sebab setiap menghadapi presentasi besar.;stress
+Saya tidak bisa rileks setiap kali memikirkan jadwal yang padat.;stress
+Saya merasa hampa setiap kali memikirkan rutinitas yang melelahkan.;stress
+Saya merasa hampa setiap kali memikirkan masalah kesehatan.;stress
+Saya lelah dan stres karena tekanan sosial.;stress
+Saya kewalahan karena masalah kesehatan.;stress
+Saya emosi tidak stabil dengan konflik di tempat kerja.;stress
+Saya terbebani secara mental karena masalah kesehatan.;stress
+Saya kewalahan karena ekspektasi tinggi.;stress
+Saya pikiran kacau akibat pertengkaran dengan pasangan.;stress
+Saya lelah dan stres karena terus-menerus menghadapi jadwal yang padat.;stress
+Saya sangat stres di tengah ujian akhir.;stress
+Saya tidak bisa rileks ketika memikirkan pekerjaan menumpuk.;stress
+Saya kewalahan karena presentasi besar.;stress
+Saya merasa tidak berdaya disebabkan oleh tanggung jawab yang berat.;stress
+Saya terbebani secara mental karena terus-menerus menghadapi kehilangan motivasi.;stress
+Saya merasa hampa setiap menghadapi klien yang sulit.;stress
+Saya sangat stres karena kehilangan motivasi.;stress
+Saya lelah dan stres saat menghadapi tanggung jawab yang berat.;stress
+Saya menangis tanpa sebab dengan masalah keuangan.;stress
+Saya lelah dan stres karena terus-menerus menghadapi tekanan sosial.;stress
+Saya merasa hampa akibat tugas kuliah.;stress
+Saya merasa hampa setiap menghadapi masalah kesehatan.;stress
+Saya kewalahan di tengah tanggung jawab yang berat.;stress
+Saya kewalahan di tengah tugas kuliah.;stress
+Saya tegang ketika harus menyelesaikan tenggat waktu semakin dekat.;stress
+Saya emosi tidak stabil ketika memikirkan masalah keuangan.;stress
+Saya ingin menyerah disebabkan oleh masalah keuangan.;stress
+Saya terbebani secara mental memikirkan target yang tidak realistis.;stress
+Saya pikiran kacau di tengah masalah keuangan.;stress
+Saya sangat stres dengan target yang tidak realistis.;stress
+Saya lelah dan stres dengan tekanan dari atasan.;stress
+Saya tertekan karena tanggung jawab yang berat.;stress
+Saya tegang memikirkan performa kerja yang menurun.;stress
+Saya tidak bisa rileks dengan deadline yang ketat.;stress
+Saya tidak bisa fokus dengan rutinitas yang melelahkan.;stress
+Saya pikiran kacau ketika harus menyelesaikan konflik di tempat kerja.;stress
+Saya emosi tidak stabil karena terus-menerus menghadapi tenggat waktu semakin dekat.;stress
+Saya menangis tanpa sebab setiap menghadapi masalah keuangan.;stress
+Saya tidak bisa tidur setiap menghadapi kurang tidur.;stress
+Saya tidak bisa fokus ketika memikirkan tenggat waktu semakin dekat.;stress
+Saya pikiran kacau ketika memikirkan keraguan diri.;stress
+Saya tidak bisa fokus memikirkan target yang tidak realistis.;stress
+Saya pikiran kacau saat menghadapi keraguan diri.;stress
+Saya lelah dan stres setiap menghadapi masalah keuangan.;stress
+Saya merasa hampa disebabkan oleh kehilangan motivasi.;stress
+Saya ingin menyerah setiap menghadapi jadwal yang padat.;stress
+Saya tegang karena terus-menerus menghadapi ujian akhir.;stress
+Saya terbebani secara mental setiap menghadapi tenggat waktu semakin dekat.;stress
+Saya terbebani secara mental setiap menghadapi keraguan diri.;stress
+Saya tidak bisa tidur saat menghadapi pekerjaan menumpuk.;stress
+Saya sangat stres setiap kali memikirkan deadline yang ketat.;stress
+Saya emosi tidak stabil setiap menghadapi jadwal yang padat.;stress
+Saya terbebani secara mental akibat target yang tidak realistis.;stress
+Saya tidak bisa rileks setiap kali memikirkan tekanan sosial.;stress
+Saya kewalahan saat menghadapi masalah keuangan.;stress
+Saya pikiran kacau saat menghadapi presentasi besar.;stress
+Saya merasa hampa di tengah tugas kuliah.;stress
+Saya kewalahan akibat ujian akhir.;stress
+Saya sangat stres karena masalah keuangan.;stress
+Saya tegang karena masalah keluarga.;stress
+Saya lelah dan stres karena pekerjaan menumpuk.;stress
+Saya tidak bisa fokus memikirkan ekspektasi tinggi.;stress
+Saya sangat stres karena pertengkaran dengan pasangan.;stress
+Saya merasa hampa ketika memikirkan kurang tidur.;stress
+Saya merasa hampa setiap menghadapi lingkungan yang tidak mendukung.;stress
+Saya tegang saat menghadapi keraguan diri.;stress
+Saya kewalahan setiap kali memikirkan masalah keluarga.;stress
+Saya gelisah karena terus-menerus menghadapi masalah keuangan.;stress
+Saya lelah dan stres disebabkan oleh pertengkaran dengan pasangan.;stress
+Saya menangis tanpa sebab memikirkan jadwal yang padat.;stress
+Saya menangis tanpa sebab ketika memikirkan utang yang menumpuk.;stress
+Saya tegang karena terus-menerus menghadapi presentasi besar.;stress
+Saya tertekan karena terus-menerus menghadapi rutinitas yang melelahkan.;stress
+Saya merasa hampa ketika memikirkan ekspektasi tinggi.;stress
+Saya tidak bisa tidur di tengah ekspektasi tinggi.;stress
+Saya tertekan dengan masalah kesehatan.;stress
+Saya tidak bisa tidur saat menghadapi pertengkaran dengan pasangan.;stress
+Saya tidak bisa rileks di tengah masalah kesehatan.;stress
+Saya tegang setiap kali memikirkan pekerjaan menumpuk.;stress
+Saya merasa tidak berdaya dengan klien yang sulit.;stress
+Saya merasa tidak berdaya dengan deadline yang ketat.;stress
+Saya tegang ketika harus menyelesaikan masalah keuangan.;stress
+Saya menangis tanpa sebab akibat kurang tidur.;stress
+Saya tidak bisa fokus disebabkan oleh deadline yang ketat.;stress
+Saya emosi tidak stabil karena terus-menerus menghadapi ujian akhir.;stress
+Saya emosi tidak stabil di tengah lingkungan yang tidak mendukung.;stress
+Saya tidak bisa tidur memikirkan kehilangan motivasi.;stress
+Saya ingin menyerah disebabkan oleh kehilangan motivasi.;stress
+Saya tegang saat menghadapi masalah kesehatan.;stress
+Saya tegang setiap menghadapi masalah keluarga.;stress
+Saya menangis tanpa sebab disebabkan oleh masalah keuangan.;stress
+Saya emosi tidak stabil saat menghadapi tenggat waktu semakin dekat.;stress
+Saya lelah dan stres dengan utang yang menumpuk.;stress
+Saya merasa hampa di tengah rutinitas yang melelahkan.;stress
+Saya tidak bisa tidur memikirkan pertengkaran dengan pasangan.;stress
+Saya lelah dan stres setiap kali memikirkan kurang tidur.;stress
+Saya tidak bisa rileks karena terus-menerus menghadapi rutinitas yang melelahkan.;stress
+Saya terbebani secara mental disebabkan oleh deadline yang ketat.;stress
+Saya tertekan dengan rutinitas yang melelahkan.;stress
+Saya pikiran kacau disebabkan oleh tekanan dari atasan.;stress
+Saya kewalahan disebabkan oleh tekanan sosial.;stress
+Saya tertekan ketika memikirkan pekerjaan menumpuk.;stress
+Saya kewalahan setiap menghadapi tekanan sosial.;stress
+Saya emosi tidak stabil dengan deadline yang ketat.;stress
+Saya ingin menyerah karena terus-menerus menghadapi presentasi besar.;stress
+Saya ingin menyerah memikirkan klien yang sulit.;stress
+Saya tidak bisa tidur akibat jadwal yang padat.;stress
+Saya kewalahan ketika harus menyelesaikan konflik di tempat kerja.;stress
+Saya emosi tidak stabil memikirkan ekspektasi tinggi.;stress
+Saya tidak bisa fokus memikirkan jadwal yang padat.;stress
+Saya tidak bisa rileks memikirkan masalah keluarga.;stress
+Saya ingin menyerah disebabkan oleh rutinitas yang melelahkan.;stress
+Saya menangis tanpa sebab ketika harus menyelesaikan kehilangan motivasi.;stress
+Saya merasa hampa karena kehilangan motivasi.;stress
+Saya tertekan memikirkan ujian akhir.;stress
+Saya ingin menyerah disebabkan oleh ujian akhir.;stress
+Saya merasa tidak berdaya disebabkan oleh utang yang menumpuk.;stress
+Saya kewalahan disebabkan oleh deadline yang ketat.;stress
+Saya tidak bisa rileks karena terus-menerus menghadapi rutinitas yang melelahkan.;stress
+Saya menangis tanpa sebab saat menghadapi tugas kuliah.;stress
+Saya menangis tanpa sebab memikirkan utang yang menumpuk.;stress
+Saya tegang setiap kali memikirkan pekerjaan menumpuk.;stress
+Saya sangat stres ketika harus menyelesaikan masalah keluarga.;stress
+Saya merasa tidak berdaya setiap menghadapi tenggat waktu semakin dekat.;stress
+Saya tertekan karena terus-menerus menghadapi jadwal yang padat.;stress
+Saya merasa tidak berdaya saat menghadapi tanggung jawab yang berat.;stress
+Saya gelisah setiap menghadapi tenggat waktu semakin dekat.;stress
+Saya kewalahan dengan tugas kuliah.;stress
+Saya tidak bisa rileks memikirkan tenggat waktu semakin dekat.;stress
+Saya tidak bisa fokus memikirkan lingkungan yang tidak mendukung.;stress
+Saya tidak bisa rileks di tengah tekanan sosial.;stress
+Saya gelisah karena terus-menerus menghadapi rutinitas yang melelahkan.;stress
+Saya tidak bisa fokus disebabkan oleh kurang tidur.;stress
+Saya tegang setiap kali memikirkan konflik di tempat kerja.;stress
+Saya kewalahan ketika harus menyelesaikan tanggung jawab yang berat.;stress
+Saya tidak bisa tidur saat menghadapi deadline yang ketat.;stress
+Saya tidak bisa tidur memikirkan presentasi besar.;stress
+Saya tidak bisa tidur dengan tanggung jawab yang berat.;stress
+Saya terbebani secara mental memikirkan klien yang sulit.;stress
+Saya kewalahan disebabkan oleh pertengkaran dengan pasangan.;stress
+Saya emosi tidak stabil ketika memikirkan ekspektasi tinggi.;stress
+Saya menangis tanpa sebab setiap menghadapi tugas kuliah.;stress
+Saya merasa tidak berdaya karena tugas kuliah.;stress
+Saya terbebani secara mental ketika memikirkan tugas kuliah.;stress
+Saya menangis tanpa sebab akibat deadline yang ketat.;stress
+Saya ingin menyerah saat menghadapi keraguan diri.;stress
+Saya merasa tidak berdaya setiap kali memikirkan kurang tidur.;stress
+Saya terbebani secara mental ketika harus menyelesaikan lingkungan yang tidak mendukung.;stress
+Saya terbebani secara mental disebabkan oleh keraguan diri.;stress
+Saya kewalahan setiap menghadapi lingkungan yang tidak mendukung.;stress
+Saya merasa hampa disebabkan oleh tanggung jawab yang berat.;stress
+Saya tidak bisa fokus karena terus-menerus menghadapi konflik di tempat kerja.;stress
+Saya tegang akibat tugas kuliah.;stress
+Saya tidak bisa rileks memikirkan konflik di tempat kerja.;stress
+Saya ingin menyerah setiap menghadapi klien yang sulit.;stress
+Saya gelisah akibat klien yang sulit.;stress
+Saya menangis tanpa sebab karena lingkungan yang tidak mendukung.;stress
+Saya pikiran kacau akibat tugas kuliah.;stress
+Saya tertekan memikirkan utang yang menumpuk.;stress
+Saya tidak bisa rileks setiap menghadapi tugas kuliah.;stress
+Saya gelisah karena keraguan diri.;stress
+Saya emosi tidak stabil di tengah performa kerja yang menurun.;stress
+Saya lelah dan stres akibat lingkungan yang tidak mendukung.;stress
+Saya merasa hampa saat menghadapi kehilangan motivasi.;stress
+Saya tidak bisa tidur memikirkan tanggung jawab yang berat.;stress
+Saya menangis tanpa sebab ketika memikirkan tugas kuliah.;stress
+Saya pikiran kacau di tengah masalah kesehatan.;stress
+Saya ingin menyerah dengan rutinitas yang melelahkan.;stress
+Saya kewalahan saat menghadapi masalah kesehatan.;stress
+Saya terbebani secara mental setiap kali memikirkan deadline yang ketat.;stress
+Saya tidak bisa fokus ketika harus menyelesaikan jadwal yang padat.;stress
+Saya tegang setiap menghadapi performa kerja yang menurun.;stress
+Saya tidak bisa fokus dengan klien yang sulit.;stress
+Saya tidak bisa tidur ketika harus menyelesaikan deadline yang ketat.;stress
+Saya lelah dan stres setiap menghadapi pekerjaan menumpuk.;stress
+Saya gelisah dengan klien yang sulit.;stress
+Saya tidak bisa fokus setiap menghadapi tugas kuliah.;stress
+Saya tertekan saat menghadapi masalah keluarga.;stress
+Saya terbebani secara mental di tengah tugas kuliah.;stress
+Saya emosi tidak stabil setiap kali memikirkan ekspektasi tinggi.;stress
+Saya emosi tidak stabil memikirkan jadwal yang padat.;stress
+Saya terbebani secara mental karena terus-menerus menghadapi masalah keuangan.;stress
+Saya tidak bisa fokus di tengah tenggat waktu semakin dekat.;stress
+Saya emosi tidak stabil setiap menghadapi lingkungan yang tidak mendukung.;stress
+Saya gelisah setiap kali memikirkan pertengkaran dengan pasangan.;stress
+Saya ingin menyerah akibat utang yang menumpuk.;stress
+Saya tidak bisa fokus memikirkan konflik di tempat kerja.;stress
+Saya ingin menyerah akibat deadline yang ketat.;stress
+Saya gelisah memikirkan tugas kuliah.;stress
+Saya tegang disebabkan oleh tenggat waktu semakin dekat.;stress
+Saya tegang ketika memikirkan keraguan diri.;stress
+Saya tertekan disebabkan oleh keraguan diri.;stress
+Saya menangis tanpa sebab setiap menghadapi lingkungan yang tidak mendukung.;stress
+Saya merasa tidak berdaya di tengah ujian akhir.;stress
+Saya tegang memikirkan tugas kuliah.;stress
+Saya terbebani secara mental setiap kali memikirkan konflik di tempat kerja.;stress
+Saya emosi tidak stabil di tengah deadline yang ketat.;stress
+Saya tidak bisa rileks ketika memikirkan utang yang menumpuk.;stress
+Saya merasa hampa ketika harus menyelesaikan kurang tidur.;stress
+Saya ingin menyerah karena terus-menerus menghadapi pekerjaan menumpuk.;stress
+Saya merasa tidak berdaya ketika harus menyelesaikan tugas kuliah.;stress
+Saya pikiran kacau akibat masalah keluarga.;stress
+Saya kewalahan ketika memikirkan performa kerja yang menurun.;stress
+Saya ingin menyerah setiap kali memikirkan keraguan diri.;stress
+Saya lelah dan stres saat menghadapi masalah kesehatan.;stress
+Saya ingin menyerah saat menghadapi ekspektasi tinggi.;stress
+Saya tegang karena pertengkaran dengan pasangan.;stress
+Saya tegang setiap menghadapi jadwal yang padat.;stress
+Saya tegang karena utang yang menumpuk.;stress
+Saya ingin menyerah dengan kurang tidur.;stress
+Saya tidak bisa tidur ketika memikirkan target yang tidak realistis.;stress
+Saya pikiran kacau ketika harus menyelesaikan presentasi besar.;stress
+Saya terbebani secara mental ketika memikirkan klien yang sulit.;stress
+Saya pikiran kacau akibat tanggung jawab yang berat.;stress
+Saya merasa tidak berdaya disebabkan oleh presentasi besar.;stress
+Saya ingin menyerah karena terus-menerus menghadapi tanggung jawab yang berat.;stress
+Saya sangat stres disebabkan oleh utang yang menumpuk.;stress
+Saya pikiran kacau memikirkan lingkungan yang tidak mendukung.;stress
+Saya merasa hampa karena utang yang menumpuk.;stress
+Saya sangat stres karena terus-menerus menghadapi pertengkaran dengan pasangan.;stress
+Saya pikiran kacau memikirkan lingkungan yang tidak mendukung.;stress
+Saya terbebani secara mental dengan jadwal yang padat.;stress
+Saya terbebani secara mental setiap menghadapi jadwal yang padat.;stress
+Saya tegang dengan tekanan dari atasan.;stress
+Saya tidak bisa rileks ketika memikirkan pekerjaan menumpuk.;stress
+Saya tegang setiap kali memikirkan rutinitas yang melelahkan.;stress
+Saya pikiran kacau disebabkan oleh lingkungan yang tidak mendukung.;stress
+Saya merasa tidak berdaya ketika harus menyelesaikan deadline yang ketat.;stress
+Saya pikiran kacau setiap menghadapi kurang tidur.;stress
+Saya tegang karena terus-menerus menghadapi lingkungan yang tidak mendukung.;stress
+Saya tidak bisa rileks setiap kali memikirkan tekanan dari atasan.;stress
+Saya menangis tanpa sebab dengan masalah keuangan.;stress
+Saya terbebani secara mental di tengah tekanan sosial.;stress
+Saya merasa tidak berdaya saat menghadapi tugas kuliah.;stress
+Saya pikiran kacau ketika memikirkan masalah keluarga.;stress
+Saya tidak bisa fokus memikirkan ujian akhir.;stress
+Saya pikiran kacau karena ujian akhir.;stress
+Saya emosi tidak stabil ketika harus menyelesaikan ekspektasi tinggi.;stress
+Saya tidak bisa rileks di tengah ekspektasi tinggi.;stress
+Saya sangat stres ketika memikirkan ujian akhir.;stress
+Saya ingin menyerah saat menghadapi presentasi besar.;stress
+Saya kewalahan ketika harus menyelesaikan pertengkaran dengan pasangan.;stress
+Saya tidak bisa fokus ketika harus menyelesaikan masalah keluarga.;stress
+Saya tidak bisa tidur akibat utang yang menumpuk.;stress
+Saya merasa tidak berdaya ketika memikirkan masalah keluarga.;stress
+Saya ingin menyerah disebabkan oleh ekspektasi tinggi.;stress
+Saya terbebani secara mental memikirkan performa kerja yang menurun.;stress
+Saya ingin menyerah karena terus-menerus menghadapi ekspektasi tinggi.;stress
+Saya tidak bisa fokus disebabkan oleh masalah keluarga.;stress
+Saya terbebani secara mental dengan deadline yang ketat.;stress
+Saya sangat stres saat menghadapi ekspektasi tinggi.;stress
+Saya gelisah memikirkan ekspektasi tinggi.;stress
+Saya tidak bisa tidur setiap menghadapi kurang tidur.;stress
+Saya tidak bisa rileks karena keraguan diri.;stress
+Saya tidak bisa rileks setiap kali memikirkan kurang tidur.;stress
+Saya menangis tanpa sebab disebabkan oleh tenggat waktu semakin dekat.;stress
+Saya tidak bisa fokus ketika harus menyelesaikan target yang tidak realistis.;stress
+Saya emosi tidak stabil setiap menghadapi utang yang menumpuk.;stress
+Saya gelisah setiap menghadapi tugas kuliah.;stress
+Saya merasa tidak berdaya ketika memikirkan pekerjaan menumpuk.;stress
+Saya ingin menyerah dengan ujian akhir.;stress
+Saya menangis tanpa sebab saat menghadapi ekspektasi tinggi.;stress
+Saya gelisah saat menghadapi rutinitas yang melelahkan.;stress
+Saya terbebani secara mental dengan klien yang sulit.;stress
+Saya gelisah akibat tugas kuliah.;stress
+Saya emosi tidak stabil saat menghadapi performa kerja yang menurun.;stress
+Saya emosi tidak stabil setiap menghadapi kehilangan motivasi.;stress
+Saya ingin menyerah ketika harus menyelesaikan tanggung jawab yang berat.;stress
+Saya pikiran kacau disebabkan oleh utang yang menumpuk.;stress
+Saya kewalahan ketika memikirkan konflik di tempat kerja.;stress
+Saya merasa tidak berdaya karena rutinitas yang melelahkan.;stress
+Saya terbebani secara mental di tengah performa kerja yang menurun.;stress
+Saya lelah dan stres dengan konflik di tempat kerja.;stress
+Saya tidak bisa tidur saat menghadapi ekspektasi tinggi.;stress
+Saya sangat stres karena terus-menerus menghadapi masalah kesehatan.;stress
+Saya pikiran kacau setiap menghadapi klien yang sulit.;stress
+Saya tidak bisa rileks karena target yang tidak realistis.;stress
+Saya tertekan akibat masalah kesehatan.;stress
+Saya gelisah karena terus-menerus menghadapi kurang tidur.;stress
+Saya tertekan ketika harus menyelesaikan lingkungan yang tidak mendukung.;stress
+Saya merasa hampa akibat performa kerja yang menurun.;stress
+Saya pikiran kacau disebabkan oleh target yang tidak realistis.;stress
+Saya tidak bisa fokus ketika memikirkan masalah keuangan.;stress
+Saya tertekan disebabkan oleh deadline yang ketat.;stress
+Saya tegang akibat tanggung jawab yang berat.;stress
+Saya tidak bisa tidur ketika memikirkan utang yang menumpuk.;stress
+Saya tegang dengan jadwal yang padat.;stress
+Saya sangat stres di tengah tenggat waktu semakin dekat.;stress
+Saya tegang disebabkan oleh tugas kuliah.;stress
+Saya tidak bisa fokus setiap menghadapi masalah keuangan.;stress
+Saya tidak bisa fokus memikirkan jadwal yang padat.;stress
+Saya tidak bisa rileks dengan kehilangan motivasi.;stress
+Saya tidak bisa rileks ketika harus menyelesaikan tugas kuliah.;stress
+Saya tegang ketika harus menyelesaikan klien yang sulit.;stress
+Saya tegang setiap menghadapi keraguan diri.;stress
+Saya tegang saat menghadapi tekanan dari atasan.;stress
+Saya emosi tidak stabil memikirkan tanggung jawab yang berat.;stress
+Saya tidak bisa fokus ketika harus menyelesaikan konflik di tempat kerja.;stress
+Saya merasa tidak berdaya dengan tekanan sosial.;stress
+Saya gelisah karena terus-menerus menghadapi kehilangan motivasi.;stress
+Saya menangis tanpa sebab disebabkan oleh ekspektasi tinggi.;stress
+Saya terbebani secara mental di tengah konflik di tempat kerja.;stress
+Saya tidak bisa fokus setiap menghadapi tugas kuliah.;stress
+Saya tertekan di tengah tanggung jawab yang berat.;stress
+Saya kewalahan ketika harus menyelesaikan performa kerja yang menurun.;stress
+Saya tidak bisa rileks saat menghadapi tanggung jawab yang berat.;stress
+Saya pikiran kacau akibat ujian akhir.;stress
+Saya merasa tidak berdaya karena pertengkaran dengan pasangan.;stress
+Saya menangis tanpa sebab memikirkan deadline yang ketat.;stress
+Saya tertekan dengan presentasi besar.;stress
+Saya sangat stres karena terus-menerus menghadapi utang yang menumpuk.;stress
+Saya tegang memikirkan target yang tidak realistis.;stress
+Saya tegang ketika memikirkan target yang tidak realistis.;stress
+Saya lelah dan stres ketika harus menyelesaikan kehilangan motivasi.;stress
+Saya sangat stres setiap menghadapi jadwal yang padat.;stress
+Saya tidak bisa tidur ketika memikirkan jadwal yang padat.;stress
+Saya merasa hampa setiap kali memikirkan tekanan sosial.;stress
+Saya lelah dan stres ketika harus menyelesaikan pekerjaan menumpuk.;stress
+Saya sangat stres saat menghadapi tekanan sosial.;stress
+Saya menangis tanpa sebab memikirkan tugas kuliah.;stress
+Saya menangis tanpa sebab ketika harus menyelesaikan kurang tidur.;stress
+Saya tertekan ketika memikirkan utang yang menumpuk.;stress
+Saya terbebani secara mental ketika harus menyelesaikan target yang tidak realistis.;stress
+Saya pikiran kacau di tengah ujian akhir.;stress
+Saya gelisah akibat tugas kuliah.;stress
+Saya tertekan disebabkan oleh tanggung jawab yang berat.;stress
+Saya kewalahan setiap menghadapi deadline yang ketat.;stress
+Saya ingin menyerah setiap kali memikirkan deadline yang ketat.;stress
+Saya merasa tidak berdaya ketika memikirkan performa kerja yang menurun.;stress
+Saya merasa hampa disebabkan oleh presentasi besar.;stress
+Saya sangat stres ketika memikirkan tekanan dari atasan.;stress
+Saya tidak bisa fokus dengan target yang tidak realistis.;stress
+Saya tertekan karena tekanan sosial.;stress
+Saya tegang karena terus-menerus menghadapi pertengkaran dengan pasangan.;stress
+Saya emosi tidak stabil akibat konflik di tempat kerja.;stress
+Saya merasa tidak berdaya karena terus-menerus menghadapi masalah keuangan.;stress
+Saya pikiran kacau ketika harus menyelesaikan tugas kuliah.;stress
+Saya kewalahan akibat tanggung jawab yang berat.;stress
+Saya pikiran kacau ketika harus menyelesaikan tanggung jawab yang berat.;stress
+Saya tegang karena terus-menerus menghadapi masalah kesehatan.;stress
+Saya gelisah di tengah tanggung jawab yang berat.;stress
+Saya menangis tanpa sebab dengan tugas kuliah.;stress
+Saya tidak bisa rileks dengan performa kerja yang menurun.;stress
+Saya sangat stres setiap kali memikirkan tanggung jawab yang berat.;stress
+Saya lelah dan stres setiap kali memikirkan masalah kesehatan.;stress
+Saya tidak bisa fokus saat menghadapi target yang tidak realistis.;stress
+Saya ingin menyerah saat menghadapi lingkungan yang tidak mendukung.;stress
+Saya sangat stres dengan ujian akhir.;stress
+Saya tidak bisa rileks ketika harus menyelesaikan konflik di tempat kerja.;stress
+Saya merasa hampa dengan tugas kuliah.;stress
+Saya pikiran kacau memikirkan tenggat waktu semakin dekat.;stress
+Saya gelisah akibat tenggat waktu semakin dekat.;stress
+Saya pikiran kacau memikirkan pertengkaran dengan pasangan.;stress
+Saya tidak bisa tidur setiap menghadapi ujian akhir.;stress
+Saya lelah dan stres setiap menghadapi tanggung jawab yang berat.;stress
+Saya tidak bisa tidur setiap kali memikirkan tugas kuliah.;stress
+Saya emosi tidak stabil setiap kali memikirkan konflik di tempat kerja.;stress
+Saya kewalahan setiap kali memikirkan klien yang sulit.;stress
+Saya tegang akibat lingkungan yang tidak mendukung.;stress
+Saya gelisah ketika harus menyelesaikan tanggung jawab yang berat.;stress
+Saya tidak bisa rileks disebabkan oleh deadline yang ketat.;stress
+Saya menangis tanpa sebab setiap menghadapi deadline yang ketat.;stress
+Saya tidak bisa tidur dengan lingkungan yang tidak mendukung.;stress
+Saya gelisah akibat kehilangan motivasi.;stress
+Saya menangis tanpa sebab disebabkan oleh pekerjaan menumpuk.;stress
+Saya kewalahan disebabkan oleh ekspektasi tinggi.;stress
+Saya terbebani secara mental ketika harus menyelesaikan presentasi besar.;stress
+Saya sangat stres saat menghadapi target yang tidak realistis.;stress
+Saya tertekan disebabkan oleh kurang tidur.;stress
+Saya merasa hampa karena terus-menerus menghadapi kurang tidur.;stress
+Saya lelah dan stres dengan presentasi besar.;stress
+Saya gelisah akibat tekanan sosial.;stress
+Saya emosi tidak stabil memikirkan masalah kesehatan.;stress
+Saya tidak bisa tidur setiap kali memikirkan deadline yang ketat.;stress
+Saya tidak bisa fokus disebabkan oleh tugas kuliah.;stress
+Saya pikiran kacau ketika harus menyelesaikan masalah keluarga.;stress
+Saya tegang ketika harus menyelesaikan tekanan dari atasan.;stress
+Saya merasa hampa memikirkan tugas kuliah.;stress
+Saya terbebani secara mental ketika memikirkan klien yang sulit.;stress
+Saya sangat stres ketika harus menyelesaikan tugas kuliah.;stress
+Saya ingin menyerah saat menghadapi klien yang sulit.;stress
+Saya tidak bisa tidur karena terus-menerus menghadapi deadline yang ketat.;stress
+Saya tidak bisa fokus memikirkan masalah kesehatan.;stress
+Saya lelah dan stres ketika harus menyelesaikan masalah keluarga.;stress
+Saya merasa hampa disebabkan oleh masalah kesehatan.;stress
+Saya menangis tanpa sebab karena ujian akhir.;stress
+Saya emosi tidak stabil di tengah deadline yang ketat.;stress
+Saya lelah dan stres setiap kali memikirkan jadwal yang padat.;stress
+Saya kewalahan karena kehilangan motivasi.;stress
+Saya pikiran kacau akibat keraguan diri.;stress
+Saya menangis tanpa sebab ketika harus menyelesaikan masalah keluarga.;stress
+Saya tidak bisa rileks dengan masalah keuangan.;stress
+Saya terbebani secara mental ketika harus menyelesaikan deadline yang ketat.;stress
+Saya emosi tidak stabil karena terus-menerus menghadapi tekanan sosial.;stress
+Saya pikiran kacau ketika memikirkan presentasi besar.;stress
+Saya tidak bisa fokus karena tanggung jawab yang berat.;stress
+Saya lelah dan stres memikirkan lingkungan yang tidak mendukung.;stress
+Saya gelisah akibat konflik di tempat kerja.;stress
+Saya pikiran kacau dengan jadwal yang padat.;stress
+Saya merasa hampa saat menghadapi pekerjaan menumpuk.;stress
+Saya tidak bisa rileks disebabkan oleh masalah keuangan.;stress
+Saya sangat stres ketika harus menyelesaikan jadwal yang padat.;stress
+Saya merasa tidak berdaya dengan rutinitas yang melelahkan.;stress
+Saya terbebani secara mental setiap menghadapi masalah keuangan.;stress
+Saya ingin menyerah karena terus-menerus menghadapi pekerjaan menumpuk.;stress
+Saya terbebani secara mental ketika memikirkan presentasi besar.;stress
+Saya tidak bisa tidur akibat kehilangan motivasi.;stress
+Saya terbebani secara mental setiap kali memikirkan tenggat waktu semakin dekat.;stress
+Saya lelah dan stres memikirkan utang yang menumpuk.;stress
+Saya merasa tidak berdaya setiap kali memikirkan ekspektasi tinggi.;stress
+Saya tidak bisa fokus akibat tekanan dari atasan.;stress
+Saya emosi tidak stabil karena terus-menerus menghadapi presentasi besar.;stress
+Saya tidak bisa tidur akibat keraguan diri.;stress
+Saya ingin menyerah dengan jadwal yang padat.;stress
+Saya tegang di tengah performa kerja yang menurun.;stress
+Saya pikiran kacau akibat lingkungan yang tidak mendukung.;stress
+Saya ingin menyerah ketika memikirkan masalah keluarga.;stress
+Saya sangat stres setiap menghadapi masalah keuangan.;stress
+Saya gelisah karena kurang tidur.;stress
+Saya sangat stres disebabkan oleh jadwal yang padat.;stress
+Saya tertekan ketika memikirkan tekanan dari atasan.;stress
+Saya ingin menyerah karena rutinitas yang melelahkan.;stress
+Saya tidak bisa rileks di tengah ekspektasi tinggi.;stress
+Saya kewalahan ketika harus menyelesaikan tekanan sosial.;stress
+Saya gelisah memikirkan tenggat waktu semakin dekat.;stress
+Saya gelisah karena terus-menerus menghadapi target yang tidak realistis.;stress
+Saya tidak bisa fokus karena terus-menerus menghadapi utang yang menumpuk.;stress
+Saya merasa tidak berdaya memikirkan deadline yang ketat.;stress
+Saya tegang ketika harus menyelesaikan ekspektasi tinggi.;stress
+Saya sangat stres dengan jadwal yang padat.;stress
+Saya merasa hampa di tengah masalah keuangan.;stress
+Saya pikiran kacau saat menghadapi tugas kuliah.;stress
+Saya tidak bisa tidur akibat tekanan sosial.;stress
+Saya tidak bisa tidur setiap menghadapi pertengkaran dengan pasangan.;stress
+Saya terbebani secara mental disebabkan oleh klien yang sulit.;stress
+Saya ingin menyerah ketika memikirkan tanggung jawab yang berat.;stress
+Saya lelah dan stres ketika memikirkan presentasi besar.;stress
+Saya tidak bisa rileks ketika memikirkan deadline yang ketat.;stress
+Saya tegang ketika harus menyelesaikan konflik di tempat kerja.;stress
+Saya ingin menyerah setiap menghadapi masalah keluarga.;stress
+Saya tidak bisa tidur akibat pertengkaran dengan pasangan.;stress
+Saya gelisah setiap menghadapi utang yang menumpuk.;stress
+Saya gelisah ketika memikirkan tanggung jawab yang berat.;stress
+Saya tidak bisa tidur disebabkan oleh ekspektasi tinggi.;stress
+Saya ingin menyerah ketika harus menyelesaikan lingkungan yang tidak mendukung.;stress
+Saya terbebani secara mental akibat keraguan diri.;stress
+Saya tertekan di tengah ekspektasi tinggi.;stress
+Saya merasa hampa dengan jadwal yang padat.;stress
+Saya kewalahan karena tekanan sosial.;stress
+Saya menangis tanpa sebab di tengah masalah kesehatan.;stress
+Saya tidak bisa tidur ketika harus menyelesaikan utang yang menumpuk.;stress
+Saya sangat stres ketika memikirkan rutinitas yang melelahkan.;stress
+Saya sangat stres akibat pertengkaran dengan pasangan.;stress
+Saya tidak bisa tidur ketika memikirkan kehilangan motivasi.;stress
+Saya tidak bisa rileks setiap kali memikirkan masalah keuangan.;stress
+Saya emosi tidak stabil memikirkan ekspektasi tinggi.;stress
+Saya lelah dan stres dengan tekanan sosial.;stress
+Saya ingin menyerah ketika memikirkan performa kerja yang menurun.;stress
+Saya tertekan ketika harus menyelesaikan kurang tidur.;stress
+Saya kewalahan setiap kali memikirkan tekanan sosial.;stress
+Saya pikiran kacau setiap kali memikirkan tanggung jawab yang berat.;stress
+Saya tidak bisa tidur dengan jadwal yang padat.;stress
+Saya menangis tanpa sebab ketika harus menyelesaikan presentasi besar.;stress
+Saya tidak bisa fokus setiap menghadapi masalah keluarga.;stress
+Saya kewalahan ketika harus menyelesaikan masalah kesehatan.;stress
+Saya merasa hampa ketika harus menyelesaikan pertengkaran dengan pasangan.;stress
+Saya kewalahan ketika harus menyelesaikan ujian akhir.;stress
+Saya tidak bisa fokus setiap menghadapi deadline yang ketat.;stress
+Saya emosi tidak stabil setiap kali memikirkan masalah keuangan.;stress
+Saya merasa hampa setiap kali memikirkan kehilangan motivasi.;stress
+Saya gelisah dengan klien yang sulit.;stress
+Saya tertekan saat menghadapi target yang tidak realistis.;stress
+Saya pikiran kacau saat menghadapi lingkungan yang tidak mendukung.;stress
+Saya tidak bisa rileks disebabkan oleh tenggat waktu semakin dekat.;stress
+Saya emosi tidak stabil akibat konflik di tempat kerja.;stress
+Saya merasa hampa setiap kali memikirkan target yang tidak realistis.;stress
+Saya tidak bisa rileks akibat jadwal yang padat.;stress
+Saya kewalahan saat menghadapi kurang tidur.;stress
+Saya merasa hampa akibat rutinitas yang melelahkan.;stress
+Saya terbebani secara mental di tengah klien yang sulit.;stress
+Saya menangis tanpa sebab disebabkan oleh presentasi besar.;stress
+Saya gelisah memikirkan kehilangan motivasi.;stress
+Saya merasa hampa saat menghadapi masalah kesehatan.;stress
+Saya ingin menyerah ketika harus menyelesaikan tekanan dari atasan.;stress
+Saya tertekan ketika harus menyelesaikan keraguan diri.;stress
+Saya terbebani secara mental memikirkan deadline yang ketat.;stress
+Saya gelisah ketika harus menyelesaikan masalah kesehatan.;stress
+Saya tidak bisa fokus setiap kali memikirkan rutinitas yang melelahkan.;stress
+Saya emosi tidak stabil akibat rutinitas yang melelahkan.;stress
+Saya ingin menyerah saat menghadapi tekanan dari atasan.;stress
+Saya lelah dan stres saat menghadapi kehilangan motivasi.;stress
+Saya merasa hampa setiap menghadapi ekspektasi tinggi.;stress
+Saya pikiran kacau dengan kurang tidur.;stress
+Saya pikiran kacau memikirkan ujian akhir.;stress
+Saya kewalahan saat menghadapi tanggung jawab yang berat.;stress
+Saya tidak bisa rileks ketika memikirkan pertengkaran dengan pasangan.;stress
+Saya merasa hampa di tengah kehilangan motivasi.;stress
+Saya kewalahan setiap menghadapi ujian akhir.;stress
+Saya ingin menyerah karena rutinitas yang melelahkan.;stress
+Saya menangis tanpa sebab setiap menghadapi ujian akhir.;stress
+Saya sangat stres disebabkan oleh ekspektasi tinggi.;stress
+Saya tegang ketika memikirkan tekanan dari atasan.;stress
+Saya merasa tidak berdaya saat menghadapi kurang tidur.;stress
+Saya sangat stres ketika harus menyelesaikan masalah keuangan.;stress
+Saya kewalahan setiap kali memikirkan performa kerja yang menurun.;stress
+Saya menangis tanpa sebab ketika harus menyelesaikan performa kerja yang menurun.;stress
+Saya menangis tanpa sebab disebabkan oleh masalah keuangan.;stress
+Saya terbebani secara mental saat menghadapi tanggung jawab yang berat.;stress
+Saya tidak bisa tidur setiap menghadapi lingkungan yang tidak mendukung.;stress
+Saya emosi tidak stabil karena tekanan dari atasan.;stress
+Saya kewalahan saat menghadapi pertengkaran dengan pasangan.;stress
+Saya ingin menyerah saat menghadapi tenggat waktu semakin dekat.;stress
+Saya kewalahan karena terus-menerus menghadapi rutinitas yang melelahkan.;stress
+Saya kewalahan ketika harus menyelesaikan rutinitas yang melelahkan.;stress
+Saya ingin menyerah disebabkan oleh kehilangan motivasi.;stress
+Saya emosi tidak stabil dengan lingkungan yang tidak mendukung.;stress
+Saya lelah dan stres ketika harus menyelesaikan lingkungan yang tidak mendukung.;stress
+Saya pikiran kacau ketika harus menyelesaikan keraguan diri.;stress
+Saya sangat stres memikirkan masalah kesehatan.;stress
+Saya menangis tanpa sebab setiap kali memikirkan konflik di tempat kerja.;stress
+Saya emosi tidak stabil akibat konflik di tempat kerja.;stress
+Saya lelah dan stres di tengah tanggung jawab yang berat.;stress
+Saya merasa tidak berdaya akibat kehilangan motivasi.;stress
+Saya lelah dan stres saat menghadapi kurang tidur.;stress
+Saya tegang setiap kali memikirkan target yang tidak realistis.;stress
+Saya kewalahan karena performa kerja yang menurun.;stress
+Saya menangis tanpa sebab dengan lingkungan yang tidak mendukung.;stress
+Saya tidak bisa tidur setiap kali memikirkan tugas kuliah.;stress
+Saya merasa hampa memikirkan deadline yang ketat.;stress
+Saya lelah dan stres di tengah ujian akhir.;stress
+Saya tertekan karena deadline yang ketat.;stress
+Saya ingin menyerah karena rutinitas yang melelahkan.;stress
+Saya menangis tanpa sebab setiap menghadapi ujian akhir.;stress
+Saya sangat stres disebabkan oleh ekspektasi tinggi.;stress
+Saya tegang ketika memikirkan tekanan dari atasan.;stress
+Saya merasa tidak berdaya saat menghadapi kurang tidur.;stress
+Saya sangat stres ketika harus menyelesaikan masalah keuangan.;stress
+Saya kewalahan setiap kali memikirkan performa kerja yang menurun.;stress
+Saya menangis tanpa sebab ketika harus menyelesaikan performa kerja yang menurun.;stress
+Saya menangis tanpa sebab disebabkan oleh masalah keuangan.;stress
+Saya terbebani secara mental saat menghadapi tanggung jawab yang berat.;stress
+Saya tidak bisa tidur setiap menghadapi lingkungan yang tidak mendukung.;stress
+Saya emosi tidak stabil karena tekanan dari atasan.;stress
+Saya kewalahan saat menghadapi pertengkaran dengan pasangan.;stress
+Saya ingin menyerah saat menghadapi tenggat waktu semakin dekat.;stress
+Saya kewalahan karena terus-menerus menghadapi rutinitas yang melelahkan.;stress
+Saya kewalahan ketika harus menyelesaikan rutinitas yang melelahkan.;stress
+Saya ingin menyerah disebabkan oleh kehilangan motivasi.;stress
+Saya emosi tidak stabil dengan lingkungan yang tidak mendukung.;stress
+Saya lelah dan stres ketika harus menyelesaikan lingkungan yang tidak mendukung.;stress
+Saya pikiran kacau ketika harus menyelesaikan keraguan diri.;stress
+Saya sangat stres memikirkan masalah kesehatan.;stress
+Saya menangis tanpa sebab setiap kali memikirkan konflik di tempat kerja.;stress
